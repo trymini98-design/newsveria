@@ -42,13 +42,19 @@ export default function AdSlot({ placement }: { placement: "banner" | "inarticle
       loader.async = true;
       container.appendChild(loader);
     } else {
-      // Unknown snippet shape: re-create any script tags so they execute.
+      // Other Adsterra shapes (e.g. Native): keep any container element the
+      // snippet defines, then re-create its script tags so they execute.
       const tpl = document.createElement("template");
       tpl.innerHTML = code;
+      tpl.content.querySelectorAll(":scope > *:not(script)").forEach((el) => {
+        container.appendChild(document.importNode(el, true));
+      });
       tpl.content.querySelectorAll("script").forEach((old) => {
         const s = document.createElement("script");
-        if (old.getAttribute("src")) s.src = old.getAttribute("src") as string;
+        const src = old.getAttribute("src");
+        if (src) s.src = src;
         else s.text = old.textContent || "";
+        if (old.getAttribute("async") !== null) s.async = true;
         container.appendChild(s);
       });
     }
