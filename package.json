@@ -1,0 +1,28 @@
+{
+  "dependencies": {
+    "next": "16.4.0",
+    "react": "19.2.0",
+    "react-dom": "19.2.0"
+  },
+  "devDependencies": {
+    "@types/node": "^24",
+    "@types/react": "^19",
+    "@types/react-dom": "^19",
+    "typescript": "^5"
+  },
+  "engines": {
+    "node": ">=20"
+  },
+  "name": "newsveria",
+  "private": true,
+  "scripts": {
+    "build": "node scripts/restore-binaries.mjs && next build",
+    "dev": "next dev",
+    "discover": "node scripts/discover.mjs",
+    "healthcheck": "node scripts/healthcheck.mjs",
+    "lint": "next lint",
+    "start": "next start",
+    "build:raw": "next build"
+  },
+  "version": "0.1.0"
+}

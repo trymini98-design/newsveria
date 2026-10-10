@@ -1,0 +1,1411 @@
+{
+  "candidates": [
+    {
+      "id": "cand-2b3762f9568b",
+      "topic": "Trump announces deal for Russian diesel as Zelensky calls it a gift to Putin",
+      "sourceName": "BBC News — World",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/cm1dwgr666wno?at_medium=RSS&at_campaign=rss",
+      "sourcePublishedAt": "2026-10-10T04:38:20.000Z",
+      "discoveredAt": "2026-10-10T12:07:42.089Z",
+      "status": "DISCOVERED",
+      "claims": []
+    },
+    {
+      "id": "cand-f9d9678cd800",
+      "topic": "Analysis: Trump's shock Russia deal highlights mounting pressure to curb fuel prices",
+      "sourceName": "BBC News — World",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/c5lye9z4xw4yo?at_medium=RSS&at_campaign=rss",
+      "sourcePublishedAt": "2026-10-09T22:30:22.000Z",
+      "discoveredAt": "2026-10-10T12:07:42.090Z",
+      "status": "DISCOVERED",
+      "claims": []
+    },
+    {
+      "id": "cand-c3ee09490263",
+      "topic": "Three men found guilty of murdering Australian brothers and US friend in Mexico",
+      "sourceName": "BBC News — World",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/cj5ynwnye009o?at_medium=RSS&at_campaign=rss",
+      "sourcePublishedAt": "2026-10-09T21:55:51.000Z",
+      "discoveredAt": "2026-10-10T12:07:42.090Z",
+      "status": "DISCOVERED",
+      "claims": []
+    },
+    {
+      "id": "cand-f94a21ce9616",
+      "topic": "Flydubai attacker began a 'drift towards extremism and terrorism' in Australia, UAE says",
+      "sourceName": "BBC News — World",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/cw3dj5n538jpo?at_medium=RSS&at_campaign=rss",
+      "sourcePublishedAt": "2026-10-10T04:34:55.000Z",
+      "discoveredAt": "2026-10-10T12:07:42.090Z",
+      "status": "DISCOVERED",
+      "claims": []
+    },
+    {
+      "id": "cand-50c38b06fc65",
+      "topic": "Hurricane Isaias downgraded after making landfall in Florida",
+      "sourceName": "BBC News — World",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/c3vgx4450v2lo?at_medium=RSS&at_campaign=rss",
+      "sourcePublishedAt": "2026-10-10T11:55:12.000Z",
+      "discoveredAt": "2026-10-10T12:07:42.090Z",
+      "status": "DISCOVERED",
+      "claims": []
+    },
+    {
+      "id": "cand-a703ac68fcb4",
+      "topic": "Rogue Anthropic AI agent gave police fake tip in unsolved murder case",
+      "sourceName": "BBC News — World",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/cqkg50j1yd5lo?at_medium=RSS&at_campaign=rss",
+      "sourcePublishedAt": "2026-10-10T10:06:23.000Z",
+      "discoveredAt": "2026-10-10T12:07:42.090Z",
+      "status": "DISCOVERED",
+      "claims": []
+    },
+    {
+      "id": "cand-43c553fc6e2c",
+      "topic": "Powerful magnitude 7.7 earthquake hits Panama, damaging buildings",
+      "sourceName": "BBC News — World",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/c620r39zdp9wo?at_medium=RSS&at_campaign=rss",
+      "sourcePublishedAt": "2026-10-09T21:26:30.000Z",
+      "discoveredAt": "2026-10-10T12:07:42.090Z",
+      "status": "PUBLISHED",
+      "claims": [],
+      "decision": "Verified vs USGS primary source + Reuters + AFP; published as art-0001 on 2026-10-10."
+    },
+    {
+      "id": "cand-86a510043ce8",
+      "topic": "'Stain on the country': Trump criticises Norway over Nobel Peace Prize",
+      "sourceName": "BBC News — World",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/ckgj921e14jdo?at_medium=RSS&at_campaign=rss",
+      "sourcePublishedAt": "2026-10-10T04:07:11.000Z",
+      "discoveredAt": "2026-10-10T12:07:42.090Z",
+      "status": "DISCOVERED",
+      "claims": []
+    },
+    {
+      "id": "cand-f7f468c11c80",
+      "topic": "US country music star Ella Langley cancels show due to 'security threat'",
+      "sourceName": "BBC News — World",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/cm79pdlywqd4o?at_medium=RSS&at_campaign=rss",
+      "sourcePublishedAt": "2026-10-10T02:02:54.000Z",
+      "discoveredAt": "2026-10-10T12:07:42.090Z",
+      "status": "DISCOVERED",
+      "claims": []
+    },
+    {
+      "id": "cand-a382270f159b",
+      "topic": "JD Vance casts doubt on firing squad execution and says he would not watch it",
+      "sourceName": "BBC News — World",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/ck20r39nl3qzo?at_medium=RSS&at_campaign=rss",
+      "sourcePublishedAt": "2026-10-09T21:50:47.000Z",
+      "discoveredAt": "2026-10-10T12:07:42.090Z",
+      "status": "DISCOVERED",
+      "claims": []
+    },
+    {
+      "id": "cand-4a93d4d6cca3",
+      "topic": "US unveils sanctions on ICC in move court condemns as 'assault on rule of law'",
+      "sourceName": "BBC News — World",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/cj20vkkx3rdvo?at_medium=RSS&at_campaign=rss",
+      "sourcePublishedAt": "2026-10-09T18:40:10.000Z",
+      "discoveredAt": "2026-10-10T12:07:42.090Z",
+      "status": "DISCOVERED",
+      "claims": []
+    },
+    {
+      "id": "cand-5719ad0fbdbc",
+      "topic": "Man named Hitler Mussolini elected mayor in Peru",
+      "sourceName": "BBC News — World",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/cmdxwn9dr42yo?at_medium=RSS&at_campaign=rss",
+      "sourcePublishedAt": "2026-10-09T16:32:22.000Z",
+      "discoveredAt": "2026-10-10T12:07:42.090Z",
+      "status": "DISCOVERED",
+      "claims": []
+    },
+    {
+      "id": "cand-d7528ef91e94",
+      "topic": "Russian search engine Yandex struggles after Ukrainian strikes on data centres",
+      "sourceName": "BBC News — World",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/c68xzqqn4ekro?at_medium=RSS&at_campaign=rss",
+      "sourcePublishedAt": "2026-10-09T17:14:44.000Z",
+      "discoveredAt": "2026-10-10T12:07:42.090Z",
+      "status": "DISCOVERED",
+      "claims": []
+    },
+    {
+      "id": "cand-9d41208b8446",
+      "topic": "Ethiopia warns Eritrea it will defend itself after troops cross border",
+      "sourceName": "BBC News — World",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/c65ynvw250y1o?at_medium=RSS&at_campaign=rss",
+      "sourcePublishedAt": "2026-10-09T15:24:43.000Z",
+      "discoveredAt": "2026-10-10T12:07:42.090Z",
+      "status": "DISCOVERED",
+      "claims": []
+    },
+    {
+      "id": "cand-e436fd9be388",
+      "topic": "Commentator Katie Zacharia picked as new White House press secretary",
+      "sourceName": "BBC News — World",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/c5rmy73zr0rro?at_medium=RSS&at_campaign=rss",
+      "sourcePublishedAt": "2026-10-09T22:41:21.000Z",
+      "discoveredAt": "2026-10-10T12:07:42.091Z",
+      "status": "DISCOVERED",
+      "claims": []
+    },
+    {
+      "id": "cand-4a6f990f10b1",
+      "topic": "Michigan Senate debate spotlights increase in anti-Muslim rhetoric as midterms race heats up",
+      "sourceName": "BBC News — US & Canada",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/ck5yndgnwez1o?at_medium=RSS&at_campaign=rss",
+      "sourcePublishedAt": "2026-10-09T19:45:29.000Z",
+      "discoveredAt": "2026-10-10T12:07:42.888Z",
+      "status": "DISCOVERED",
+      "claims": []
+    },
+    {
+      "id": "cand-909eaf61d64e",
+      "topic": "US immigration officials defend ICE agents who shot man in same car as child",
+      "sourceName": "BBC News — US & Canada",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/cq78px5y1zmzo?at_medium=RSS&at_campaign=rss",
+      "sourcePublishedAt": "2026-10-10T00:13:12.000Z",
+      "discoveredAt": "2026-10-10T12:07:42.888Z",
+      "status": "DISCOVERED",
+      "claims": []
+    },
+    {
+      "id": "cand-493164146114",
+      "topic": "Watch: 'I am Jane Doe' protests across US call for end to sexual violence",
+      "sourceName": "BBC News — US & Canada",
+      "sourceUrl": "https://www.bbc.co.uk/news/videos/cmy83pp3904vo?at_medium=RSS&at_campaign=rss",
+      "sourcePublishedAt": "2026-10-09T16:19:36.000Z",
+      "discoveredAt": "2026-10-10T12:07:42.888Z",
+      "status": "DISCOVERED",
+      "claims": []
+    },
+    {
+      "id": "cand-753fc11ffd69",
+      "topic": "Anthropic bans users from being 'cruel' to its AI systems",
+      "sourceName": "BBC News — US & Canada",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/c6j9k1l72wkgo?at_medium=RSS&at_campaign=rss",
+      "sourcePublishedAt": "2026-10-09T12:34:27.000Z",
+      "discoveredAt": "2026-10-10T12:07:42.888Z",
+      "status": "DISCOVERED",
+      "claims": []
+    },
+    {
+      "id": "cand-7343e10e8dea",
+      "topic": "Firing squad execution to be livestreamed, Pentagon says",
+      "sourceName": "BBC News — US & Canada",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/cmy0r96xygx6o?at_medium=RSS&at_campaign=rss",
+      "sourcePublishedAt": "2026-10-09T19:26:48.000Z",
+      "discoveredAt": "2026-10-10T12:07:42.888Z",
+      "status": "DISCOVERED",
+      "claims": []
+    },
+    {
+      "id": "cand-176646be8a87",
+      "topic": "Fort Hood survivor supports gunman's execution by firing squad but questions livestream",
+      "sourceName": "BBC News — US & Canada",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/ck1wvqw4lzdvo?at_medium=RSS&at_campaign=rss",
+      "sourcePublishedAt": "2026-10-09T09:43:22.000Z",
+      "discoveredAt": "2026-10-10T12:07:42.888Z",
+      "status": "DISCOVERED",
+      "claims": []
+    },
+    {
+      "id": "cand-9ac693013f73",
+      "topic": "Hurricane Isaias strengthens as it heads towards land",
+      "sourceName": "BBC News — US & Canada",
+      "sourceUrl": "https://www.bbc.co.uk/news/videos/cw073kg2dgr9o?at_medium=RSS&at_campaign=rss",
+      "sourcePublishedAt": "2026-10-09T14:23:57.000Z",
+      "discoveredAt": "2026-10-10T12:07:42.888Z",
+      "status": "DISCOVERED",
+      "claims": []
+    },
+    {
+      "id": "cand-4bdabecd8e9b",
+      "topic": "ICE agent shoots man in New York City",
+      "sourceName": "BBC News — US & Canada",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/c59vzk9yypn3o?at_medium=RSS&at_campaign=rss",
+      "sourcePublishedAt": "2026-10-09T12:18:52.000Z",
+      "discoveredAt": "2026-10-10T12:07:42.888Z",
+      "status": "DISCOVERED",
+      "claims": []
+    },
+    {
+      "id": "cand-df4c3b2942d9",
+      "topic": "BBC breaks down video of the aftermath of New York City ICE shooting",
+      "sourceName": "BBC News — US & Canada",
+      "sourceUrl": "https://www.bbc.co.uk/news/videos/cm36905w7zl4o?at_medium=RSS&at_campaign=rss",
+      "sourcePublishedAt": "2026-10-09T20:20:09.000Z",
+      "discoveredAt": "2026-10-10T12:07:42.888Z",
+      "status": "DISCOVERED",
+      "claims": []
+    },
+    {
+      "id": "cand-7d6648536021",
+      "topic": "Boots has a new owner: Three ways it could affect you",
+      "sourceName": "BBC News — Business",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/c63djxry8124o?at_medium=RSS&at_campaign=rss",
+      "sourcePublishedAt": "2026-10-09T23:01:14.000Z",
+      "discoveredAt": "2026-10-10T12:07:43.497Z",
+      "status": "DISCOVERED",
+      "claims": []
+    },
+    {
+      "id": "cand-514592d84018",
+      "topic": "Burnham promises to curb non-compete rules in job contracts",
+      "sourceName": "BBC News — Business",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/c63r5wx8z8wzo?at_medium=RSS&at_campaign=rss",
+      "sourcePublishedAt": "2026-10-09T16:15:30.000Z",
+      "discoveredAt": "2026-10-10T12:07:43.497Z",
+      "status": "DISCOVERED",
+      "claims": []
+    },
+    {
+      "id": "cand-47c9360d1788",
+      "topic": "Ex-Deutsche Bank trader jailed for rigging rates has conviction overturned",
+      "sourceName": "BBC News — Business",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/cqgkvj10k6lno?at_medium=RSS&at_campaign=rss",
+      "sourcePublishedAt": "2026-10-09T14:36:35.000Z",
+      "discoveredAt": "2026-10-10T12:07:43.497Z",
+      "status": "DISCOVERED",
+      "claims": []
+    },
+    {
+      "id": "cand-70f81eccdd6f",
+      "topic": "I've been with my boyfriend for two years and don't know his salary",
+      "sourceName": "BBC News — Business",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/c8wyz69r0nnpo?at_medium=RSS&at_campaign=rss",
+      "sourcePublishedAt": "2026-10-09T09:37:38.000Z",
+      "discoveredAt": "2026-10-10T12:07:43.497Z",
+      "status": "DISCOVERED",
+      "claims": []
+    },
+    {
+      "id": "cand-498012a554f1",
+      "topic": "Trump wants to reduce the cost of fuel as the midterms loom - will it work?",
+      "sourceName": "BBC News — Business",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/cv2d6x749lwro?at_medium=RSS&at_campaign=rss",
+      "sourcePublishedAt": "2026-10-09T19:32:50.000Z",
+      "discoveredAt": "2026-10-10T12:07:43.497Z",
+      "status": "DISCOVERED",
+      "claims": []
+    },
+    {
+      "id": "cand-84b5c8a1ead3",
+      "topic": "'Add me on WhatsApp' scam calls to be investigated",
+      "sourceName": "BBC News — Business",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/cqd09g4l2k9yo?at_medium=RSS&at_campaign=rss",
+      "sourcePublishedAt": "2026-10-08T23:05:09.000Z",
+      "discoveredAt": "2026-10-10T12:07:43.497Z",
+      "status": "DISCOVERED",
+      "claims": []
+    },
+    {
+      "id": "cand-8e250ba036a1",
+      "topic": "Fired OpenAI researchers say they were let go for 'prioritising safety'",
+      "sourceName": "BBC News — Business",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/cvlydn8d3lkjo?at_medium=RSS&at_campaign=rss",
+      "sourcePublishedAt": "2026-10-09T09:30:49.000Z",
+      "discoveredAt": "2026-10-10T12:07:43.497Z",
+      "status": "DISCOVERED",
+      "claims": []
+    },
+    {
+      "id": "cand-ca8873bc6483",
+      "topic": "White House blocks Microsoft from foreign worker hiring programme",
+      "sourceName": "BBC News — Business",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/ck5yngl2y4gpo?at_medium=RSS&at_campaign=rss",
+      "sourcePublishedAt": "2026-10-08T21:37:35.000Z",
+      "discoveredAt": "2026-10-10T12:07:43.497Z",
+      "status": "DISCOVERED",
+      "claims": []
+    },
+    {
+      "id": "cand-148d33ec138b",
+      "topic": "Mark Zuckerberg has an image problem - so why is Meta's business booming?",
+      "sourceName": "BBC News — Business",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/cq8rzjv8g7ejo?at_medium=RSS&at_campaign=rss",
+      "sourcePublishedAt": "2026-10-08T23:14:02.000Z",
+      "discoveredAt": "2026-10-10T12:07:43.497Z",
+      "status": "DISCOVERED",
+      "claims": []
+    },
+    {
+      "id": "cand-70276641de7c",
+      "topic": "'You cannot build this car anywhere else in the world'",
+      "sourceName": "BBC News — Business",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/cmx2q7rlxxw8o?at_medium=RSS&at_campaign=rss",
+      "sourcePublishedAt": "2026-10-09T05:11:49.000Z",
+      "discoveredAt": "2026-10-10T12:07:43.497Z",
+      "status": "DISCOVERED",
+      "claims": []
+    },
+    {
+      "id": "cand-782cef128aae",
+      "topic": "Everton owners consider selling club two years after takeover",
+      "sourceName": "BBC News — Business",
+      "sourceUrl": "https://www.bbc.co.uk/sport/football/articles/cmvg9pgg4keyo?at_medium=RSS&at_campaign=rss",
+      "sourcePublishedAt": "2026-10-09T08:23:50.000Z",
+      "discoveredAt": "2026-10-10T12:07:43.497Z",
+      "status": "DISCOVERED",
+      "claims": []
+    },
+    {
+      "id": "cand-fe6a8c17ea70",
+      "topic": "Nvidia-backed data centre firm scraps IPO as AI valuation concerns deepen",
+      "sourceName": "BBC News — Business",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/ck9dzpw4ll8po?at_medium=RSS&at_campaign=rss",
+      "sourcePublishedAt": "2026-10-09T07:14:30.000Z",
+      "discoveredAt": "2026-10-10T12:07:43.497Z",
+      "status": "DISCOVERED",
+      "claims": []
+    },
+    {
+      "id": "cand-270dbf5ff757",
+      "topic": "How drones are hunting fires hidden beneath the Cairngorms",
+      "sourceName": "BBC News — Technology",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/cwm24n9v8rdeo?at_medium=RSS&at_campaign=rss",
+      "sourcePublishedAt": "2026-10-10T09:31:14.000Z",
+      "discoveredAt": "2026-10-10T12:07:44.060Z",
+      "status": "DISCOVERED",
+      "claims": []
+    },
+    {
+      "id": "cand-21442acb9316",
+      "topic": "Prize-winning image which sparked backlash was AI-generated, Nikon rules",
+      "sourceName": "BBC News — Technology",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/cr86z33pdy9vo?at_medium=RSS&at_campaign=rss",
+      "sourcePublishedAt": "2026-10-09T15:32:30.000Z",
+      "discoveredAt": "2026-10-10T12:07:44.060Z",
+      "status": "DISCOVERED",
+      "claims": []
+    },
+    {
+      "id": "cand-3606b0f5cb30",
+      "topic": "'Careless use of AI is the real threat - not the ghost stories'",
+      "sourceName": "BBC News — Technology",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/cjzxz9yp1kq9o?at_medium=RSS&at_campaign=rss",
+      "sourcePublishedAt": "2026-10-09T07:05:01.000Z",
+      "discoveredAt": "2026-10-10T12:07:44.061Z",
+      "status": "DISCOVERED",
+      "claims": []
+    },
+    {
+      "id": "cand-8c56f41da9da",
+      "topic": "Why are more roofs not made of solar tiles?",
+      "sourceName": "BBC News — Technology",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/cdr7n610rmzo?at_medium=RSS&at_campaign=rss",
+      "sourcePublishedAt": "2026-10-08T23:09:56.000Z",
+      "discoveredAt": "2026-10-10T12:07:44.061Z",
+      "status": "DISCOVERED",
+      "claims": []
+    },
+    {
+      "id": "cand-1097aba673ce",
+      "topic": "Asos hackers took more personal details than first revealed, BBC finds",
+      "sourceName": "BBC News — Technology",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/c3zxjdw5ywgpo?at_medium=RSS&at_campaign=rss",
+      "sourcePublishedAt": "2026-10-08T16:29:33.000Z",
+      "discoveredAt": "2026-10-10T12:07:44.061Z",
+      "status": "DISCOVERED",
+      "claims": []
+    },
+    {
+      "id": "cand-55dfc7be6ae6",
+      "topic": "AI chip boom pushes Samsung profits to record $80bn",
+      "sourceName": "BBC News — Technology",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/c687z8127302o?at_medium=RSS&at_campaign=rss",
+      "sourcePublishedAt": "2026-10-08T01:59:54.000Z",
+      "discoveredAt": "2026-10-10T12:07:44.061Z",
+      "status": "DISCOVERED",
+      "claims": []
+    },
+    {
+      "id": "cand-4f9780f83c88",
+      "topic": "Fuel prices added to Google Maps as petrol and diesel costs soar",
+      "sourceName": "BBC News — Technology",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/ckx2d4ddjn2eo?at_medium=RSS&at_campaign=rss",
+      "sourcePublishedAt": "2026-10-07T23:50:29.000Z",
+      "discoveredAt": "2026-10-10T12:07:44.061Z",
+      "status": "DISCOVERED",
+      "claims": []
+    },
+    {
+      "id": "cand-ee1064a6898c",
+      "topic": "OpenAI says teen ChatGPT use limited but research finds it an 'unacceptable risk'",
+      "sourceName": "BBC News — Technology",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/cwz0vrmxkvy4o?at_medium=RSS&at_campaign=rss",
+      "sourcePublishedAt": "2026-10-07T20:34:17.000Z",
+      "discoveredAt": "2026-10-10T12:07:44.061Z",
+      "status": "DISCOVERED",
+      "claims": []
+    },
+    {
+      "id": "cand-54c1d68c878b",
+      "topic": "Tech Life",
+      "sourceName": "BBC News — Technology",
+      "sourceUrl": "https://www.bbc.co.uk/sounds/play/w3ct8jyj?at_medium=RSS&at_campaign=rss",
+      "sourcePublishedAt": "2026-10-06T19:30:00.000Z",
+      "discoveredAt": "2026-10-10T12:07:44.061Z",
+      "status": "DISCOVERED",
+      "claims": []
+    },
+    {
+      "id": "cand-490754c33ab0",
+      "topic": "Tech Life",
+      "sourceName": "BBC News — Technology",
+      "sourceUrl": "https://www.bbc.co.uk/sounds/play/w3ct8jyh?at_medium=RSS&at_campaign=rss",
+      "sourcePublishedAt": "2026-09-29T19:30:00.000Z",
+      "discoveredAt": "2026-10-10T12:07:44.061Z",
+      "status": "DISCOVERED",
+      "claims": []
+    },
+    {
+      "id": "cand-92dbbdf72de6",
+      "topic": "'People don't think recycling at work is part of their job description'",
+      "sourceName": "BBC News — Science & Environment",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/cqe8rn65yj2ko?at_medium=RSS&at_campaign=rss",
+      "sourcePublishedAt": "2026-10-09T19:11:27.000Z",
+      "discoveredAt": "2026-10-10T12:07:44.642Z",
+      "status": "DISCOVERED",
+      "claims": []
+    },
+    {
+      "id": "cand-fcd80d737e54",
+      "topic": "Isaias becomes major category three storm before landfall",
+      "sourceName": "BBC News — Science & Environment",
+      "sourceUrl": "https://www.bbc.co.uk/news/videos/cmewe552de72o?at_medium=RSS&at_campaign=rss",
+      "sourcePublishedAt": "2026-10-09T16:46:32.000Z",
+      "discoveredAt": "2026-10-10T12:07:44.642Z",
+      "status": "DISCOVERED",
+      "claims": []
+    },
+    {
+      "id": "cand-fa3ff3c2b15a",
+      "topic": "'Tropical jungle' of wallabies, porcupines and parrots must move after neighbours complain",
+      "sourceName": "BBC News — Science & Environment",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/cqn8d5gj8jd3o?at_medium=RSS&at_campaign=rss",
+      "sourcePublishedAt": "2026-10-09T13:01:57.000Z",
+      "discoveredAt": "2026-10-10T12:07:44.642Z",
+      "status": "DISCOVERED",
+      "claims": []
+    },
+    {
+      "id": "cand-beef92bb56d4",
+      "topic": "Hurricane Isaias strengthens to a major category three storm",
+      "sourceName": "BBC News — Science & Environment",
+      "sourceUrl": "https://www.bbc.co.uk/weather/articles/cw146l6pnvx0o?at_medium=RSS&at_campaign=rss",
+      "sourcePublishedAt": "2026-10-09T12:54:28.000Z",
+      "discoveredAt": "2026-10-10T12:07:44.642Z",
+      "status": "DISCOVERED",
+      "claims": []
+    },
+    {
+      "id": "cand-b24fc28ce8fa",
+      "topic": "£15m spent cleaning illegal waste supersite in ancient woodland",
+      "sourceName": "BBC News — Science & Environment",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/cq98zdp612pko?at_medium=RSS&at_campaign=rss",
+      "sourcePublishedAt": "2026-10-09T05:00:23.000Z",
+      "discoveredAt": "2026-10-10T12:07:44.642Z",
+      "status": "DISCOVERED",
+      "claims": []
+    },
+    {
+      "id": "cand-a47520a0f207",
+      "topic": "Will El Niño and the polar vortex bring snow to the UK this winter?",
+      "sourceName": "BBC News — Science & Environment",
+      "sourceUrl": "https://www.bbc.co.uk/weather/articles/c6pqg9j7d2w7o?at_medium=RSS&at_campaign=rss",
+      "sourcePublishedAt": "2026-10-08T23:03:33.000Z",
+      "discoveredAt": "2026-10-10T12:07:44.642Z",
+      "status": "DISCOVERED",
+      "claims": []
+    },
+    {
+      "id": "cand-cb877fb25beb",
+      "topic": "BBC on Hurricane Isaias and its expected Gulf Coast landfall",
+      "sourceName": "BBC News — Science & Environment",
+      "sourceUrl": "https://www.bbc.co.uk/news/videos/ckz65l2gne1po?at_medium=RSS&at_campaign=rss",
+      "sourcePublishedAt": "2026-10-08T19:39:32.000Z",
+      "discoveredAt": "2026-10-10T12:07:44.642Z",
+      "status": "DISCOVERED",
+      "claims": []
+    },
+    {
+      "id": "cand-c704a9a71b4a",
+      "topic": "More than 800,000 hours of sewage spills in Wales last year, report claims",
+      "sourceName": "BBC News — Science & Environment",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/cqwy74e8nyggo?at_medium=RSS&at_campaign=rss",
+      "sourcePublishedAt": "2026-10-08T18:05:35.000Z",
+      "discoveredAt": "2026-10-10T12:07:44.642Z",
+      "status": "DISCOVERED",
+      "claims": []
+    },
+    {
+      "id": "cand-d8170ab6c750",
+      "topic": "Asbestos mystery leaves beloved beach closed",
+      "sourceName": "BBC News — Science & Environment",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/c574p9rdk2mko?at_medium=RSS&at_campaign=rss",
+      "sourcePublishedAt": "2026-10-10T06:16:06.000Z",
+      "discoveredAt": "2026-10-10T12:07:44.642Z",
+      "status": "DISCOVERED",
+      "claims": []
+    },
+    {
+      "id": "cand-c7169f4b78a3",
+      "topic": "Chemicals at former fuel depot 'have been removed'",
+      "sourceName": "BBC News — Science & Environment",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/cq8r6nzp4230o?at_medium=RSS&at_campaign=rss",
+      "sourcePublishedAt": "2026-10-10T06:13:15.000Z",
+      "discoveredAt": "2026-10-10T12:07:44.642Z",
+      "status": "DISCOVERED",
+      "claims": []
+    },
+    {
+      "id": "cand-79758bfa85ca",
+      "topic": "Autism, ADHD and mental health review: What you need to know",
+      "sourceName": "BBC News — Health",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/crn8wyl4n42yo?at_medium=RSS&at_campaign=rss",
+      "sourcePublishedAt": "2026-10-09T12:16:11.000Z",
+      "discoveredAt": "2026-10-10T12:07:45.114Z",
+      "status": "DISCOVERED",
+      "claims": []
+    },
+    {
+      "id": "cand-3e654f309279",
+      "topic": "From the workplace to pop culture - why how we view women's anger is changing",
+      "sourceName": "BBC News — Health",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/cmg47lx1pqlko?at_medium=RSS&at_campaign=rss",
+      "sourcePublishedAt": "2026-10-09T11:40:22.000Z",
+      "discoveredAt": "2026-10-10T12:07:45.114Z",
+      "status": "DISCOVERED",
+      "claims": []
+    },
+    {
+      "id": "cand-95d6bd219c92",
+      "topic": "ADHD and autism at risk of over-diagnosis, says government review",
+      "sourceName": "BBC News — Health",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/crkg7n1ypj24o?at_medium=RSS&at_campaign=rss",
+      "sourcePublishedAt": "2026-10-08T23:01:30.000Z",
+      "discoveredAt": "2026-10-10T12:07:45.115Z",
+      "status": "DISCOVERED",
+      "claims": []
+    },
+    {
+      "id": "cand-30f94e3d489e",
+      "topic": "Harry says he 'slipped into depression' after leaving UK",
+      "sourceName": "BBC News — Health",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/c623dv9n93evo?at_medium=RSS&at_campaign=rss",
+      "sourcePublishedAt": "2026-10-08T18:55:41.000Z",
+      "discoveredAt": "2026-10-10T12:07:45.115Z",
+      "status": "DISCOVERED",
+      "claims": []
+    },
+    {
+      "id": "cand-03b719846fc3",
+      "topic": "'Ominous signs' of winter pressures as NHS waiting list grows",
+      "sourceName": "BBC News — Health",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/cxnv03e9nmp4o?at_medium=RSS&at_campaign=rss",
+      "sourcePublishedAt": "2026-10-08T12:42:56.000Z",
+      "discoveredAt": "2026-10-10T12:07:45.115Z",
+      "status": "DISCOVERED",
+      "claims": []
+    },
+    {
+      "id": "cand-bbf38f8316d2",
+      "topic": "'I was blamed for my baby's death, now NHS needs to change'",
+      "sourceName": "BBC News — Health",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/cxe8ry571z9eo?at_medium=RSS&at_campaign=rss",
+      "sourcePublishedAt": "2026-10-08T05:42:43.000Z",
+      "discoveredAt": "2026-10-10T12:07:45.115Z",
+      "status": "DISCOVERED",
+      "claims": []
+    },
+    {
+      "id": "cand-d8e8aaa1156a",
+      "topic": "New global guidelines warn against obesity drugs for children under 10",
+      "sourceName": "BBC News — Health",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/crvg904yw397o?at_medium=RSS&at_campaign=rss",
+      "sourcePublishedAt": "2026-10-07T08:07:54.000Z",
+      "discoveredAt": "2026-10-10T12:07:45.115Z",
+      "status": "DISCOVERED",
+      "claims": []
+    },
+    {
+      "id": "cand-411a6beac96e",
+      "topic": "'That nagging feeling of dread': Is 'hang-xiety' a real thing?",
+      "sourceName": "BBC News — Health",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/c32l4nqx5wvko?at_medium=RSS&at_campaign=rss",
+      "sourcePublishedAt": "2026-10-06T23:31:52.000Z",
+      "discoveredAt": "2026-10-10T12:07:45.115Z",
+      "status": "DISCOVERED",
+      "claims": []
+    },
+    {
+      "id": "cand-d7c0492f4b4b",
+      "topic": "One million UK people who have never smoked are now vaping",
+      "sourceName": "BBC News — Health",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/cwe8ldgzj277o?at_medium=RSS&at_campaign=rss",
+      "sourcePublishedAt": "2026-10-06T10:09:28.000Z",
+      "discoveredAt": "2026-10-10T12:07:45.115Z",
+      "status": "DISCOVERED",
+      "claims": []
+    },
+    {
+      "id": "cand-0a3c37b221a1",
+      "topic": "Ten NHS trusts referred over monitoring consent",
+      "sourceName": "BBC News — Health",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/cxm234pzj952o?at_medium=RSS&at_campaign=rss",
+      "sourcePublishedAt": "2026-10-06T05:42:35.000Z",
+      "discoveredAt": "2026-10-10T12:07:45.115Z",
+      "status": "DISCOVERED",
+      "claims": []
+    },
+    {
+      "id": "cand-dc7779782bf4",
+      "topic": "Nobel Prize awarded for revealing inner workings of the brain",
+      "sourceName": "BBC News — Health",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/c5ev3ypmzly8o?at_medium=RSS&at_campaign=rss",
+      "sourcePublishedAt": "2026-10-05T11:04:37.000Z",
+      "discoveredAt": "2026-10-10T12:07:45.115Z",
+      "status": "DISCOVERED",
+      "claims": []
+    },
+    {
+      "id": "cand-85c09d3e6e95",
+      "topic": "Early Lampard findings could come within weeks",
+      "sourceName": "BBC News — Health",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/cmp3k32k778ko?at_medium=RSS&at_campaign=rss",
+      "sourcePublishedAt": "2026-10-05T05:20:22.000Z",
+      "discoveredAt": "2026-10-10T12:07:45.115Z",
+      "status": "DISCOVERED",
+      "claims": []
+    },
+    {
+      "id": "cand-9324e6400df4",
+      "topic": "Open wounds and eyes that can't close - women warn about cheap bleph eyelid surgery",
+      "sourceName": "BBC News — Health",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/c9rk3rdp644mo?at_medium=RSS&at_campaign=rss",
+      "sourcePublishedAt": "2026-09-23T05:00:25.000Z",
+      "discoveredAt": "2026-10-10T12:07:45.115Z",
+      "status": "DISCOVERED",
+      "claims": []
+    },
+    {
+      "id": "cand-06d15c39c700",
+      "topic": "'People forget we exist': Why older LGBTQ+ people fear losing identity",
+      "sourceName": "BBC News — Health",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/c62e04wkj803o?at_medium=RSS&at_campaign=rss",
+      "sourcePublishedAt": "2026-09-19T23:18:46.000Z",
+      "discoveredAt": "2026-10-10T12:07:45.115Z",
+      "status": "DISCOVERED",
+      "claims": []
+    },
+    {
+      "id": "cand-26870b962ad7",
+      "topic": "'Like a hangover': Why your partner's snoring could be impacting your health",
+      "sourceName": "BBC News — Health",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/c62jnyn2n2do?at_medium=RSS&at_campaign=rss",
+      "sourcePublishedAt": "2026-09-10T23:56:18.000Z",
+      "discoveredAt": "2026-10-10T12:07:45.115Z",
+      "status": "DISCOVERED",
+      "claims": []
+    },
+    {
+      "id": "cand-b007a8486565",
+      "topic": "Screams, haunting scenes and deadly hide-and-seek, as Celebrity Traitors heats up",
+      "sourceName": "BBC News — Entertainment & Arts",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/cwr5y3m59027o?at_medium=RSS&at_campaign=rss",
+      "sourcePublishedAt": "2026-10-10T11:46:35.000Z",
+      "discoveredAt": "2026-10-10T12:07:45.835Z",
+      "status": "DISCOVERED",
+      "claims": []
+    },
+    {
+      "id": "cand-c4bf66fd6cc2",
+      "topic": "Ashe was too scared to cancel her wedding - the story became a hit song",
+      "sourceName": "BBC News — Entertainment & Arts",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/cx30en32gd39o?at_medium=RSS&at_campaign=rss",
+      "sourcePublishedAt": "2026-10-09T23:01:22.000Z",
+      "discoveredAt": "2026-10-10T12:07:45.835Z",
+      "status": "DISCOVERED",
+      "claims": []
+    },
+    {
+      "id": "cand-a6dbc6d95654",
+      "topic": "Alison Hammond: 'I thought I was having heart attack on air'",
+      "sourceName": "BBC News — Entertainment & Arts",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/cq5yn75pgyjjo?at_medium=RSS&at_campaign=rss",
+      "sourcePublishedAt": "2026-10-09T10:52:34.000Z",
+      "discoveredAt": "2026-10-10T12:07:45.835Z",
+      "status": "DISCOVERED",
+      "claims": []
+    },
+    {
+      "id": "cand-a36ec6d9da5e",
+      "topic": "Olivia Colman on viral Wicker memes: 'This has never happened to me before'",
+      "sourceName": "BBC News — Entertainment & Arts",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/cry4xpyzl7qwo?at_medium=RSS&at_campaign=rss",
+      "sourcePublishedAt": "2026-10-08T23:08:49.000Z",
+      "discoveredAt": "2026-10-10T12:07:45.835Z",
+      "status": "DISCOVERED",
+      "claims": []
+    },
+    {
+      "id": "cand-b21ed3bfdc9c",
+      "topic": "Crazy Rich Asians to return as TV show with original film's stars",
+      "sourceName": "BBC News — Entertainment & Arts",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/cm5yne8k6zw8o?at_medium=RSS&at_campaign=rss",
+      "sourcePublishedAt": "2026-10-09T10:54:21.000Z",
+      "discoveredAt": "2026-10-10T12:07:45.835Z",
+      "status": "DISCOVERED",
+      "claims": []
+    },
+    {
+      "id": "cand-354e2d6beeec",
+      "topic": "Two Renoir paintings stolen from French museum are recovered",
+      "sourceName": "BBC News — Entertainment & Arts",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/cwkg50v1vn07o?at_medium=RSS&at_campaign=rss",
+      "sourcePublishedAt": "2026-10-09T14:25:18.000Z",
+      "discoveredAt": "2026-10-10T12:07:45.835Z",
+      "status": "DISCOVERED",
+      "claims": []
+    },
+    {
+      "id": "cand-e16d7ff6f1da",
+      "topic": "Hollywood actor Luke Evans on 'joyous' four months filming in rainy Wales",
+      "sourceName": "BBC News — Entertainment & Arts",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/cqde873038pwo?at_medium=RSS&at_campaign=rss",
+      "sourcePublishedAt": "2026-10-09T18:02:29.000Z",
+      "discoveredAt": "2026-10-10T12:07:45.835Z",
+      "status": "DISCOVERED",
+      "claims": []
+    },
+    {
+      "id": "cand-098d569878f4",
+      "topic": "Video game Cyberpunk 2077 to get live-action movie adaptation",
+      "sourceName": "BBC News — Entertainment & Arts",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/c60e048r02lgo?at_medium=RSS&at_campaign=rss",
+      "sourcePublishedAt": "2026-10-09T10:08:56.000Z",
+      "discoveredAt": "2026-10-10T12:07:45.835Z",
+      "status": "DISCOVERED",
+      "claims": []
+    },
+    {
+      "id": "cand-3cd56477a4ae",
+      "topic": "Outspoken Indian actor Nana Patekar dies suddenly at 75",
+      "sourceName": "BBC News — Entertainment & Arts",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/cj3vqr5rknpeo?at_medium=RSS&at_campaign=rss",
+      "sourcePublishedAt": "2026-10-08T20:38:11.000Z",
+      "discoveredAt": "2026-10-10T12:07:45.835Z",
+      "status": "DISCOVERED",
+      "claims": []
+    },
+    {
+      "id": "cand-b68c227f1559",
+      "topic": "'Bold and inventive' Canadian poet Anne Carson wins Nobel Literature Prize",
+      "sourceName": "BBC News — Entertainment & Arts",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/cq4g1j54nepyo?at_medium=RSS&at_campaign=rss",
+      "sourcePublishedAt": "2026-10-08T14:33:23.000Z",
+      "discoveredAt": "2026-10-10T12:07:45.835Z",
+      "status": "DISCOVERED",
+      "claims": []
+    },
+    {
+      "id": "cand-45c680e797f0",
+      "topic": "BBC to cut raft of Radio 4 programmes including You and Yours",
+      "sourceName": "BBC News — Entertainment & Arts",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/cmlyknj8wj30o?at_medium=RSS&at_campaign=rss",
+      "sourcePublishedAt": "2026-10-08T08:30:10.000Z",
+      "discoveredAt": "2026-10-10T12:07:45.835Z",
+      "status": "DISCOVERED",
+      "claims": []
+    },
+    {
+      "id": "cand-185f19e1d348",
+      "topic": "Music group with learning difficulties fulfils late MP's Broadway dream",
+      "sourceName": "BBC News — Entertainment & Arts",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/c6vg0mngjvljo?at_medium=RSS&at_campaign=rss",
+      "sourcePublishedAt": "2026-10-09T05:17:20.000Z",
+      "discoveredAt": "2026-10-10T12:07:45.835Z",
+      "status": "DISCOVERED",
+      "claims": []
+    },
+    {
+      "id": "cand-e15766c26ad9",
+      "topic": "Actor Simon Pegg reveals ADHD diagnosis: 'It's just who I am'",
+      "sourceName": "BBC News — Entertainment & Arts",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/ckn9rg24drw1o?at_medium=RSS&at_campaign=rss",
+      "sourcePublishedAt": "2026-10-08T09:35:30.000Z",
+      "discoveredAt": "2026-10-10T12:07:45.835Z",
+      "status": "DISCOVERED",
+      "claims": []
+    },
+    {
+      "id": "cand-16698a08241d",
+      "topic": "Cavern Club sold to new owners after 35 years",
+      "sourceName": "BBC News — Entertainment & Arts",
+      "sourceUrl": "https://www.bbc.co.uk/news/articles/c60mevxzen3lo?at_medium=RSS&at_campaign=rss",
+      "sourcePublishedAt": "2026-10-08T11:25:39.000Z",
+      "discoveredAt": "2026-10-10T12:07:45.835Z",
+      "status": "DISCOVERED",
+      "claims": []
+    },
+    {
+      "id": "cand-e0969a38aaa1",
+      "topic": "Renshaw century puts Australia on top against South Africa - scorecard",
+      "sourceName": "BBC Sport",
+      "sourceUrl": "https://www.bbc.co.uk/sport/cricket/scorecard/e-236997?at_medium=RSS&at_campaign=rss",
+      "sourcePublishedAt": "2026-10-10T00:00:00.000Z",
+      "discoveredAt": "2026-10-10T12:07:46.759Z",
+      "status": "DISCOVERED",
+      "claims": []
+    },
+    {
+      "id": "cand-33f3728b6c31",
+      "topic": "Verstappen wins sprint after Russell crashes out",
+      "sourceName": "BBC Sport",
+      "sourceUrl": "https://www.bbc.co.uk/sport/formula1/articles/cwn73gmz78reo?at_medium=RSS&at_campaign=rss",
+      "sourcePublishedAt": "2026-10-10T10:53:03.000Z",
+      "discoveredAt": "2026-10-10T12:07:46.759Z",
+      "status": "DISCOVERED",
+      "claims": []
+    },
+    {
+      "id": "cand-3aa428b5b2e5",
+      "topic": "Time to rise? Ranking European football's sleeping giants",
+      "sourceName": "BBC Sport",
+      "sourceUrl": "https://www.bbc.co.uk/sport/football/articles/cq5yjyyzd35do?at_medium=RSS&at_campaign=rss",
+      "sourcePublishedAt": "2026-10-10T05:14:17.000Z",
+      "discoveredAt": "2026-10-10T12:07:46.759Z",
+      "status": "DISCOVERED",
+      "claims": []
+    },
+    {
+      "id": "cand-3cb5baa56aac",
+      "topic": "Palmer signs new Chelsea contract until 2034",
+      "sourceName": "BBC Sport",
+      "sourceUrl": "https://www.bbc.co.uk/sport/football/articles/cwe9lngxzjpno?at_medium=RSS&at_campaign=rss",
+      "sourcePublishedAt": "2026-10-10T09:51:09.000Z",
+      "discoveredAt": "2026-10-10T12:07:46.759Z",
+      "status": "DISCOVERED",
+      "claims": []
+    },
+    {
+      "id": "cand-09a119e56100",
+      "topic": "'We lost the life of a brother' - rider protest delays Giro di Lombardia",
+      "sourceName": "BBC Sport",
+      "sourceUrl": "https://www.bbc.co.uk/sport/cycling/articles/cqx2vm911870o?at_medium=RSS&at_campaign=rss",
+      "sourcePublishedAt": "2026-10-10T11:57:40.000Z",
+      "discoveredAt": "2026-10-10T12:07:46.759Z",
+      "status": "DISCOVERED",
+      "claims": []
+    },
+    {
+      "id": "cand-1ac7a3d4bc61",
+      "topic": "All Blacks power past Australia to retain Bledisloe Cup",
+      "sourceName": "BBC Sport",
+      "sourceUrl": "https://www.bbc.co.uk/sport/rugby-union/articles/c9zrdl4028mko?at_medium=RSS&at_campaign=rss",
+      "sourcePublishedAt": "2026-10-10T09:21:28.000Z",
+      "discoveredAt": "2026-10-10T12:07:46.759Z",
+      "status": "DISCOVERED",
+      "claims": []
+    },
+    {
+      "id": "cand-cb5405547cdc",
+      "topic": "Arteta's conscience clear over Man City charges",
+      "sourceName": "BBC Sport",
+      "sourceUrl": "https://www.bbc.co.uk/sport/football/articles/c6d93ql8jvdko?at_medium=RSS&at_campaign=rss",
+      "sourcePublishedAt": "2026-10-09T21:30:52.000Z",
+      "discoveredAt": "2026-10-10T12:07:46.759Z",
+      "status": "DISCOVERED",
+      "claims": []
+    },
+    {
+      "id": "cand-b33c966f55cc",
+      "topic": "Raphinha's brilliant Barcelona start interrupted by injury concerns",
+      "sourceName": "BBC Sport",
+      "sourceUrl": "https://www.bbc.co.uk/sport/football/articles/ckz65plq04nqo?at_medium=RSS&at_campaign=rss",
+      "sourcePublishedAt": "2026-10-10T08:27:28.000Z",
+      "discoveredAt": "2026-10-10T12:07:46.759Z",
+      "status": "DISCOVERED",
+      "claims": []
+    },
+    {
+      "id": "cand-acb4c8c86e4c",
+      "topic": "Crocker sets sights on route back to the top",
+      "sourceName": "BBC Sport",
+      "sourceUrl": "https://www.bbc.co.uk/sport/boxing/articles/cw073kk3800lo?at_medium=RSS&at_campaign=rss",
+      "sourcePublishedAt": "2026-10-10T09:10:35.000Z",
+      "discoveredAt": "2026-10-10T12:07:46.759Z",
+      "status": "DISCOVERED",
+      "claims": []
+    },
+    {
+      "id": "cand-40c3a863a89a",
+      "topic": "Greek takeaways: What did we learn from Lionesses' win?",
+      "sourceName": "BBC Sport",
+      "sourceUrl": "https://www.bbc.co.uk/sport/football/articles/cwp8g1ry6rjlo?at_medium=RSS&at_campaign=rss",
+      "sourcePublishedAt": "2026-10-09T21:15:24.000Z",
+      "discoveredAt": "2026-10-10T12:07:46.759Z",
+      "status": "DISCOVERED",
+      "claims": []
+    },
+    {
+      "id": "cand-f3d07c8ed39c",
+      "topic": "Who am I? Plus today's other quizzes",
+      "sourceName": "BBC Sport",
+      "sourceUrl": "https://www.bbc.co.uk/sport/football/articles/c5n49xxjxe4zo?at_medium=RSS&at_campaign=rss",
+      "sourcePublishedAt": "2026-10-10T05:28:48.000Z",
+      "discoveredAt": "2026-10-10T12:07:46.759Z",
+      "status": "DISCOVERED",
+      "claims": []
+    },
+    {
+      "id": "cand-7b135ca86c06",
+      "topic": "Man City whistleblower to remain in witness protection",
+      "sourceName": "BBC Sport",
+      "sourceUrl": "https://www.bbc.co.uk/sport/football/articles/cq4g1xerk398o?at_medium=RSS&at_campaign=rss",
+      "sourcePublishedAt": "2026-10-09T22:59:32.000Z",
+      "discoveredAt": "2026-10-10T12:07:46.759Z",
+      "status": "DISCOVERED",
+      "claims": []
+    },
+    {
+      "id": "cand-b2c96ee1b5f6",
+      "topic": "Delight for Scotland's Cuthbert after long summer of recovery",
+      "sourceName": "BBC Sport",
+      "sourceUrl": "https://www.bbc.co.uk/sport/football/articles/cxj0l2d4dp2vo?at_medium=RSS&at_campaign=rss",
+      "sourcePublishedAt": "2026-10-10T08:28:17.000Z",
+      "discoveredAt": "2026-10-10T12:07:46.760Z",
+      "status": "DISCOVERED",
+      "claims": []
+    },
+    {
+      "id": "cand-86b92b4a4d65",
+      "topic": "I've got my own questions on Man City case - Carrick",
+      "sourceName": "BBC Sport",
+      "sourceUrl": "https://www.bbc.co.uk/sport/football/articles/ck5ynv45lymdo?at_medium=RSS&at_campaign=rss",
+      "sourcePublishedAt": "2026-10-09T14:30:38.000Z",
+      "discoveredAt": "2026-10-10T12:07:46.760Z",
+      "status": "DISCOVERED",
+      "claims": []
+    },
+    {
+      "id": "cand-f532d5ca5b17",
+      "topic": "Irving leads Buccaneers to shock win over Cowboys",
+      "sourceName": "BBC Sport",
+      "sourceUrl": "https://www.bbc.co.uk/sport/american-football/videos/ckqxn9j153gvo?at_medium=RSS&at_campaign=rss",
+      "sourcePublishedAt": "2026-10-09T10:01:05.000Z",
+      "discoveredAt": "2026-10-10T12:07:46.760Z",
+      "status": "DISCOVERED",
+      "claims": []
+    },
+    {
+      "id": "cand-33c1d5d9ba58",
+      "topic": "Manchester United vs Tottenham LIVE: Premier League",
+      "sourceName": "Al Jazeera English",
+      "sourceUrl": "https://www.aljazeera.com/sports/liveblog/2026/10/10/manchester-united-vs-tottenham-live-premier-league?traffic_source=rss",
+      "sourcePublishedAt": "2026-10-10T11:31:27.000Z",
+      "discoveredAt": "2026-10-10T12:07:47.629Z",
+      "status": "DISCOVERED",
+      "claims": []
+    },
+    {
+      "id": "cand-e3a1747f272b",
+      "topic": "Exposing an alleged crime kingpin’s Cambodian empire",
+      "sourceName": "Al Jazeera English",
+      "sourceUrl": "https://www.aljazeera.com/video/101-east/2026/10/10/exposing-an-alleged-crime-kingpins-cambodian-empire?traffic_source=rss",
+      "sourcePublishedAt": "2026-10-10T11:30:00.000Z",
+      "discoveredAt": "2026-10-10T12:07:47.629Z",
+      "status": "DISCOVERED",
+      "claims": []
+    },
+    {
+      "id": "cand-e5d483192c24",
+      "topic": "What has Trump’s Board of Peace achieved in a year since Gaza ‘ceasefire’?",
+      "sourceName": "Al Jazeera English",
+      "sourceUrl": "https://www.aljazeera.com/news/2026/10/10/what-has-trumps-board-of-peace-achieved-in-a-year-since-gaza?traffic_source=rss",
+      "sourcePublishedAt": "2026-10-10T11:19:24.000Z",
+      "discoveredAt": "2026-10-10T12:07:47.629Z",
+      "status": "DISCOVERED",
+      "claims": []
+    },
+    {
+      "id": "cand-84dcf9579b98",
+      "topic": "Manchester City whistleblower Rui Pinto to remain under police protection",
+      "sourceName": "Al Jazeera English",
+      "sourceUrl": "https://www.aljazeera.com/sports/2026/10/10/manchester-city-whistleblower-rui-pinto-to-stay-under-police-protection?traffic_source=rss",
+      "sourcePublishedAt": "2026-10-10T11:14:13.000Z",
+      "discoveredAt": "2026-10-10T12:07:47.629Z",
+      "status": "DISCOVERED",
+      "claims": []
+    },
+    {
+      "id": "cand-f91d8fc064e9",
+      "topic": "Chile declares Las Condes disaster zone after mudslide",
+      "sourceName": "Al Jazeera English",
+      "sourceUrl": "https://www.aljazeera.com/video/newsfeed/2026/10/10/chile-declares-las-condes-disaster-zone-after-mudslide?traffic_source=rss",
+      "sourcePublishedAt": "2026-10-10T10:22:56.000Z",
+      "discoveredAt": "2026-10-10T12:07:47.629Z",
+      "status": "DISCOVERED",
+      "claims": []
+    },
+    {
+      "id": "cand-7210ff2da355",
+      "topic": "Suspect killed after 13 kindergarteners taken hostage, beaten in Brazil",
+      "sourceName": "Al Jazeera English",
+      "sourceUrl": "https://www.aljazeera.com/news/2026/10/10/suspect-killed-after-13-kindergarteners-taken-hostage-beaten-in-brazil?traffic_source=rss",
+      "sourcePublishedAt": "2026-10-10T09:45:14.000Z",
+      "discoveredAt": "2026-10-10T12:07:47.629Z",
+      "status": "DISCOVERED",
+      "claims": []
+    },
+    {
+      "id": "cand-490d1ffa61be",
+      "topic": "A year after the ‘ceasefire’, Gaza’s healthcare is still collapsing",
+      "sourceName": "Al Jazeera English",
+      "sourceUrl": "https://www.aljazeera.com/opinions/2026/10/10/a-year-after-the-ceasefire-gazas-healthcare-is-still-collapsing?traffic_source=rss",
+      "sourcePublishedAt": "2026-10-10T09:30:14.000Z",
+      "discoveredAt": "2026-10-10T12:07:47.629Z",
+      "status": "DISCOVERED",
+      "claims": []
+    },
+    {
+      "id": "cand-7d60f4262641",
+      "topic": "Journalist Hamurabi Huesca Manzano killed in Mexico’s Oaxaca",
+      "sourceName": "Al Jazeera English",
+      "sourceUrl": "https://www.aljazeera.com/news/2026/10/10/journalist-killed-in-mexico-ninth-this-year-ngo?traffic_source=rss",
+      "sourcePublishedAt": "2026-10-10T09:27:08.000Z",
+      "discoveredAt": "2026-10-10T12:07:47.629Z",
+      "status": "DISCOVERED",
+      "claims": []
+    },
+    {
+      "id": "cand-13851d82aad5",
+      "topic": "Brazil police rescue 13 children taken hostage at kindergarten",
+      "sourceName": "Al Jazeera English",
+      "sourceUrl": "https://www.aljazeera.com/video/newsfeed/2026/10/10/brazil-police-rescue-13-children-taken-hostage-at-kindergarten?traffic_source=rss",
+      "sourcePublishedAt": "2026-10-10T09:14:26.000Z",
+      "discoveredAt": "2026-10-10T12:07:47.629Z",
+      "status": "DISCOVERED",
+      "claims": []
+    },
+    {
+      "id": "cand-5a0848443cba",
+      "topic": "Isaias weakens after making landfall in US Gulf Coast as hurricane",
+      "sourceName": "Al Jazeera English",
+      "sourceUrl": "https://www.aljazeera.com/news/2026/10/10/isaias-weakens-after-making-landfall-in-us-gulf-coast-as-hurricane?traffic_source=rss",
+      "sourcePublishedAt": "2026-10-10T08:33:44.000Z",
+      "discoveredAt": "2026-10-10T12:07:47.629Z",
+      "status": "DISCOVERED",
+      "claims": []
+    },
+    {
+      "id": "cand-afde868e984e",
+      "topic": "West Indies beat India as Hope’s hundred secures record T20 chase",
+      "sourceName": "Al Jazeera English",
+      "sourceUrl": "https://www.aljazeera.com/sports/2026/10/10/hopes-hundred-fires-west-indies-to-record-t20-win-over-india?traffic_source=rss",
+      "sourcePublishedAt": "2026-10-10T08:21:22.000Z",
+      "discoveredAt": "2026-10-10T12:07:47.629Z",
+      "status": "DISCOVERED",
+      "claims": []
+    },
+    {
+      "id": "cand-e0b1e223ec67",
+      "topic": "A decade of Lajee Celtic: The Palestinian club whose fans include Cantona",
+      "sourceName": "Al Jazeera English",
+      "sourceUrl": "https://www.aljazeera.com/news/2026/10/10/a-decade-of-lajee-celtic-the-palestinian-club-whose-fans-include-cantona?traffic_source=rss",
+      "sourcePublishedAt": "2026-10-10T08:16:49.000Z",
+      "discoveredAt": "2026-10-10T12:07:47.629Z",
+      "status": "DISCOVERED",
+      "claims": []
+    },
+    {
+      "id": "cand-bf8ddeebac79",
+      "topic": "US lifts sanctions on daughter of military-linked Myanmar businessman",
+      "sourceName": "Al Jazeera English",
+      "sourceUrl": "https://www.aljazeera.com/news/2026/10/10/us-lifts-sanctions-on-daughter-of-military-linked-myanmar-tycoon?traffic_source=rss",
+      "sourcePublishedAt": "2026-10-10T07:50:59.000Z",
+      "discoveredAt": "2026-10-10T12:07:47.629Z",
+      "status": "DISCOVERED",
+      "claims": []
+    },
+    {
+      "id": "cand-24f2e2e4bdf5",
+      "topic": "Ronaldo returns after Portugal quarrel to score in Al-Nassr win",
+      "sourceName": "Al Jazeera English",
+      "sourceUrl": "https://www.aljazeera.com/sports/2026/10/10/ronaldo-returns-after-portugal-quarrel-and-back-in-the-goals-in-al-nassr-wi?traffic_source=rss",
+      "sourcePublishedAt": "2026-10-10T07:34:18.000Z",
+      "discoveredAt": "2026-10-10T12:07:47.629Z",
+      "status": "DISCOVERED",
+      "claims": []
+    },
+    {
+      "id": "cand-e79e62780726",
+      "topic": "Ireland Catholic residents react to UK ban on Protestant march",
+      "sourceName": "Al Jazeera English",
+      "sourceUrl": "https://www.aljazeera.com/video/newsfeed/2026/10/10/ireland-catholic-residents-react-to-uk-ban-on-protestant-march?traffic_source=rss",
+      "sourcePublishedAt": "2026-10-10T07:31:34.000Z",
+      "discoveredAt": "2026-10-10T12:07:47.629Z",
+      "status": "DISCOVERED",
+      "claims": []
+    },
+    {
+      "id": "cand-7c8126ec26be",
+      "topic": "Controversial vaccine trial touted by RFK Jr gets go-ahead in Guinea-Bissau",
+      "sourceName": "The Guardian — World",
+      "sourceUrl": "https://www.theguardian.com/society/2026/oct/09/vaccine-trial-guinea-bissau-rfk-jr",
+      "sourcePublishedAt": "2026-10-09T21:36:18.000Z",
+      "discoveredAt": "2026-10-10T12:07:48.198Z",
+      "status": "DISCOVERED",
+      "claims": []
+    },
+    {
+      "id": "cand-1f36d06a3b96",
+      "topic": "ICJ judge Navi Pillay wins Nobel peace prize for promoting international law",
+      "sourceName": "The Guardian — World",
+      "sourceUrl": "https://www.theguardian.com/world/2026/oct/09/navanethem-navi-pillay-wins-nobel-peace-prize",
+      "sourcePublishedAt": "2026-10-09T16:30:09.000Z",
+      "discoveredAt": "2026-10-10T12:07:48.198Z",
+      "status": "DISCOVERED",
+      "claims": []
+    },
+    {
+      "id": "cand-f3d80bae88ad",
+      "topic": "Isaias strengthens to become first Atlantic hurricane of 2026 season",
+      "sourceName": "The Guardian — World",
+      "sourceUrl": "https://www.theguardian.com/environment/2026/oct/09/isaias-strengthens-first-atlantic-hurricane-2026",
+      "sourcePublishedAt": "2026-10-09T09:59:06.000Z",
+      "discoveredAt": "2026-10-10T12:07:48.199Z",
+      "status": "DISCOVERED",
+      "claims": []
+    },
+    {
+      "id": "cand-44f5d8d121a7",
+      "topic": "Egyptian journalists plan weekend protest over detention of six colleagues",
+      "sourceName": "The Guardian — World",
+      "sourceUrl": "https://www.theguardian.com/global-development/2026/oct/09/egypt-six-journalists-matsadaash-protest-over-detentions",
+      "sourcePublishedAt": "2026-10-09T04:00:38.000Z",
+      "discoveredAt": "2026-10-10T12:07:48.199Z",
+      "status": "DISCOVERED",
+      "claims": []
+    },
+    {
+      "id": "cand-42a83e7dfbda",
+      "topic": "Scientists discover 180,000 giant tortoises on one Seychelles island",
+      "sourceName": "The Guardian — World",
+      "sourceUrl": "https://www.theguardian.com/environment/2026/oct/08/researchers-find-180000-giant-tortoises-living-on-island-in-seychelles",
+      "sourcePublishedAt": "2026-10-08T20:20:31.000Z",
+      "discoveredAt": "2026-10-10T12:07:48.199Z",
+      "status": "DISCOVERED",
+      "claims": []
+    },
+    {
+      "id": "cand-659e29569f62",
+      "topic": "Candidate named Hitler Mussolini elected mayor in Peru",
+      "sourceName": "The Guardian — World",
+      "sourceUrl": "https://www.theguardian.com/world/2026/oct/10/peru-election-hitler-mussolini-simeon-flores-mayor",
+      "sourcePublishedAt": "2026-10-10T12:00:10.000Z",
+      "discoveredAt": "2026-10-10T12:07:48.199Z",
+      "status": "DISCOVERED",
+      "claims": []
+    },
+    {
+      "id": "cand-d0cfe0d5acbe",
+      "topic": "‘Like a drill going into my eye’: why the mystery over Havana syndrome refuses to die",
+      "sourceName": "The Guardian — World",
+      "sourceUrl": "https://www.theguardian.com/us-news/ng-interactive/2026/oct/10/havana-syndrome-mystery-cia-russia",
+      "sourcePublishedAt": "2026-10-10T05:00:48.000Z",
+      "discoveredAt": "2026-10-10T12:07:48.199Z",
+      "status": "DISCOVERED",
+      "claims": []
+    },
+    {
+      "id": "cand-582e321073ce",
+      "topic": "Three men found guilty of murders of Australian surfer brothers and US friend in Mexico",
+      "sourceName": "The Guardian — World",
+      "sourceUrl": "https://www.theguardian.com/world/2026/oct/10/jake-callum-robinson-australian-surfers-carter-rhoad-mexico-murder-guilty-verdict-ntwnfb",
+      "sourcePublishedAt": "2026-10-10T00:50:52.000Z",
+      "discoveredAt": "2026-10-10T12:07:48.199Z",
+      "status": "DISCOVERED",
+      "claims": []
+    },
+    {
+      "id": "cand-d3bfc37a6fdb",
+      "topic": "Powerful 7.7-magnitude earthquake strikes Panama and triggers panic in capital",
+      "sourceName": "The Guardian — World",
+      "sourceUrl": "https://www.theguardian.com/world/2026/oct/09/panama-earthquake",
+      "sourcePublishedAt": "2026-10-10T00:13:15.000Z",
+      "discoveredAt": "2026-10-10T12:07:48.199Z",
+      "status": "PUBLISHED",
+      "claims": [],
+      "decision": "Verified vs USGS primary source + Reuters + AFP; published as art-0001 on 2026-10-10."
+    },
+    {
+      "id": "cand-d1cd3189c765",
+      "topic": "How a plant selfie in Colombian jungle led to ‘jaw dropping’ giant waterlily find",
+      "sourceName": "The Guardian — World",
+      "sourceUrl": "https://www.theguardian.com/environment/2026/oct/09/plant-selfie-jaw-dropping-giant-waterlily-discovery-colombia",
+      "sourcePublishedAt": "2026-10-09T04:00:37.000Z",
+      "discoveredAt": "2026-10-10T12:07:48.199Z",
+      "status": "DISCOVERED",
+      "claims": []
+    },
+    {
+      "id": "cand-a047290d95e8",
+      "topic": "Cop31 host urges wealthy countries to spend ‘much more’ on climate than defence",
+      "sourceName": "The Guardian — World",
+      "sourceUrl": "https://www.theguardian.com/environment/2026/oct/09/cop31-host-wealthy-countries-climate-crisis-spending-defence-nato",
+      "sourcePublishedAt": "2026-10-09T12:00:28.000Z",
+      "discoveredAt": "2026-10-10T12:07:48.199Z",
+      "status": "DISCOVERED",
+      "claims": []
+    },
+    {
+      "id": "cand-41c57004f861",
+      "topic": "Sydney trader sacked for working from Singapore without permission wins unfair dismissal case",
+      "sourceName": "The Guardian — World",
+      "sourceUrl": "https://www.theguardian.com/australia-news/2026/oct/09/sydney-currency-trader-sacked-for-working-from-singapore-without-permission-wins-unfair-dismissal-case",
+      "sourcePublishedAt": "2026-10-09T05:55:27.000Z",
+      "discoveredAt": "2026-10-10T12:07:48.199Z",
+      "status": "DISCOVERED",
+      "claims": []
+    },
+    {
+      "id": "cand-591b46c8fe7d",
+      "topic": "South Korea threatens legal action if fuel shipments to Russia found to have broken law",
+      "sourceName": "The Guardian — World",
+      "sourceUrl": "https://www.theguardian.com/world/2026/oct/08/south-korea-fuel-shipments-to-russia-domestic-law",
+      "sourcePublishedAt": "2026-10-08T04:45:07.000Z",
+      "discoveredAt": "2026-10-10T12:07:48.199Z",
+      "status": "DISCOVERED",
+      "claims": []
+    },
+    {
+      "id": "cand-159c51ffa08f",
+      "topic": "Japan beer giants raided over suspicions they colluded to set the price of beverages",
+      "sourceName": "The Guardian — World",
+      "sourceUrl": "https://www.theguardian.com/world/2026/oct/08/japan-beer-giants-raided-over-suspicions-they-colluded-to-set-the-price-of-beverages",
+      "sourcePublishedAt": "2026-10-08T03:54:38.000Z",
+      "discoveredAt": "2026-10-10T12:07:48.199Z",
+      "status": "DISCOVERED",
+      "claims": []
+    },
+    {
+      "id": "cand-39acd3e42aa2",
+      "topic": "Indonesia accused of ‘gross negligence’ in wildfires lawsuit as haze tests region",
+      "sourceName": "The Guardian — World",
+      "sourceUrl": "https://www.theguardian.com/world/2026/oct/08/indonesia-wildfires-gross-negligence-lawsuit-haze-region",
+      "sourcePublishedAt": "2026-10-08T03:54:09.000Z",
+      "discoveredAt": "2026-10-10T12:07:48.199Z",
+      "status": "DISCOVERED",
+      "claims": []
+    },
+    {
+      "id": "cand-70256265d711",
+      "topic": "Ongoing lawsuits allege GLP-1s can cause serious harm. But we don&apos;t know how often",
+      "sourceName": "NPR News",
+      "sourceUrl": "https://www.npr.org/2026/10/10/nx-s1-5996652/glp1-fda-naion-blind-lawsuit-ozempic",
+      "sourcePublishedAt": "2026-10-10T11:00:00.000Z",
+      "discoveredAt": "2026-10-10T12:07:48.625Z",
+      "status": "DISCOVERED",
+      "claims": []
+    },
+    {
+      "id": "cand-067919ce36e8",
+      "topic": "16 cozy activities to add to your fall bucket list",
+      "sourceName": "NPR News",
+      "sourceUrl": "https://www.npr.org/2026/10/10/nx-s1-5993688/16-cozy-activities-to-add-to-your-fall-bucket-list",
+      "sourcePublishedAt": "2026-10-10T09:00:00.000Z",
+      "discoveredAt": "2026-10-10T12:07:48.625Z",
+      "status": "DISCOVERED",
+      "claims": []
+    },
+    {
+      "id": "cand-d5c1cd5f0467",
+      "topic": "A year of ceasefire in Gaza through the lens of NPR&apos;s reporter",
+      "sourceName": "NPR News",
+      "sourceUrl": "https://www.npr.org/sections/the-picture-show/2026/10/10/nx-s1-5991619/gaza-ceasefire-israel-life",
+      "sourcePublishedAt": "2026-10-10T09:00:00.000Z",
+      "discoveredAt": "2026-10-10T12:07:48.625Z",
+      "status": "DISCOVERED",
+      "claims": []
+    },
+    {
+      "id": "cand-bdb1db0c1b52",
+      "topic": "After losing ground with Latino voters, Democrats are turning to influencers for help",
+      "sourceName": "NPR News",
+      "sourceUrl": "https://www.npr.org/2026/10/10/nx-s1-5991897/democrats-latino-voters-influencers-bold-pac",
+      "sourcePublishedAt": "2026-10-10T09:00:00.000Z",
+      "discoveredAt": "2026-10-10T12:07:48.625Z",
+      "status": "DISCOVERED",
+      "claims": []
+    },
+    {
+      "id": "cand-8881c38e8852",
+      "topic": "The Met puts a modern artist front and center (and there&apos;s some Jackson Pollock, too)",
+      "sourceName": "NPR News",
+      "sourceUrl": "https://www.npr.org/2026/10/10/nx-s1-5920376/lee-krasner-jackson-pollock-met",
+      "sourcePublishedAt": "2026-10-10T09:00:00.000Z",
+      "discoveredAt": "2026-10-10T12:07:48.625Z",
+      "status": "DISCOVERED",
+      "claims": []
+    },
+    {
+      "id": "cand-886cb48003b9",
+      "topic": "India cracks down on youth protests as anger grows against Modi and election chief",
+      "sourceName": "NPR News",
+      "sourceUrl": "https://www.npr.org/2026/10/10/g-s1-147603/india-cracks-down-on-youth-protests-as-anger-grows-against-modi-and-election-chief",
+      "sourcePublishedAt": "2026-10-10T08:31:28.000Z",
+      "discoveredAt": "2026-10-10T12:07:48.625Z",
+      "status": "DISCOVERED",
+      "claims": []
+    },
+    {
+      "id": "cand-995f1408e57c",
+      "topic": "Kalshi taps former FBI agent to fight against money laundering",
+      "sourceName": "NPR News",
+      "sourceUrl": "https://www.npr.org/2026/10/09/nx-s1-5996683/kalshi-fbi-sean-fern-money-laundering",
+      "sourcePublishedAt": "2026-10-09T22:23:11.000Z",
+      "discoveredAt": "2026-10-10T12:07:48.625Z",
+      "status": "DISCOVERED",
+      "claims": []
+    },
+    {
+      "id": "cand-fe65d2e5ab8e",
+      "topic": "Fired OpenAI employees question the company&apos;s commitment to safety",
+      "sourceName": "NPR News",
+      "sourceUrl": "https://www.npr.org/2026/10/09/nx-s1-5996890/openai-safety-firings",
+      "sourcePublishedAt": "2026-10-09T21:28:09.000Z",
+      "discoveredAt": "2026-10-10T12:07:48.625Z",
+      "status": "DISCOVERED",
+      "claims": []
+    },
+    {
+      "id": "cand-8c1e4d4a5747",
+      "topic": "Trump says U.S. to get diesel from Russia, relaxing pressure on Moscow to ease prices before midterms",
+      "sourceName": "NPR News",
+      "sourceUrl": "https://www.npr.org/2026/10/09/nx-s1-5996912/trump-says-u-s-to-get-diesel-from-russia-relaxing-pressure-on-moscow-to-ease-prices-before-midterms",
+      "sourcePublishedAt": "2026-10-09T21:24:13.000Z",
+      "discoveredAt": "2026-10-10T12:07:48.625Z",
+      "status": "DISCOVERED",
+      "claims": []
+    },
+    {
+      "id": "cand-728cfa4e8ac1",
+      "topic": "The U.S. last held a public execution in the 1930s. The Pentagon wants to change that",
+      "sourceName": "NPR News",
+      "sourceUrl": "https://www.npr.org/2026/10/09/nx-s1-5996529/firing-squad-livestream-execution-fort-hood-shooter",
+      "sourcePublishedAt": "2026-10-09T18:55:38.000Z",
+      "discoveredAt": "2026-10-10T12:07:48.625Z",
+      "status": "DISCOVERED",
+      "claims": []
+    }
+  ],
+  "meta": {
+    "lastDiscoveryAt": "2026-10-10T12:07:48.625Z",
+    "lastPublishedAt": "2026-10-10T12:09:43Z",
+    "note": "Pipeline state for NewsVeria. Only stories with a complete verification record may move to PUBLISHED."
+  }
+}
