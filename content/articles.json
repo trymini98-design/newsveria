@@ -1,0 +1,69 @@
+[
+  {
+    "id": "art-0001-panama-earthquake-2026-10-09",
+    "slug": "panama-earthquake-magnitude-7-7-buildings-damaged-no-deaths-reported",
+    "headline": "Magnitude 7.7 Earthquake Strikes Panama, Damaging Buildings and Cutting Power; No Deaths Reported",
+    "socialHeadline": "A magnitude 7.7 quake hit Panama on Friday, damaging buildings and knocking out power — officials report injuries but no deaths so far",
+    "summary": "A shallow magnitude 7.7 earthquake struck central Panama on Friday, damaging buildings and roads, cutting power across several provinces and briefly halting flights at the capital's main airport. Officials reported at least 27 minor injuries and no deaths as damage assessments continued.",
+    "body": [
+      "A magnitude 7.7 earthquake struck central Panama on Friday, damaging homes and public buildings, knocking out electricity across several provinces and sending residents into the streets, according to the US Geological Survey (USGS) and wire reports from the country.",
+      "The USGS said the quake hit at 12:56 p.m. local time (17:56 UTC) at a shallow depth of about 12.6 kilometres, with its epicentre roughly 12 kilometres west-southwest of the town of Pitaloza Arriba in Herrera province, around 200 kilometres from Panama City. The agency initially estimated the magnitude at 8.0 before revising it to 7.7.",
+      "## Damage and injuries",
+      "Panama's National Civil Protection System said at least 27 people suffered minor injuries across the country and that no deaths had been reported, according to AFP. Buildings were damaged or partially collapsed in the provinces of Herrera, Veraguas, Los Santos and Coclé, and a church in Penonomé was damaged. President José Raúl Mulino travelled to Penonomé, about halfway between the epicentre and the capital, where some roads were reported to have collapsed.",
+      "Dozens of aftershocks followed the main tremor, the strongest reported at about magnitude 5.8. A tsunami warning issued for parts of the eastern Pacific after the quake was later lifted.",
+      "## Canal and airport operating",
+      "The Panama Canal, about 200 kilometres from the epicentre, was operating normally after inspections, Reuters reported, and the Cobre Panamá copper mine also reported normal operations. Tocumen International Airport, a major regional hub, temporarily suspended flights before lifting the suspension. Electricity provider Naturgy reported power cuts across six provinces in the initial aftermath.",
+      "The USGS estimated that about 43,000 people lived in areas exposed to at least severe shaking. Panama's geosciences institute linked the earthquake to the Azuero–Soná fault system, where stress had built up over time, Reuters reported. Powerful earthquakes are rare in Panama.",
+      "## What remains unknown",
+      "Officials were still assessing damage in rural areas near the epicentre on Saturday, so injury and damage figures may change. NewsVeria will update this story in place if official figures are revised."
+    ],
+    "category": "World",
+    "tags": [
+      "Panama",
+      "Earthquake",
+      "USGS",
+      "Natural Disaster",
+      "Latin America"
+    ],
+    "author": "NewsVeria Newsroom",
+    "publishedAt": "2026-10-10T12:09:43Z",
+    "image": {
+      "src": "/images/media-generation-panama-earthquake-hero-0-0693d44e-ca09-497e-af50-eb4de4317906.webp",
+      "alt": "Illustration of a seismograph needle recording a powerful earthquake, with a map of Central America in the background",
+      "caption": "Illustration: a seismograph records strong ground shaking. NewsVeria uses clearly labelled generated illustrations and never presents imagery as real event photography.",
+      "credit": "NewsVeria generated illustration"
+    },
+    "sources": [
+      {
+        "name": "US Geological Survey — earthquake event page (M7.7, reviewed)",
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u18k",
+        "role": "primary"
+      },
+      {
+        "name": "Reuters, via GMA News Online — damage, power, canal and airport operations",
+        "url": "https://www.gmanetwork.com/news/topstories/world/1005417/powerful-earthquake-hits-panama-damages-homes-canal-operations-normal/story/",
+        "role": "corroboration"
+      },
+      {
+        "name": "AFP, via Arab News — injury figures from Panama's National Civil Protection System",
+        "url": "https://www.arabnews.pk/world/major-earthquake-hits-panama-injures-at-least-27-3003752",
+        "role": "corroboration"
+      }
+    ],
+    "status": "PUBLISHED",
+    "verification": {
+      "eventConfirmed": true,
+      "primarySourceFound": true,
+      "independentCorroboration": true,
+      "chronologyChecked": true,
+      "detailsChecked": true,
+      "supersededChecked": true,
+      "imageChecked": true,
+      "reviewer": "NewsVeria editorial desk (AI-assisted, standards in Editorial Policy)",
+      "notes": "USGS reviewed event us6000u18k: M7.7 (revised from initial M8.0), 12 km WSW of Pitaloza Arriba, depth 12.6 km, 2026-10-09 17:56 UTC. Reuters and AFP independently corroborate damage, 27 minor injuries (SINAPROC via AFP), no deaths reported at publication. Disaster story published only after primary-source confirmation; casualty figures attributed and flagged as subject to revision.",
+      "checkedAt": "2026-10-10T12:09:43Z"
+    },
+    "editorPick": true,
+    "breaking": false
+  }
+]
