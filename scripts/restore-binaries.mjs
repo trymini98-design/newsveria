@@ -1,5 +1,7 @@
-// Restore binary assets (images) that cannot be committed to git directly:
-// decodes assets/*.b64 back into public/images/ at build time.
+// Restore binary assets (images) that cannot be committed to git directly.
+// Binary files travel as base64 text, split into parts to stay within
+// commit-size limits: assets/<name>.b64.part-01, .part-02, ...
+// At build time they are joined and decoded back into public/images/.
 import { readdir, readFile, writeFile, mkdir, stat } from "node:fs/promises";
 import path from "node:path";
 
@@ -14,25 +16,36 @@ async function main() {
     console.log("restore-binaries: no assets directory, skipping");
     return;
   }
-  await mkdir(outDir, { recursive: true });
-  let restored = 0;
+  // Group parts by target name: "<img>.b64" or "<img>.b64.part-01" -> "<img>"
+  const groups = new Map();
   for (const name of entries) {
-    if (!name.endsWith(".b64")) continue;
-    const targetName = name.slice(0, -4);
+    const m = name.match(/^(.+)\.b64(?:\.part-(\d+))?$/);
+    if (!m) continue;
+    const key = m[1];
+    if (!groups.has(key)) groups.set(key, []);
+    groups.get(key).push({ name, part: m[2] ? parseInt(m[2], 10) : 0 });
+  }
+  await mkdir(outDir, { recursive: true });
+  for (const [targetName, parts] of groups) {
     const target = path.join(outDir, targetName);
-    let needs = true;
+    let needs = false;
     try {
       const s = await stat(target);
-      if (s.size > 0) needs = false;
-    } catch { /* missing */ }
-    if (needs) {
-      const b64 = (await readFile(path.join(assetsDir, name), "utf8")).replace(/\s+/g, "");
-      await writeFile(target, Buffer.from(b64, "base64"));
-      restored++;
-      console.log(`restore-binaries: ${name} -> public/images/${targetName}`);
+      if (s.size === 0) needs = true;
+    } catch {
+      needs = true;
     }
+    if (!needs) continue;
+    parts.sort((a, b) => a.part - b.part);
+    let b64 = "";
+    for (const p of parts) {
+      b64 += await readFile(path.join(assetsDir, p.name), "utf8");
+    }
+    b64 = b64.replace(/\s+/g, "");
+    await writeFile(target, Buffer.from(b64, "base64"));
+    console.log(`restore-binaries: ${parts.length} part(s) -> public/images/${targetName}`);
   }
-  console.log(`restore-binaries: done (${restored} restored)`);
+  console.log("restore-binaries: done");
 }
 
 main().catch((err) => {
