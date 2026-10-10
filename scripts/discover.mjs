@@ -21,6 +21,17 @@ const FEEDS = [
   { name: "Al Jazeera English", url: "https://www.aljazeera.com/xml/rss/all.xml" },
   { name: "The Guardian — World", url: "https://www.theguardian.com/world/rss" },
   { name: "NPR News", url: "https://feeds.npr.org/1001/rss.xml" },
+  { name: "DW News", url: "https://rss.dw.com/rdf/rss-en-all" },
+  { name: "France 24", url: "https://www.france24.com/en/rss" },
+  { name: "Sky News — World", url: "https://feeds.skynews.com/feeds/rss/world.xml" },
+  { name: "ABC News — Top Stories", url: "https://feeds.abcnews.com/abcnews/topstories" },
+  { name: "CBS News", url: "https://www.cbsnews.com/latest/rss/main" },
+  { name: "CNA — Asia", url: "https://www.channelnewsasia.com/api/v1/rss-outbound-feed?_format=xml" },
+  { name: "The Verge", url: "https://www.theverge.com/rss/index.xml" },
+  { name: "TechCrunch", url: "https://techcrunch.com/feed/" },
+  { name: "Wired", url: "https://www.wired.com/feed/rss" },
+  { name: "ESPN", url: "https://www.espn.com/espn/rss/news" },
+  { name: "ScienceDaily", url: "https://www.sciencedaily.com/rss/all.xml" },
 ];
 
 const file = path.join(process.cwd(), "data", "pipeline.json");
