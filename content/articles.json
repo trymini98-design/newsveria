@@ -1,1320 +1,1346 @@
 [
- {
-  "id": "art-0001-panama-earthquake-2026-10-09",
-  "slug": "panama-earthquake-magnitude-7-7-buildings-damaged-no-deaths-reported",
-  "headline": "Magnitude 7.7 Earthquake Strikes Panama, Damaging Buildings and Cutting Power; No Deaths Reported",
-  "socialHeadline": "A magnitude 7.7 quake hit Panama on Friday, damaging buildings and knocking out power — officials report injuries but no deaths so far",
-  "summary": "A shallow magnitude 7.7 earthquake struck central Panama on Friday, damaging buildings and roads, cutting power across several provinces and briefly halting flights at the capital's main airport. Officials reported at least 27 minor injuries and no deaths as damage assessments continued.",
-  "body": [
-   "A magnitude 7.7 earthquake struck central Panama on Friday, damaging homes and public buildings, knocking out electricity across several provinces and sending residents into the streets, according to the US Geological Survey (USGS) and wire reports from the country.",
-   "The USGS said the quake hit at 12:56 p.m. local time (17:56 UTC) at a shallow depth of about 12.6 kilometres, with its epicentre roughly 12 kilometres west-southwest of the town of Pitaloza Arriba in Herrera province, around 200 kilometres from Panama City. The agency initially estimated the magnitude at 8.0 before revising it to 7.7.",
-   "## Damage and injuries",
-   "Panama's National Civil Protection System said at least 27 people suffered minor injuries across the country and that no deaths had been reported, according to AFP. Buildings were damaged or partially collapsed in the provinces of Herrera, Veraguas, Los Santos and Coclé, and a church in Penonomé was damaged. President José Raúl Mulino travelled to Penonomé, about halfway between the epicentre and the capital, where some roads were reported to have collapsed.",
-   "Dozens of aftershocks followed the main tremor, the strongest reported at about magnitude 5.8. A tsunami warning issued for parts of the eastern Pacific after the quake was later lifted.",
-   "## Canal and airport operating",
-   "The Panama Canal, about 200 kilometres from the epicentre, was operating normally after inspections, Reuters reported, and the Cobre Panamá copper mine also reported normal operations. Tocumen International Airport, a major regional hub, temporarily suspended flights before lifting the suspension. Electricity provider Naturgy reported power cuts across six provinces in the initial aftermath.",
-   "The USGS estimated that about 43,000 people lived in areas exposed to at least severe shaking. Panama's geosciences institute linked the earthquake to the Azuero–Soná fault system, where stress had built up over time, Reuters reported. Powerful earthquakes are rare in Panama.",
-   "## What remains unknown",
-   "Officials were still assessing damage in rural areas near the epicentre on Saturday, so injury and damage figures may change. NewsVeria will update this story in place if official figures are revised."
-  ],
-  "category": "World",
-  "tags": [
-   "Panama",
-   "Earthquake",
-   "USGS",
-   "Natural Disaster",
-   "Latin America"
-  ],
-  "author": "NewsVeria Newsroom",
-  "publishedAt": "2026-10-10T12:09:43Z",
-  "image": {
-   "src": "/images/media-generation-panama-earthquake-hero-0-0693d44e-ca09-497e-af50-eb4de4317906.webp",
-   "alt": "Illustration of a seismograph needle recording a powerful earthquake, with a map of Central America in the background",
-   "caption": "Illustration: a seismograph records strong ground shaking. NewsVeria uses clearly labelled generated illustrations and never presents imagery as real event photography.",
-   "credit": "NewsVeria generated illustration"
+  {
+    "id": "art-0001-panama-earthquake-2026-10-09",
+    "slug": "panama-earthquake-magnitude-7-7-buildings-damaged-no-deaths-reported",
+    "headline": "Magnitude 7.7 Earthquake Strikes Panama, Damaging Buildings and Cutting Power; No Deaths Reported",
+    "socialHeadline": "A magnitude 7.7 quake hit Panama on Friday, damaging buildings and knocking out power — officials report injuries but no deaths so far",
+    "summary": "A shallow magnitude 7.7 earthquake struck central Panama on Friday, damaging buildings and roads, cutting power across several provinces and briefly halting flights at the capital's main airport. Officials reported at least 27 minor injuries and no deaths as damage assessments continued.",
+    "body": [
+      "A magnitude 7.7 earthquake struck central Panama on Friday, damaging homes and public buildings, knocking out electricity across several provinces and sending residents into the streets, according to the US Geological Survey (USGS) and wire reports from the country.",
+      "The USGS said the quake hit at 12:56 p.m. local time (17:56 UTC) at a shallow depth of about 12.6 kilometres, with its epicentre roughly 12 kilometres west-southwest of the town of Pitaloza Arriba in Herrera province, around 200 kilometres from Panama City. The agency initially estimated the magnitude at 8.0 before revising it to 7.7.",
+      "## Damage and injuries",
+      "Panama's National Civil Protection System said at least 27 people suffered minor injuries across the country and that no deaths had been reported, according to AFP. Buildings were damaged or partially collapsed in the provinces of Herrera, Veraguas, Los Santos and Coclé, and a church in Penonomé was damaged. President José Raúl Mulino travelled to Penonomé, about halfway between the epicentre and the capital, where some roads were reported to have collapsed.",
+      "Dozens of aftershocks followed the main tremor, the strongest reported at about magnitude 5.8. A tsunami warning issued for parts of the eastern Pacific after the quake was later lifted.",
+      "## Canal and airport operating",
+      "The Panama Canal, about 200 kilometres from the epicentre, was operating normally after inspections, Reuters reported, and the Cobre Panamá copper mine also reported normal operations. Tocumen International Airport, a major regional hub, temporarily suspended flights before lifting the suspension. Electricity provider Naturgy reported power cuts across six provinces in the initial aftermath.",
+      "The USGS estimated that about 43,000 people lived in areas exposed to at least severe shaking. Panama's geosciences institute linked the earthquake to the Azuero–Soná fault system, where stress had built up over time, Reuters reported. Powerful earthquakes are rare in Panama.",
+      "## What remains unknown",
+      "Officials were still assessing damage in rural areas near the epicentre on Saturday, so injury and damage figures may change. NewsVeria will update this story in place if official figures are revised."
+    ],
+    "category": "World",
+    "tags": [
+      "Panama",
+      "Earthquake",
+      "USGS",
+      "Natural Disaster",
+      "Latin America"
+    ],
+    "author": "NewsVeria Newsroom",
+    "publishedAt": "2026-10-10T12:09:43Z",
+    "image": {
+      "src": "/images/media-generation-panama-earthquake-hero-0-0693d44e-ca09-497e-af50-eb4de4317906.webp",
+      "alt": "Illustration of a seismograph needle recording a powerful earthquake, with a map of Central America in the background",
+      "caption": "Illustration: a seismograph records strong ground shaking. NewsVeria uses clearly labelled generated illustrations and never presents imagery as real event photography.",
+      "credit": "NewsVeria generated illustration"
+    },
+    "sources": [
+      {
+        "name": "US Geological Survey — earthquake event page (M7.7, reviewed)",
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u18k",
+        "role": "primary"
+      },
+      {
+        "name": "Reuters, via GMA News Online — damage, power, canal and airport operations",
+        "url": "https://www.gmanetwork.com/news/topstories/world/1005417/powerful-earthquake-hits-panama-damages-homes-canal-operations-normal/story/",
+        "role": "corroboration"
+      },
+      {
+        "name": "AFP, via Arab News — injury figures from Panama's National Civil Protection System",
+        "url": "https://www.arabnews.pk/world/major-earthquake-hits-panama-injures-at-least-27-3003752",
+        "role": "corroboration"
+      }
+    ],
+    "status": "PUBLISHED",
+    "verification": {
+      "eventConfirmed": true,
+      "primarySourceFound": true,
+      "independentCorroboration": true,
+      "chronologyChecked": true,
+      "detailsChecked": true,
+      "supersededChecked": true,
+      "imageChecked": true,
+      "reviewer": "NewsVeria editorial desk (AI-assisted, standards in Editorial Policy)",
+      "notes": "USGS reviewed event us6000u18k: M7.7 (revised from initial M8.0), 12 km WSW of Pitaloza Arriba, depth 12.6 km, 2026-10-09 17:56 UTC. Reuters and AFP independently corroborate damage, 27 minor injuries (SINAPROC via AFP), no deaths reported at publication. Disaster story published only after primary-source confirmation; casualty figures attributed and flagged as subject to revision.",
+      "checkedAt": "2026-10-10T12:09:43Z"
+    },
+    "editorPick": true,
+    "breaking": false,
+    "pinned": true,
+    "pinUrl": "https://www.pinterest.com/pin/1125618500654644227/"
   },
-  "sources": [
-   {
-    "name": "US Geological Survey — earthquake event page (M7.7, reviewed)",
-    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u18k",
-    "role": "primary"
-   },
-   {
-    "name": "Reuters, via GMA News Online — damage, power, canal and airport operations",
-    "url": "https://www.gmanetwork.com/news/topstories/world/1005417/powerful-earthquake-hits-panama-damages-homes-canal-operations-normal/story/",
-    "role": "corroboration"
-   },
-   {
-    "name": "AFP, via Arab News — injury figures from Panama's National Civil Protection System",
-    "url": "https://www.arabnews.pk/world/major-earthquake-hits-panama-injures-at-least-27-3003752",
-    "role": "corroboration"
-   }
-  ],
-  "status": "PUBLISHED",
-  "verification": {
-   "eventConfirmed": true,
-   "primarySourceFound": true,
-   "independentCorroboration": true,
-   "chronologyChecked": true,
-   "detailsChecked": true,
-   "supersededChecked": true,
-   "imageChecked": true,
-   "reviewer": "NewsVeria editorial desk (AI-assisted, standards in Editorial Policy)",
-   "notes": "USGS reviewed event us6000u18k: M7.7 (revised from initial M8.0), 12 km WSW of Pitaloza Arriba, depth 12.6 km, 2026-10-09 17:56 UTC. Reuters and AFP independently corroborate damage, 27 minor injuries (SINAPROC via AFP), no deaths reported at publication. Disaster story published only after primary-source confirmation; casualty figures attributed and flagged as subject to revision.",
-   "checkedAt": "2026-10-10T12:09:43Z"
+  {
+    "id": "art-0002-samsung-q3-2026-guidance",
+    "slug": "samsung-record-profit-ai-memory-chips-q3-2026",
+    "headline": "Samsung Flags Record Quarter as AI Memory Demand Lifts Profit Towards $80 Billion",
+    "socialHeadline": "Samsung guides to about 107.4 trillion won in quarterly operating profit as AI memory demand tightens supply",
+    "summary": "Samsung Electronics has guided to third-quarter sales of about 195 trillion won and operating profit of about 107.4 trillion won, up sharply from a year earlier, as demand for AI memory chips outpaces supply. Full divisional results are due on October 29.",
+    "body": [
+      "Samsung Electronics has issued preliminary guidance for the third quarter of 2026 that points to a record result for the South Korean technology group, driven by strong pricing for memory semiconductors used in artificial intelligence systems.",
+      "The company said it expects consolidated sales of roughly 195 trillion won and consolidated operating profit of roughly 107.4 trillion won for the July to September period. The figures are presented as medians under Korean disclosure rules, with the underlying ranges given as 194 trillion to 196 trillion won for sales and 107.3 trillion to 107.5 trillion won for operating profit.",
+      "## A sharp year-on-year rise",
+      "The guidance implies a steep increase from the same quarter a year earlier, when Samsung reported sales of 86.06 trillion won and operating profit of 12.17 trillion won. It also exceeds the second quarter of 2026, when the group recorded sales of 171.5 trillion won and operating profit of 89.49 trillion won.",
+      "## Why memory is central",
+      "Analyst coverage of the guidance links the improvement to tight supply of conventional DRAM and NAND alongside growing demand for high-bandwidth memory, which sits alongside graphics processors in AI data centres. Samsung is expected to publish a full breakdown by division when it releases detailed earnings on October 29, which should show how much of the gain came from semiconductors compared with handsets and other consumer businesses.",
+      "Investors will also be watching for any update on shareholder returns and for management commentary on whether current memory pricing can be sustained. NewsVeria will update this story when the detailed results are published."
+    ],
+    "category": "Business",
+    "tags": [
+      "Samsung",
+      "Semiconductors",
+      "Artificial Intelligence",
+      "Earnings",
+      "South Korea"
+    ],
+    "author": "NewsVeria Newsroom",
+    "publishedAt": "2026-10-10T13:25:01Z",
+    "image": {
+      "src": "/images/media-generation-samsung-ai-chip-profit-illustr-0-3d69636e-ea56-496d-9438-a2afb4734102.webp",
+      "alt": "Flat illustration of memory chips arranged as a rising bar chart with a circuit-board background",
+      "caption": "Illustration: memory chips and a rising trend line. NewsVeria uses clearly labelled generated illustrations and never presents imagery as real event photography.",
+      "credit": "NewsVeria generated illustration"
+    },
+    "sources": [
+      {
+        "name": "Samsung Electronics — earnings guidance for third quarter 2026 (Global Newsroom)",
+        "url": "https://news.samsung.com/global/samsung-electronics-announces-earnings-guidance-for-third-quarter-2026",
+        "role": "primary"
+      },
+      {
+        "name": "Reuters, via Los Angeles Post — Samsung flags $80 billion profit on AI boom",
+        "url": "https://www.lapost.com/content/samsung-q3-profit-jumps-783-as-ai-memory-boom-lifts-chip-earnings",
+        "role": "corroboration"
+      }
+    ],
+    "status": "PUBLISHED",
+    "verification": {
+      "eventConfirmed": true,
+      "primarySourceFound": true,
+      "independentCorroboration": true,
+      "chronologyChecked": true,
+      "detailsChecked": true,
+      "supersededChecked": true,
+      "imageChecked": true,
+      "reviewer": "NewsVeria editorial desk (AI-assisted, standards in Editorial Policy)",
+      "notes": "Primary guidance checked on Samsung Global Newsroom: sales about 195 trillion won, operating profit about 107.40 trillion won; comparison quarters 2026 Q2 and 2025 Q3 confirmed in same release. Reuters reporting via LA Post independently describes the same guidance and market context. No newer superseding guidance found at check time.",
+      "checkedAt": "2026-10-10T13:25:01Z"
+    },
+    "pinned": true,
+    "pinUrl": "https://www.pinterest.com/pin/1125618500654697850/"
   },
-  "editorPick": true,
-  "breaking": false,
-  "pinned": true,
-  "pinUrl": "https://www.pinterest.com/pin/1125618500654644227/"
- },
- {
-  "id": "art-0002-samsung-q3-2026-guidance",
-  "slug": "samsung-record-profit-ai-memory-chips-q3-2026",
-  "headline": "Samsung Flags Record Quarter as AI Memory Demand Lifts Profit Towards $80 Billion",
-  "socialHeadline": "Samsung guides to about 107.4 trillion won in quarterly operating profit as AI memory demand tightens supply",
-  "summary": "Samsung Electronics has guided to third-quarter sales of about 195 trillion won and operating profit of about 107.4 trillion won, up sharply from a year earlier, as demand for AI memory chips outpaces supply. Full divisional results are due on October 29.",
-  "body": [
-   "Samsung Electronics has issued preliminary guidance for the third quarter of 2026 that points to a record result for the South Korean technology group, driven by strong pricing for memory semiconductors used in artificial intelligence systems.",
-   "The company said it expects consolidated sales of roughly 195 trillion won and consolidated operating profit of roughly 107.4 trillion won for the July to September period. The figures are presented as medians under Korean disclosure rules, with the underlying ranges given as 194 trillion to 196 trillion won for sales and 107.3 trillion to 107.5 trillion won for operating profit.",
-   "## A sharp year-on-year rise",
-   "The guidance implies a steep increase from the same quarter a year earlier, when Samsung reported sales of 86.06 trillion won and operating profit of 12.17 trillion won. It also exceeds the second quarter of 2026, when the group recorded sales of 171.5 trillion won and operating profit of 89.49 trillion won.",
-   "## Why memory is central",
-   "Analyst coverage of the guidance links the improvement to tight supply of conventional DRAM and NAND alongside growing demand for high-bandwidth memory, which sits alongside graphics processors in AI data centres. Samsung is expected to publish a full breakdown by division when it releases detailed earnings on October 29, which should show how much of the gain came from semiconductors compared with handsets and other consumer businesses.",
-   "Investors will also be watching for any update on shareholder returns and for management commentary on whether current memory pricing can be sustained. NewsVeria will update this story when the detailed results are published."
-  ],
-  "category": "Business",
-  "tags": [
-   "Samsung",
-   "Semiconductors",
-   "Artificial Intelligence",
-   "Earnings",
-   "South Korea"
-  ],
-  "author": "NewsVeria Newsroom",
-  "publishedAt": "2026-10-10T13:25:01Z",
-  "image": {
-   "src": "/images/media-generation-samsung-ai-chip-profit-illustr-0-3d69636e-ea56-496d-9438-a2afb4734102.webp",
-   "alt": "Flat illustration of memory chips arranged as a rising bar chart with a circuit-board background",
-   "caption": "Illustration: memory chips and a rising trend line. NewsVeria uses clearly labelled generated illustrations and never presents imagery as real event photography.",
-   "credit": "NewsVeria generated illustration"
+  {
+    "id": "art-0003-verstappen-singapore-sprint-2026",
+    "slug": "verstappen-wins-singapore-sprint-russell-crash-mclaren-clash",
+    "headline": "Verstappen Wins Chaotic Wet Singapore Sprint After Russell Crash and Late McLaren Clash",
+    "socialHeadline": "Verstappen takes the Singapore Sprint win after Russell crashes from the lead and the McLarens collide late on",
+    "summary": "Max Verstappen won the Singapore Grand Prix Sprint after a rain-delayed start, an early crash for George Russell and a late collision between the two McLarens. Lewis Hamilton and Charles Leclerc completed the top three.",
+    "body": [
+      "Max Verstappen won the Formula 1 Singapore Grand Prix Sprint on Saturday in a race reshaped by heavy rain, an early crash for the initial leader and contact between team-mates near the finish.",
+      "After a downpour soaked parts of the Marina Bay circuit, the start was delayed by more than half an hour while standing water cleared. When the Sprint began, every driver was on intermediate tyres and George Russell moved ahead of pole-sitter Verstappen into the first corner.",
+      "## Russell leads, then crashes",
+      "Russell's advantage lasted less than a lap. He lost control at the final corner and hit the wall, which brought out the safety car and returned Verstappen to the lead. Several other drivers also retired in the opening laps after separate incidents and technical problems, contributing to a high attrition rate for a Sprint.",
+      "Verstappen controlled the restart and gradually built a gap as the track dried, though conditions remained too damp for a switch to slick tyres. Lewis Hamilton used a strong start to move into second place, with Charles Leclerc holding third despite reporting heavy tyre wear.",
+      "## McLaren contact changes fourth place",
+      "In the closing laps, Lando Norris attempted to pass Oscar Piastri and the two McLarens made contact at Turn 5. Piastri was left in the wall and out of the points, while Norris continued to finish eighth. Kimi Antonelli therefore moved up to fourth, ahead of Liam Lawson, Ollie Bearman and Nico Hulkenberg.",
+      "The official Sprint classification lists Verstappen first in 39:48.162, followed by Hamilton and Leclerc. Drivers return to the circuit later on Saturday for qualifying for Sunday's Grand Prix."
+    ],
+    "category": "Sports",
+    "tags": [
+      "Formula 1",
+      "Singapore Grand Prix",
+      "Max Verstappen",
+      "George Russell",
+      "McLaren"
+    ],
+    "author": "NewsVeria Newsroom",
+    "publishedAt": "2026-10-10T13:25:01Z",
+    "image": {
+      "src": "/images/media-generation-verstappen-singapore-sprint-il-0-4b348854-3362-47b9-9b00-ec7583935a51.webp",
+      "alt": "Flat illustration of Formula 1 cars racing on a wet street circuit in rain beneath a chequered flag",
+      "caption": "Illustration: wet-weather Sprint racing. NewsVeria uses clearly labelled generated illustrations and never presents imagery as real event photography.",
+      "credit": "NewsVeria generated illustration"
+    },
+    "sources": [
+      {
+        "name": "Formula 1 — 2026 Singapore Grand Prix Sprint report and results",
+        "url": "https://www.formula1.com/en/latest/article/verstappen-wins-dramatic-rain-hit-singapore-sprint-as-russell-crashes-and-mclarens-collide.4r90mH2skljBa5sinFAsyp",
+        "role": "primary"
+      },
+      {
+        "name": "Reuters — Verstappen wins Singapore sprint after chaotic start in wet conditions",
+        "url": "https://www.reuters.com/sports/formula1/verstappen-wins-singapore-sprint-after-chaotic-start-wet-conditions-2026-10-10/",
+        "role": "corroboration"
+      }
+    ],
+    "status": "PUBLISHED",
+    "verification": {
+      "eventConfirmed": true,
+      "primarySourceFound": true,
+      "independentCorroboration": true,
+      "chronologyChecked": true,
+      "detailsChecked": true,
+      "supersededChecked": true,
+      "imageChecked": true,
+      "reviewer": "NewsVeria editorial desk (AI-assisted, standards in Editorial Policy)",
+      "notes": "Official Formula 1 report and classification checked: Verstappen 39:48.162, Hamilton second, Leclerc third, Antonelli fourth; delay, Russell first-lap crash and late McLaren contact all recorded. Reuters wire independently confirms the same winner, podium and key incidents.",
+      "checkedAt": "2026-10-10T13:25:01Z"
+    },
+    "pinned": true,
+    "pinUrl": "https://www.pinterest.com/pin/1125618500654697905/"
   },
-  "sources": [
-   {
-    "name": "Samsung Electronics — earnings guidance for third quarter 2026 (Global Newsroom)",
-    "url": "https://news.samsung.com/global/samsung-electronics-announces-earnings-guidance-for-third-quarter-2026",
-    "role": "primary"
-   },
-   {
-    "name": "Reuters, via Los Angeles Post — Samsung flags $80 billion profit on AI boom",
-    "url": "https://www.lapost.com/content/samsung-q3-profit-jumps-783-as-ai-memory-boom-lifts-chip-earnings",
-    "role": "corroboration"
-   }
-  ],
-  "status": "PUBLISHED",
-  "verification": {
-   "eventConfirmed": true,
-   "primarySourceFound": true,
-   "independentCorroboration": true,
-   "chronologyChecked": true,
-   "detailsChecked": true,
-   "supersededChecked": true,
-   "imageChecked": true,
-   "reviewer": "NewsVeria editorial desk (AI-assisted, standards in Editorial Policy)",
-   "notes": "Primary guidance checked on Samsung Global Newsroom: sales about 195 trillion won, operating profit about 107.40 trillion won; comparison quarters 2026 Q2 and 2025 Q3 confirmed in same release. Reuters reporting via LA Post independently describes the same guidance and market context. No newer superseding guidance found at check time.",
-   "checkedAt": "2026-10-10T13:25:01Z"
+  {
+    "id": "art-0004-all-blacks-bledisloe-2026",
+    "slug": "all-blacks-retain-bledisloe-cup-50-19-australia-eden-park",
+    "headline": "All Blacks Retain Bledisloe Cup With 50-19 Win Over Australia at Eden Park",
+    "socialHeadline": "New Zealand score five second-half tries to beat Australia 50-19 and keep the Bledisloe Cup for a 24th straight year",
+    "summary": "New Zealand beat Australia 50-19 at Eden Park to retain the Bledisloe Cup. The Wallabies trailed by only three points at half-time, but the All Blacks scored five tries after the break to pull clear.",
+    "body": [
+      "New Zealand retained the Bledisloe Cup on Saturday with a 50-19 victory over Australia at Eden Park in Auckland, extending a long hold on the trans-Tasman trophy.",
+      "Australia started the brighter side and led after an early score from fullback Tom Wright. New Zealand responded through Peter Lakai and Tupou Vaa'i, and a Damian McKenzie penalty made it 17-7 before Australia reduced the gap just before half-time when captain Harry Wilson finished a break by Ben Donaldson. The interval score was 17-14.",
+      "## Second-half breakaway",
+      "The contest changed after the restart. Scrum-half Cam Roigard scored early in the second half, and captain Codie Taylor added another try five minutes later to stretch the lead. With Australia struggling to keep possession, wingers Leroy Carter and Josh Moorby and fullback Will Jordan added further tries in the final quarter.",
+      "Australia's only second-half score was a late consolation try from replacement hooker Josh Nasser. McKenzie finished with 15 points from kicks to complement seven New Zealand tries in total.",
+      "The result means New Zealand keeps the Cup regardless of next week's second Test in Sydney and extends its unbeaten run at Eden Park. Australia had arrived on a six-match unbeaten run and was seeking a first win at the venue since 1986."
+    ],
+    "category": "Sports",
+    "tags": [
+      "Rugby Union",
+      "All Blacks",
+      "Wallabies",
+      "Bledisloe Cup",
+      "Eden Park"
+    ],
+    "author": "NewsVeria Newsroom",
+    "publishedAt": "2026-10-10T13:25:01Z",
+    "image": {
+      "src": "/images/media-generation-all-blacks-bledisloe-illustrat-0-2265bed1-246f-452d-b9fa-150c7c1f7737.webp",
+      "alt": "Flat illustration of two rugby players lifting a gold trophy under stadium floodlights with a rugby ball in the foreground",
+      "caption": "Illustration: a trophy lift at a floodlit stadium. NewsVeria uses clearly labelled generated illustrations and never presents imagery as real event photography.",
+      "credit": "NewsVeria generated illustration"
+    },
+    "sources": [
+      {
+        "name": "Rugby Australia (rugby.com.au) — live match report and scoring summary, All Blacks v Wallabies at Eden Park",
+        "url": "https://WWW.RUGBY.COM.AU/wallabies/news/wallabies-all-blacks-bledisloe-cup-live-scores-blog-match-report-updates-auckland-how-to-watch-australia-20261010",
+        "role": "primary"
+      },
+      {
+        "name": "Reuters — All Blacks retain Bledisloe Cup with 50-19 victory over Australia",
+        "url": "https://www.reuters.com/sports/all-blacks-retain-bledisloe-cup-with-50-19-victory-over-australia-2026-10-10/",
+        "role": "corroboration"
+      }
+    ],
+    "status": "PUBLISHED",
+    "verification": {
+      "eventConfirmed": true,
+      "primarySourceFound": true,
+      "independentCorroboration": true,
+      "chronologyChecked": true,
+      "detailsChecked": true,
+      "supersededChecked": true,
+      "imageChecked": true,
+      "reviewer": "NewsVeria editorial desk (AI-assisted, standards in Editorial Policy)",
+      "notes": "Rugby Australia match centre lists final score 50-19, half-time 17-14, try scorers Lakai, Vaa'i, Roigard, Taylor, Carter, Moorby and Jordan for New Zealand and Wright, Wilson and Nasser for Australia. Reuters report independently confirms the same score, half-time position and 24th straight year of retention.",
+      "checkedAt": "2026-10-10T13:25:01Z"
+    },
+    "pinned": true,
+    "pinUrl": "https://www.pinterest.com/pin/1125618500654697938/"
+  },
+  {
+    "id": "art-0005-palmer-chelsea-2034",
+    "slug": "cole-palmer-chelsea-contract-extension-2034",
+    "headline": "Cole Palmer Signs Chelsea Extension Through 2034",
+    "socialHeadline": "Cole Palmer extends his Chelsea deal to 2034 as the club continues its run of long-term contracts",
+    "summary": "Chelsea forward Cole Palmer has signed a one-year extension that keeps him at Stamford Bridge until 2034. The 24-year-old has been a central figure since joining from Manchester City in 2023.",
+    "body": [
+      "Chelsea attacking midfielder Cole Palmer has agreed a contract extension that will keep him at the club until 2034, extending his previous deal by a year on improved terms.",
+      "The 24-year-old England international joined Chelsea from Manchester City in 2023 and has since become a regular starter. Club figures cited in reporting credit him with 91 goal contributions in 138 appearances across all competitions, and he was part of the squads that won the Club World Cup and the UEFA Conference League.",
+      "Palmer said talks with the owners, sporting directors and manager had given him confidence to stay, and that team-mates shared an ambition to win major trophies regularly. His comments were published alongside the club announcement on Saturday.",
+      "## Part of a wider pattern",
+      "The extension follows similar long-term agreements for other Chelsea players, including forward Joao Pedro, who is also signed through 2034, and winger Pedro Neto, who agreed a six-year deal last month. Chelsea, who sit 10th in the Premier League, were due to host Bournemouth later on Saturday at the time the new contract was announced.",
+      "Palmer has started the current season with four goals in seven appearances while the club continues to manage his workload after injury problems last season."
+    ],
+    "category": "Sports",
+    "tags": [
+      "Chelsea",
+      "Cole Palmer",
+      "Premier League",
+      "Football",
+      "Transfers"
+    ],
+    "author": "NewsVeria Newsroom",
+    "publishedAt": "2026-10-10T13:25:01Z",
+    "image": {
+      "src": "/images/media-generation-palmer-chelsea-contract-illust-0-10cfe1d5-e6a3-484b-90cc-ba4af27eac0e.webp",
+      "alt": "Flat illustration of a footballer signing a long contract scroll beside a large calendar in a stadium",
+      "caption": "Illustration: signing a long-term contract. NewsVeria uses clearly labelled generated illustrations and never presents imagery as real event photography.",
+      "credit": "NewsVeria generated illustration"
+    },
+    "sources": [
+      {
+        "name": "Reuters — Palmer signs Chelsea contract until 2034 (reporting the club announcement)",
+        "url": "https://www.reuters.com/sports/soccer/palmer-signs-chelsea-contract-until-2034-2026-10-10/",
+        "role": "primary"
+      },
+      {
+        "name": "Sky Sports — Cole Palmer contract: Chelsea forward signs extension until 2034",
+        "url": "https://www.skysports.com/football/news/13597179/cole-palmer-contract-chelsea-forward-signs-extension-at-stamford-bridge-until-2034",
+        "role": "corroboration"
+      }
+    ],
+    "status": "PUBLISHED",
+    "verification": {
+      "eventConfirmed": true,
+      "primarySourceFound": true,
+      "independentCorroboration": true,
+      "chronologyChecked": true,
+      "detailsChecked": true,
+      "supersededChecked": true,
+      "imageChecked": true,
+      "reviewer": "NewsVeria editorial desk (AI-assisted, standards in Editorial Policy)",
+      "notes": "Reuters reports the club announcement of an extension to 2034 for the 24-year-old, with 91 goal contributions in 138 appearances since 2023. Sky Sports independently reports the same one-year extension to 2034 and improved terms. No conflicting contract length found at check time.",
+      "checkedAt": "2026-10-10T13:25:01Z"
+    },
+    "pinned": true,
+    "pinUrl": "https://www.pinterest.com/pin/1125618500654697966/"
+  },
+  {
+    "id": "art-0006-augsburg-bayern-fastest-goal-2026",
+    "slug": "augsburg-fastest-bundesliga-goal-bayern-draw-2-2",
+    "headline": "Augsburg Score Fastest Goal in Bundesliga History Before Bayern Fight Back for 2-2 Draw",
+    "socialHeadline": "Robin Fellhauer scored inside nine seconds against Bayern Munich — Augsburg led twice before Bayern rescued a 2-2 draw",
+    "summary": "Robin Fellhauer gave Augsburg the lead inside nine seconds against Bayern Munich, the fastest goal in Bundesliga history, after an error by Manuel Neuer. Bayern twice came from behind, through Ismael Saibari and Nathaniel Brown, to draw 2-2.",
+    "body": [
+      "Augsburg produced the fastest goal in Bundesliga history on Saturday, scoring inside nine seconds against Bayern Munich before the champions twice recovered to draw 2-2 in the Bavarian derby.",
+      "Bayern began the match and worked the ball back to goalkeeper Manuel Neuer. His attempted lifted pass over the advancing Robin Fellhauer did not clear the Augsburg midfielder, who intercepted and ran the ball into an empty net. The league's official match report lists the goal in the first minute and describes it as the fastest in Bundesliga history, improving the previous nine-second mark.",
+      "## Bayern respond, Augsburg strike again",
+      "Bayern pressed for long periods after the restart of play and levelled in the 55th minute, when Harry Kane set up Ismael Saibari. Augsburg restored their lead nine minutes later: Calvin Brackelmann's low shot was parried by Neuer and Rodrigo Ribeiro followed in to score.",
+      "Nathaniel Brown equalised for Bayern in the 80th minute, again from a Kane assist, after the visitors had seen earlier efforts ruled out for offside. Kane was named man of the match for his two assists, and Bayern remained unbeaten, but they could not move top after Borussia Dortmund had also drawn 2-2 with Werder Bremen on Friday.",
+      "The result continues a difficult recent pattern in this fixture for Bayern, whose only defeat in their previous 47 league games had also come against Augsburg, in January."
+    ],
+    "category": "Sports",
+    "tags": [
+      "Bundesliga",
+      "Bayern Munich",
+      "Augsburg",
+      "Robin Fellhauer",
+      "Manuel Neuer"
+    ],
+    "author": "NewsVeria Newsroom",
+    "publishedAt": "2026-10-10T16:23:46Z",
+    "image": {
+      "src": "/images/media-generation-bundesliga-fastest-goal-0-1eb01011-2414-4a8f-92f4-2faee5955ae9.webp",
+      "alt": "Flat illustration of a goalkeeper fumbling a ball at kickoff while an opposing player taps it into an empty net, with a stopwatch motif in the background",
+      "caption": "Illustration: a record-fast opening goal at kickoff. NewsVeria uses clearly labelled generated illustrations and never presents imagery as real event photography.",
+      "credit": "NewsVeria generated illustration"
+    },
+    "sources": [
+      {
+        "name": "Bundesliga (official league site) — Augsburg 2-2 Bayern match report, 10 Oct 2026",
+        "role": "primary",
+        "url": "https://www.bundesliga.com/en/bundesliga/news/augsburg-bayern-munich-match-report-highlights-matchday-5-39487"
+      },
+      {
+        "name": "Reuters — Augsburg score after eight seconds, fastest goal in Bundesliga history",
+        "role": "corroboration",
+        "url": "https://www.reuters.com/sports/soccer/augsburg-score-after-eight-seconds-fastest-goal-bundesliga-history-2026-10-10/"
+      }
+    ],
+    "status": "PUBLISHED",
+    "verification": {
+      "eventConfirmed": true,
+      "primarySourceFound": true,
+      "independentCorroboration": true,
+      "chronologyChecked": true,
+      "detailsChecked": true,
+      "supersededChecked": true,
+      "imageChecked": true,
+      "reviewer": "NewsVeria editorial desk (AI-assisted, standards in Editorial Policy)",
+      "notes": "Official Bundesliga match report opened and checked: final score Augsburg 2-2 Bayern, goals Fellhauer 1', Saibari 55', Ribeiro 64', Brown 80', Kane two assists and man of the match. Reuters independently confirms the sub-nine-second record goal and Neuer error. No newer result supersedes at check time.",
+      "checkedAt": "2026-10-10T16:23:46Z"
+    },
+    "pinned": true,
+    "pinUrl": "https://www.pinterest.com/pin/1125618500654697997/"
+  },
+  {
+    "id": "art-0007-arsenal-leeds-2026",
+    "slug": "arsenal-comeback-leeds-2-1-guimaraes-winner",
+    "headline": "Guimaraes Scores Winner as Arsenal Come Back to Beat Leeds 2-1",
+    "socialHeadline": "Leeds led at the Emirates, but Calafiori levelled and substitute Bruno Guimaraes completed Arsenal's 2-1 comeback",
+    "summary": "Arsenal came from behind to beat Leeds United 2-1 at the Emirates Stadium. James Justin put Leeds ahead after the break, Riccardo Calafiori equalised, and substitute Bruno Guimaraes scored the winner in the 70th minute.",
+    "body": [
+      "Arsenal returned to winning ways in the Premier League on Saturday, coming from a goal down to beat Leeds United 2-1 at the Emirates Stadium after a goalless first half.",
+      "Leeds, unbeaten in the league before this match, took the lead shortly after half-time when James Justin finished a low cross from Gabriel Gudmundsson. Arsenal levelled within minutes: Ben White nodded a deep delivery back across goal and Riccardo Calafiori forced the ball in.",
+      "## Substitute decides it",
+      "Manager Mikel Arteta then made a triple change, introducing Viktor Gyokeres, Jurrien Timber and Bruno Guimaraes. The move paid off in the 70th minute, when a passing sequence involving Martin Odegaard and Declan Rice ended with Guimaraes placing a low shot into the far corner from the edge of the area.",
+      "Reuters reported that the win lifted the champions to second place on 15 points, behind Manchester City on goal difference, while Leeds sit fifth on nine points. Arsenal had lost their previous league match 3-0 to Brighton before the international break, making the recovery from a goal down a timely response.",
+      "Arsenal next host Lille in the Champions League on Tuesday before travelling to Nottingham Forest in the league."
+    ],
+    "category": "Sports",
+    "tags": [
+      "Premier League",
+      "Arsenal",
+      "Leeds United",
+      "Bruno Guimaraes",
+      "Football"
+    ],
+    "author": "NewsVeria Newsroom",
+    "publishedAt": "2026-10-10T16:23:46Z",
+    "image": {
+      "src": "/images/media-generation-arsenal-comeback-0-42dc39ba-f4bc-4f4e-ad9e-f0461e22193e.webp",
+      "alt": "Flat illustration of football players in red and white celebrating a late winning goal at a stadium",
+      "caption": "Illustration: a late winning goal and celebration. NewsVeria uses clearly labelled generated illustrations and never presents imagery as real event photography.",
+      "credit": "NewsVeria generated illustration"
+    },
+    "sources": [
+      {
+        "name": "Arsenal FC (official club site) — Report: Arsenal 2-1 Leeds United",
+        "role": "primary",
+        "url": "https://www.arsenal.com/news/report-arsenal-2-1-leeds-united-aZRg37i5KpH0"
+      },
+      {
+        "name": "Reuters — Guimaraes grabs winner as Arsenal rally to beat Leeds",
+        "role": "corroboration",
+        "url": "https://www.reuters.com/sports/soccer/guimaraes-grabs-winner-arsenal-rally-beat-leeds-2026-10-10/"
+      }
+    ],
+    "status": "PUBLISHED",
+    "verification": {
+      "eventConfirmed": true,
+      "primarySourceFound": true,
+      "independentCorroboration": true,
+      "chronologyChecked": true,
+      "detailsChecked": true,
+      "supersededChecked": true,
+      "imageChecked": true,
+      "reviewer": "NewsVeria editorial desk (AI-assisted, standards in Editorial Policy)",
+      "notes": "Arsenal official match report opened and checked: Justin goal, Calafiori equaliser from White header, Guimaraes winner after Arteta triple substitution. Reuters independently confirms 2-1 score, scorer sequence and league positions (Arsenal second on 15 points, Leeds fifth on nine). Candidate headline claim about moving level at the top was not used; Reuters table position used instead.",
+      "checkedAt": "2026-10-10T16:23:46Z"
+    },
+    "pinned": true,
+    "pinUrl": "https://www.pinterest.com/pin/1125618500654698040/"
+  },
+  {
+    "id": "art-0008-seixas-lombardia-2026",
+    "slug": "paul-seixas-youngest-winner-il-lombardia-first-monument",
+    "headline": "Paul Seixas, 20, Becomes Youngest-Ever Winner of Il Lombardia With Solo Victory",
+    "socialHeadline": "Paul Seixas attacked with 19km to go and rode alone into Como to win his first Monument at just 20 years old",
+    "summary": "French rider Paul Seixas won Il Lombardia on Saturday with a long solo attack, becoming the youngest winner in the race's history and claiming the first Monument victory of his career ahead of Enric Mas and Giulio Ciccone.",
+    "body": [
+      "Paul Seixas produced the biggest victory of his young career on Saturday, riding alone for the final 18 kilometres to win Il Lombardia in Como and becoming the youngest winner in the history of the Italian Monument.",
+      "The 20-year-old French rider attacked on the Civiglio climb, about 19 kilometres from the finish. Tom Pidcock and Giulio Ciccone initially followed, but Seixas pressed on and dropped both before the summit, then held his advantage over the final climb of San Fermo della Battaglia.",
+      "## A breakthrough at 20",
+      "Enric Mas finished second, 48 seconds behind, with Ciccone third. Remco Evenepoel, among the pre-race favourites in the absence of five-time defending champion Tadej Pogacar, finished fourth. Pogacar missed the race after a crash at the Vuelta a Espana.",
+      "It was Seixas's first Monument victory, in only his third appearance in one of cycling's five most prestigious one-day races. He had finished seventh in this race last year and second to Pogacar at Liege-Bastogne-Liege this spring, and placed fourth at this year's Tour de France.",
+      "Reuters noted he is the first French winner of a Monument since 2019 and the first French winner of Il Lombardia since 2018. The victory came two weeks after he finished 15th at the World Championships, where he had started among the favourites."
+    ],
+    "category": "Sports",
+    "tags": [
+      "Cycling",
+      "Il Lombardia",
+      "Paul Seixas",
+      "Monument",
+      "France"
+    ],
+    "author": "NewsVeria Newsroom",
+    "publishedAt": "2026-10-10T16:23:46Z",
+    "image": {
+      "src": "/images/media-generation-young-cyclist-solo-victory-0-0d515123-c708-415f-8ae5-759f60c81777.webp",
+      "alt": "Flat illustration of a young road cyclist riding alone up a mountain climb toward a finish line, with autumn leaves in the background",
+      "caption": "Illustration: a solo climb to a Monument victory. NewsVeria uses clearly labelled generated illustrations and never presents imagery as real event photography.",
+      "credit": "NewsVeria generated illustration"
+    },
+    "sources": [
+      {
+        "name": "Reuters — French prodigy Seixas wins Giro di Lombardia, his first Monument",
+        "role": "primary",
+        "url": "https://www.reuters.com/sports/french-prodigy-seixas-wins-giro-di-lombardia-his-first-monument-2026-10-10/"
+      },
+      {
+        "name": "Velo (Outside) — Sublime Seixas becomes youngest-ever winner of Il Lombardia",
+        "role": "corroboration",
+        "url": "https://velo.outsideonline.com/road/road-racing/sublime-seixas-youngest-winner-il-lombardia/"
+      }
+    ],
+    "status": "PUBLISHED",
+    "verification": {
+      "eventConfirmed": true,
+      "primarySourceFound": true,
+      "independentCorroboration": true,
+      "chronologyChecked": true,
+      "detailsChecked": true,
+      "supersededChecked": true,
+      "imageChecked": true,
+      "reviewer": "NewsVeria editorial desk (AI-assisted, standards in Editorial Policy)",
+      "notes": "Reuters report opened and checked: Seixas solo win, attack 19km out, Mas second and Ciccone third, youngest-ever Lombardia winner, first French Monument winner since 2019. Velo independently confirms the same podium, 48-second margin, Civiglio attack and Evenepoel fourth. No conflicting result at check time.",
+      "checkedAt": "2026-10-10T16:23:46Z"
+    },
+    "pinned": true,
+    "pinUrl": "https://www.pinterest.com/pin/1125618500654698080/"
+  },
+  {
+    "id": "art-0009-renshaw-durban-2026",
+    "slug": "matt-renshaw-190-australia-south-africa-durban-test",
+    "headline": "Matt Renshaw's Career-Best 190 Rescues Australia Against South Africa in Durban",
+    "socialHeadline": "Australia were 124 for six — Matt Renshaw made 190 from 397 balls to lift them to 390 in the first Test at Kingsmead",
+    "summary": "Matt Renshaw scored a career-best 190 to rescue Australia from 124 for six and guide them to 390 all out on day two of the first Test against South Africa at Kingsmead. South Africa closed on 27 for one in reply.",
+    "body": [
+      "Matt Renshaw batted for more than seven hours to score 190 and pull Australia out of deep trouble on the second day of the first Test against South Africa at Kingsmead in Durban.",
+      "Australia had fallen to 124 for six on the opening day after choosing to bat. Renshaw, batting at number five, first added 86 for the seventh wicket with captain Pat Cummins, who made 43, and then shared a ninth-wicket stand of 134 with Nathan Lyon — a record for that wicket for Australia against South Africa and the highest ninth-wicket partnership at this ground.",
+      "## First Test hundred in nine years",
+      "Renshaw's innings lasted 397 balls and included 21 fours and a six. It was his second Test century and his first since scoring 185 against Pakistan in 2017, after a run in which he had reached double figures only twice in his previous 13 Test innings. He was eventually caught at slip off Simon Harmer shortly after tea.",
+      "Australia were bowled out for 390. Wiaan Mulder took four wickets for South Africa and Marco Jansen three. In reply, South Africa reached 27 for one before bad light ended play early, losing Ryan Rickelton to Josh Hazlewood, with Aiden Markram and David Bedingham unbeaten overnight.",
+      "Renshaw's score is the highest by a number five batter in a Test at Kingsmead. The match continues on Sunday with South Africa still trailing by 363 runs."
+    ],
+    "category": "Sports",
+    "tags": [
+      "Cricket",
+      "Australia",
+      "South Africa",
+      "Matt Renshaw",
+      "Test Cricket"
+    ],
+    "author": "NewsVeria Newsroom",
+    "publishedAt": "2026-10-10T16:23:46Z",
+    "image": {
+      "src": "/images/media-generation-flat-infographic-illustration-0-8ea17477-2d73-4e46-94c6-7afe64930ff1.webp",
+      "alt": "Flat illustration of a left-handed cricket batter at the crease at a stadium, with abstract scoreboard shapes in the background",
+      "caption": "Illustration: a long Test innings at the crease. NewsVeria uses clearly labelled generated illustrations and never presents imagery as real event photography.",
+      "credit": "NewsVeria generated illustration"
+    },
+    "sources": [
+      {
+        "name": "Wisden — Matt Renshaw's epic Durban hundred reopens Australia's batting order debate (match report and innings detail)",
+        "role": "primary",
+        "url": "https://www.wisden.com/series/south-africa-vs-australia-m-2026/cricket-news/now-where-to-bat-him---matt-renshaws-epic-durban-ton-reopens-australias-batting-order-debate"
+      },
+      {
+        "name": "Flashscore (Reuters syndication) — Record-breaking Renshaw puts Australia in strong position in first test",
+        "role": "corroboration",
+        "url": "https://www.flashscore.com/news/cricket-test-series-record-breaking-renshaw-puts-australia-in-strong-position-in-first-test/M5DgnBdd/"
+      }
+    ],
+    "status": "PUBLISHED",
+    "verification": {
+      "eventConfirmed": true,
+      "primarySourceFound": true,
+      "independentCorroboration": true,
+      "chronologyChecked": true,
+      "detailsChecked": true,
+      "supersededChecked": true,
+      "imageChecked": true,
+      "reviewer": "NewsVeria editorial desk (AI-assisted, standards in Editorial Policy)",
+      "notes": "Wisden report opened and checked: Renshaw 190, Australia recovered from 124/6, stands of 86 with Cummins and 134 with Lyon, century off 204 balls. Flashscore/Reuters independently confirms Australia 390 all out, South Africa 27/1 at close, Renshaw 190 off 397 balls and the record ninth-wicket stand. One syndicated version described 190 as unbeaten at tea; final dismissal (caught Markram off Harmer) confirmed in scorecard reporting, so the completed innings is used.",
+      "checkedAt": "2026-10-10T16:23:46Z"
+    },
+    "pinned": true,
+    "pinUrl": "https://www.pinterest.com/pin/1125618500654698105/"
+  },
+  {
+    "id": "art-0010-valkyries-wnba-finals-2026",
+    "slug": "golden-state-valkyries-sweep-aces-wnba-finals-second-year",
+    "headline": "Golden State Valkyries Sweep Defending Champion Aces to Reach WNBA Finals in Second Year",
+    "socialHeadline": "The second-year Valkyries beat Las Vegas 87-77 in overtime to sweep the defending champions and reach the WNBA Finals",
+    "summary": "The Golden State Valkyries beat the Las Vegas Aces 87-77 in overtime in Game 3 to complete a sweep of the defending champions and reach the WNBA Finals in the franchise's second season. They will face the Atlanta Dream from October 17.",
+    "body": [
+      "The Golden State Valkyries completed a remarkable rise on Friday night, beating the defending champion Las Vegas Aces 87-77 in overtime to sweep their playoff semifinal series and reach the WNBA Finals in only the franchise's second season.",
+      "Las Vegas, seeded third and winners of three of the past four championships, led 45-36 at half-time and by 11 early in the third quarter. Golden State responded with a 17-0 run and held the Aces to seven points in the third period to move in front.",
+      "## Overtime decides the sweep",
+      "The Aces recovered to force overtime, tying the game late in the fourth quarter after Golden State had briefly led. The extra period was one-sided: the Valkyries outscored Las Vegas 16-6, with Gabby Williams scoring eight of her 16 points in overtime. Kayla Thornton led Golden State with 18 points, while Kiah Stokes and Tiffany Hayes each added 11.",
+      "Five-time MVP A'ja Wilson led Las Vegas with 21 points and 10 rebounds on a night when she was honoured for her latest MVP award, but shot 6-for-19. Jackie Young scored 18 and Chelsea Gray 17 for the Aces.",
+      "Golden State, the second seed, becomes the quickest expansion team to reach the Finals. It will host the fourth-seeded Atlanta Dream, who swept New York earlier on Friday, in a series beginning on October 17."
+    ],
+    "category": "Sports",
+    "tags": [
+      "WNBA",
+      "Golden State Valkyries",
+      "Las Vegas Aces",
+      "Basketball",
+      "Playoffs"
+    ],
+    "author": "NewsVeria Newsroom",
+    "publishedAt": "2026-10-10T16:23:46Z",
+    "image": {
+      "src": "/images/media-generation-flat-infographic-illustration-0-d82ed6f3-a7dc-46f3-9f5e-48f5724a233f.webp",
+      "alt": "Flat illustration of women's basketball players celebrating an overtime win in an arena, with a trophy motif in the background",
+      "caption": "Illustration: an overtime playoff celebration. NewsVeria uses clearly labelled generated illustrations and never presents imagery as real event photography.",
+      "credit": "NewsVeria generated illustration"
+    },
+    "sources": [
+      {
+        "name": "Associated Press, via NBC Sports — Valkyries secure WNBA Finals spot with OT win over the Aces",
+        "role": "primary",
+        "url": "https://www.nbcsports.com/wnba/news/valkyries-secure-wnba-finals-spot-with-ot-win-over-the-aces-face-the-dream-next"
+      },
+      {
+        "name": "USA Today — Golden State Valkyries eliminate Las Vegas Aces, reach WNBA Finals (Game 3 live coverage and result)",
+        "role": "corroboration",
+        "url": "https://www.usatoday.com/story/sports/wnba/2026/10/09/aja-wilson-las-vegas-aces-golden-state-valkyries-wnba-playoffs-time-tv-highlights-score--live/92167187007/"
+      }
+    ],
+    "status": "PUBLISHED",
+    "verification": {
+      "eventConfirmed": true,
+      "primarySourceFound": true,
+      "independentCorroboration": true,
+      "chronologyChecked": true,
+      "detailsChecked": true,
+      "supersededChecked": true,
+      "imageChecked": true,
+      "reviewer": "NewsVeria editorial desk (AI-assisted, standards in Editorial Policy)",
+      "notes": "AP report checked: Valkyries 87-77 in overtime, Game 3 sweep, Thornton 18, Williams 16 with eight in overtime, Wilson 21, Finals vs Atlanta from Oct 17. USA Today live coverage independently confirms the same final score, overtime path, 17-0 third-quarter run and Finals matchup. No later correction at check time.",
+      "checkedAt": "2026-10-10T16:23:46Z"
+    },
+    "pinned": true,
+    "pinUrl": "https://www.pinterest.com/pin/1125618500654698141/"
+  },
+  {
+    "id": "art-0011-alcaraz-shanghai-2026",
+    "slug": "carlos-alcaraz-shanghai-masters-opener-cerundolo-win",
+    "headline": "Carlos Alcaraz Opens Shanghai Masters Campaign With Straight-Sets Win Over Cerundolo",
+    "socialHeadline": "Carlos Alcaraz beat Juan Manuel Cerundolo 6-3, 6-3 in 66 minutes to start his Shanghai Masters title bid",
+    "summary": "Carlos Alcaraz began his Shanghai Masters campaign with a 6-3, 6-3 second-round win over Juan Manuel Cerundolo in 66 minutes, extending his winning run to seven matches after his Tokyo title.",
+    "body": [
+      "Carlos Alcaraz made a comfortable start to his Shanghai Masters campaign on Saturday, beating Argentina's Juan Manuel Cerundolo 6-3, 6-3 in the second round.",
+      "The second-seeded Spaniard needed only 66 minutes and did not face sustained pressure on serve, breaking Cerundolo in each set to control the match. The win was his seventh in a row and followed his title at the Japan Open in Tokyo earlier in the week.",
+      "## Quick turnaround from Tokyo",
+      "Alcaraz said afterwards that he had only two days to prepare after travelling from Tokyo, where conditions were different, and that he was pleased with how he adjusted. He is playing in Shanghai for the first time since reaching the quarter-finals in 2024 and is seeking his first title at the event.",
+      "In the third round he will face the winner of the match between Ignacio Buse and Zizou Bergs. Elsewhere on Saturday, Daniil Medvedev returned after his China Open disqualification to beat Jan-Lennard Struff in three sets, and Felix Auger-Aliassime survived a three-hour match against Camilo Ugo Carabelli.",
+      "Several other matches were interrupted by rain before play resumed, with Taylor Fritz, Casper Ruud and Arthur Fils also advancing."
+    ],
+    "category": "Sports",
+    "tags": [
+      "Tennis",
+      "Carlos Alcaraz",
+      "Shanghai Masters",
+      "ATP",
+      "Juan Manuel Cerundolo"
+    ],
+    "author": "NewsVeria Newsroom",
+    "publishedAt": "2026-10-10T16:23:46Z",
+    "image": {
+      "src": "/images/media-generation-flat-infographic-illustration-0-bd6aa6a1-d503-48a5-94e3-b42df438ad53.webp",
+      "alt": "Flat illustration of a tennis player serving on a hard court at night, with an abstract city skyline in the background",
+      "caption": "Illustration: a night-session serve at a Masters event. NewsVeria uses clearly labelled generated illustrations and never presents imagery as real event photography.",
+      "credit": "NewsVeria generated illustration"
+    },
+    "sources": [
+      {
+        "name": "SuperSport (AFP reporting) — Medvedev through at Shanghai Masters; Alcaraz beats Cerundolo 6-3, 6-3 in opener",
+        "role": "primary",
+        "url": "https://supersport.com/tennis/news/4f8a8766-3910-42e1-b6ac-551fb747a4a8/medvedev-through-at-shanghai-masters-in-first-match-since-disqualification"
+      },
+      {
+        "name": "Flashscore — Alcaraz sails through Shanghai opener, Auger-Aliassime and Fritz also advance",
+        "role": "corroboration",
+        "url": "https://www.flashscore.com/news/alcaraz-breezes-through-shanghai-opener-auger-aliassime-fritz-also-advance/pA33DJKE/"
+      }
+    ],
+    "status": "PUBLISHED",
+    "verification": {
+      "eventConfirmed": true,
+      "primarySourceFound": true,
+      "independentCorroboration": true,
+      "chronologyChecked": true,
+      "detailsChecked": true,
+      "supersededChecked": true,
+      "imageChecked": true,
+      "reviewer": "NewsVeria editorial desk (AI-assisted, standards in Editorial Policy)",
+      "notes": "SuperSport/AFP report opened and checked: Alcaraz beat 55th-ranked Cerundolo 6-3, 6-3 in 66 minutes, second round, seven-match winning run after Tokyo, next opponent Buse or Bergs. Flashscore independently reports the identical score, duration, seeding and next-round pairing. No conflicting score at check time.",
+      "checkedAt": "2026-10-10T16:23:46Z"
+    },
+    "pinned": true,
+    "pinUrl": "https://www.pinterest.com/pin/1125618500654698185/"
+  },
+  {
+    "id": "art-0012-chelsea-bournemouth-2026",
+    "slug": "chelsea-thrash-bournemouth-5-1-henderson-brace",
+    "headline": "Jordan Henderson Scores Twice as Chelsea Thrash Bournemouth 5-1 for First League Win Since August",
+    "socialHeadline": "Chelsea 5-1 Bournemouth: Henderson's first two goals for the club inspire a five-star rout at Stamford Bridge — their first league win since August",
+    "summary": "Chelsea ended their wait for a Premier League win in style on Saturday, sweeping Bournemouth aside 5-1 at Stamford Bridge. Jordan Henderson scored twice — his first goals for the club — while Morgan Rogers and Joao Pedro also found the net.",
+    "body": [
+      "Chelsea produced their best performance of the season on Saturday, thrashing Bournemouth 5-1 at Stamford Bridge for a first Premier League victory since August, with veteran midfielder Jordan Henderson scoring his first two goals for the club.",
+      "Henderson opened the scoring in the second minute and curled in a free kick in the 70th to complete his brace. Morgan Rogers made it 2-0 in the third minute, meaning Chelsea's two opening goals arrived inside two minutes and 29 seconds — the earliest two-goal lead in the club's Premier League history. Joao Pedro struck twice after the break, in the 46th and 67th minutes, while Evanilson pulled one back for Bournemouth in the 51st.",
+      "## Alonso hails 'complete performance'",
+      "Manager Xabi Alonso praised Henderson's \"two beauties\" and described the display as a \"complete performance\", according to Reuters. The result lifts the pressure on the Blues after a winless league run stretching back to August, and was celebrated as a statement win in front of their own supporters.",
+      "## What it means",
+      "The five-goal haul was Chelsea's most emphatic league win of the campaign and moves them up the table, while Bournemouth were left to regroup after a chastening afternoon in west London."
+    ],
+    "category": "Sports",
+    "tags": [
+      "Chelsea",
+      "Bournemouth",
+      "Premier League",
+      "Jordan Henderson",
+      "Football"
+    ],
+    "author": "NewsVeria Newsroom",
+    "publishedAt": "2026-10-10T19:36:22Z",
+    "image": {
+      "src": "/images/media-generation-nv-chelsea-5-1-bournemouth-v2-0-3adee264-c39f-4485-ae08-b19ba6251fa4.webp",
+      "alt": "Illustration of a Chelsea 5-1 Bournemouth soccer scoreboard with a two-goal brace motif",
+      "caption": "Illustration: a stylised scoreboard marks Chelsea's 5-1 rout of Bournemouth. NewsVeria uses clearly labelled generated illustrations and never presents imagery as real event photography.",
+      "credit": "NewsVeria generated illustration"
+    },
+    "sources": [
+      {
+        "name": "Chelsea FC — official match report: Chelsea 5-1 Bournemouth",
+        "url": "https://www.chelseafc.com/en/news/article/match-report-chelsea-5-1-bournemouth-oct-26",
+        "role": "primary"
+      },
+      {
+        "name": "Reuters — Alonso hails impact as Chelsea crush Bournemouth",
+        "url": "https://www.reuters.com/sports/soccer/alonso-hails-caicedos-impact-chelsea-crush-bournemouth-2026-10-10/",
+        "role": "corroboration"
+      }
+    ],
+    "status": "PUBLISHED",
+    "verification": {
+      "eventConfirmed": true,
+      "primarySourceFound": true,
+      "independentCorroboration": true,
+      "chronologyChecked": true,
+      "detailsChecked": true,
+      "supersededChecked": true,
+      "imageChecked": true,
+      "reviewer": "NewsVeria editorial desk (AI-assisted, standards in Editorial Policy)",
+      "notes": "Chelsea FC official match report opened and checked: 5-1 FT at Stamford Bridge, 2026-10-10; scorers Henderson 2'/70' (first two Chelsea goals), Rogers 3', Joao Pedro 46'/67', Evanilson 51'; 2-0 inside 2:29, earliest two-goal PL lead in club history; first league win since August. Reuters independently corroborates scoreline, Henderson brace and Alonso quotes. No newer result supersedes at check time.",
+      "checkedAt": "2026-10-10T19:36:22Z"
+    },
+    "editorPick": true,
+    "breaking": false,
+    "pinned": true,
+    "pinUrl": "https://www.pinterest.com/pin/1125618500654698219/"
+  },
+  {
+    "id": "art-0013-barcelona-getafe-2026",
+    "slug": "barcelona-beat-getafe-3-0-perfect-laliga-start",
+    "headline": "Barcelona Cruise Past Getafe 3-0 to Make It Eight Wins From Eight in LaLiga",
+    "socialHeadline": "Barcelona 3-0 Getafe: Gordon, Jesus and Kounde keep the perfect start alive — eight wins from eight at the top of LaLiga",
+    "summary": "Barcelona maintained their perfect LaLiga start on Saturday with a comfortable 3-0 win over Getafe at the Spotify Camp Nou, making it eight victories from eight matches to stay top of the table.",
+    "body": [
+      "Barcelona extended their flawless start to the LaLiga season on Saturday, beating Getafe 3-0 at the Spotify Camp Nou for an eighth consecutive league victory.",
+      "Anthony Gordon opened the scoring in the second minute, Gabriel Jesus doubled the lead on the half-hour mark, and Jules Kounde — teed up by Lamine Yamal — added the third in the 73rd minute to seal a routine afternoon for the champions.",
+      "## Eight from eight",
+      "The win keeps Barcelona on 24 points from eight matches, preserving their 100 per cent record at the summit. Getafe, who rarely threatened, remain in the bottom half after a disciplined but ultimately outclassed display in Catalonia."
+    ],
+    "category": "Sports",
+    "tags": [
+      "Barcelona",
+      "Getafe",
+      "LaLiga",
+      "Football"
+    ],
+    "author": "NewsVeria Newsroom",
+    "publishedAt": "2026-10-10T19:36:22Z",
+    "image": {
+      "src": "/images/media-generation-nv-barcelona-3-0-getafe-v2-0-d594bd47-3c0e-43e2-bc16-fa5317480973.webp",
+      "alt": "Illustration of a Barcelona 3-0 Getafe soccer scoreboard with a clean-sheet motif",
+      "caption": "Illustration: a stylised scoreboard marks Barcelona's 3-0 win over Getafe. NewsVeria uses clearly labelled generated illustrations and never presents imagery as real event photography.",
+      "credit": "NewsVeria generated illustration"
+    },
+    "sources": [
+      {
+        "name": "LaLiga — official match page: FC Barcelona vs Getafe CF, matchday 8",
+        "url": "https://www.laliga.com/en-US/match/temporada-2026-2027-laliga-ea-sports-fc-barcelona-getafe-cf-8",
+        "role": "primary"
+      },
+      {
+        "name": "Reuters — Barcelona cruise past Getafe to maintain perfect start",
+        "url": "https://www.reuters.com/sports/soccer/barcelona-cruise-past-getafe-maintain-perfect-start-2026-10-10/",
+        "role": "corroboration"
+      }
+    ],
+    "status": "PUBLISHED",
+    "verification": {
+      "eventConfirmed": true,
+      "primarySourceFound": true,
+      "independentCorroboration": true,
+      "chronologyChecked": true,
+      "detailsChecked": true,
+      "supersededChecked": true,
+      "imageChecked": true,
+      "reviewer": "NewsVeria editorial desk (AI-assisted, standards in Editorial Policy)",
+      "notes": "LaLiga official match page opened: FT Barcelona 3-0 Getafe, 2026-10-10, Spotify Camp Nou, matchday 8. Reuters corroborates scorers Gordon 2', Jesus 30', Kounde 73' (Yamal assist) and the eight-wins-from-eight record (24 points, top of table). No newer result supersedes at check time.",
+      "checkedAt": "2026-10-10T19:36:22Z"
+    },
+    "editorPick": true,
+    "breaking": false,
+    "pinned": true,
+    "pinUrl": "https://www.pinterest.com/pin/1125618500654698251/"
+  },
+  {
+    "id": "art-0014-manutd-spurs-2026",
+    "slug": "man-utd-held-by-spurs-1-1-solanke-late-equaliser",
+    "headline": "Manchester United Held 1-1 by Tottenham After Solanke's Stoppage-Time Equaliser",
+    "socialHeadline": "Man Utd 1-1 Spurs: Mbeumo's strike looked enough until Solanke's 90+2' header — and Bentancur saw red for the visitors",
+    "summary": "Manchester United were denied victory at Old Trafford on Saturday as Dominic Solanke's stoppage-time header earned Tottenham a 1-1 Premier League draw, after Bryan Mbeumo had put the hosts ahead.",
+    "body": [
+      "Tottenham snatched a point at Old Trafford on Saturday, with Dominic Solanke's header in the second minute of stoppage time cancelling out Bryan Mbeumo's 73rd-minute opener in a 1-1 Premier League draw.",
+      "Mbeumo finished from Matheus Cunha's assist to give United the lead, but Solanke nodded in Sandro Tonali's cross at 90+2' to rescue the visitors. Spurs finished with ten men after Rodrigo Bentancur was shown a straight red card in the 78th minute for a headbutt motion towards Luke Shaw.",
+      "## Frustration for United",
+      "United had looked set for an important home win after Mbeumo's strike, but Solanke's late intervention — against ten-man opposition — left the hosts to rue two dropped points on matchday six."
+    ],
+    "category": "Sports",
+    "tags": [
+      "Manchester United",
+      "Tottenham Hotspur",
+      "Premier League",
+      "Football"
+    ],
+    "author": "NewsVeria Newsroom",
+    "publishedAt": "2026-10-10T19:36:22Z",
+    "image": {
+      "src": "/images/media-generation-nv-manutd-1-1-spurs-0-196dd636-e330-4b1c-968a-bcc03923fb74.webp",
+      "alt": "Illustration of a Manchester United 1-1 Tottenham scoreboard with a balanced-scales draw motif",
+      "caption": "Illustration: a stylised scoreboard marks the 1-1 draw between Manchester United and Tottenham. NewsVeria uses clearly labelled generated illustrations and never presents imagery as real event photography.",
+      "credit": "NewsVeria generated illustration"
+    },
+    "sources": [
+      {
+        "name": "Sky Sports — match report: Manchester United vs Tottenham Hotspur",
+        "url": "https://www.skysports.com/football/manchester-united-vs-tottenham-hotspur/7654262564534979232",
+        "role": "primary"
+      },
+      {
+        "name": "football.london — Tottenham player ratings vs Manchester United",
+        "url": "https://www.football.london/tottenham-hotspur-fc/fixtures-results/tottenham-player-ratings-vs-man-34746683",
+        "role": "corroboration"
+      }
+    ],
+    "status": "PUBLISHED",
+    "verification": {
+      "eventConfirmed": true,
+      "primarySourceFound": true,
+      "independentCorroboration": true,
+      "chronologyChecked": true,
+      "detailsChecked": true,
+      "supersededChecked": true,
+      "imageChecked": true,
+      "reviewer": "NewsVeria editorial desk (AI-assisted, standards in Editorial Policy)",
+      "notes": "Sky Sports match page opened: FT Manchester United 1-1 Tottenham Hotspur, 2026-10-10, Old Trafford; scorers Mbeumo 73' (Cunha assist), Solanke 90+2' header (Tonali assist); Bentancur straight red 78'. football.london ratings piece corroborates the result and the dismissal framing. No newer result supersedes at check time.",
+      "checkedAt": "2026-10-10T19:36:22Z"
+    },
+    "editorPick": false,
+    "breaking": false,
+    "pinned": true,
+    "pinUrl": "https://www.pinterest.com/pin/1125618500654698308/"
+  },
+  {
+    "id": "art-0015-shesterkin-out-season-2026",
+    "slug": "rangers-igor-shesterkin-out-for-season-knee-injury",
+    "headline": "Rangers' Igor Shesterkin Out for Season After Knee Injury Against Capitals",
+    "socialHeadline": "Rangers lose Igor Shesterkin for the season — the star goalie hurt his right knee Friday in Washington and goes on season-ending LTIR",
+    "summary": "New York Rangers goaltender Igor Shesterkin will miss the rest of the 2026-27 season after injuring his right knee in Friday's 3-1 loss at Washington, the team announced Saturday. He will be placed on season-ending long-term injured reserve.",
+    "body": [
+      "The New York Rangers announced Saturday that star goaltender Igor Shesterkin will miss the remainder of the 2026-27 season with a right-knee injury sustained in Friday's 3-1 defeat at Washington. He will be placed on season-ending long-term injured reserve.",
+      "The injury occurred at 8:20 of the second period, when Shesterkin's right skate jammed into the goalpost as he scrambled back into his crease. He could not put weight on his right leg and was helped off the ice by teammates Sean Durzi and Marcus Pettersson. The team's official announcement describes a lower-body injury, with the right knee identified in reporting on the incident; coach Mike Sullivan declined to confirm whether the injury involves a torn ACL.",
+      "## Crease crisis on Broadway",
+      "The blow is compounded by the loss of backup Joonas Korpisalo, sidelined four weeks with a lower-body injury, leaving Dylan Garand as the Rangers' No. 1 goaltender. Shesterkin ends his season with a 3-1-0 record, a 1.79 goals-against average and a .927 save percentage in five starts — a campaign that had included his first career NHL goal on October 1 against Tampa Bay."
+    ],
+    "category": "Sports",
+    "tags": [
+      "NHL",
+      "New York Rangers",
+      "Igor Shesterkin",
+      "Ice Hockey"
+    ],
+    "author": "NewsVeria Newsroom",
+    "publishedAt": "2026-10-10T19:36:22Z",
+    "image": {
+      "src": "/images/media-generation-nv-shesterkin-injury-v2-0-6a5ab92c-b0bf-4b90-960e-e12d13b6f7bb.webp",
+      "alt": "Illustration of a hockey goalie mask beside a medical cross, marking a season-ending injury",
+      "caption": "Illustration: goalie gear and a medical cross mark Shesterkin's season-ending injury. NewsVeria uses clearly labelled generated illustrations and never presents imagery as real event photography.",
+      "credit": "NewsVeria generated illustration"
+    },
+    "sources": [
+      {
+        "name": "NHL.com — Rangers goalie Igor Shesterkin out for season (team announcement)",
+        "url": "https://www.nhl.com/news/new-york-rangers-goalie-igor-shesterkin-out-for-season",
+        "role": "primary"
+      },
+      {
+        "name": "Reuters — Rangers G Igor Shesterkin out for season",
+        "url": "https://www.reuters.com/sports/rangers-g-igor-shesterkin-out-season-with-lower-body-injury--flm-2026-10-10/",
+        "role": "corroboration"
+      }
+    ],
+    "status": "PUBLISHED",
+    "verification": {
+      "eventConfirmed": true,
+      "primarySourceFound": true,
+      "independentCorroboration": true,
+      "chronologyChecked": true,
+      "detailsChecked": true,
+      "supersededChecked": true,
+      "imageChecked": true,
+      "reviewer": "NewsVeria editorial desk (AI-assisted, standards in Editorial Policy)",
+      "notes": "NHL.com report on the Rangers announcement opened and checked: season-ending LTIR announced 2026-10-10; injury 2026-10-09 at Washington, 8:20 of 2nd period, right skate jammed into goalpost, could not bear weight, helped off by Durzi and Pettersson; official wording 'lower-body injury', right knee per on-ice reporting; Sullivan declined to confirm ACL tear. Reuters corroborates. Backup Korpisalo out four weeks (lower-body), Garand becomes No. 1; Shesterkin 3-1-0, 1.79 GAA, .927 SV% in five starts; first NHL goal Oct 1 vs Tampa Bay. No newer development supersedes at check time.",
+      "checkedAt": "2026-10-10T19:36:22Z"
+    },
+    "editorPick": false,
+    "breaking": false,
+    "pinned": true,
+    "pinUrl": "https://www.pinterest.com/pin/1125618500654698350/"
+  },
+  {
+    "id": "art-0016-fusion-ignition-pppl-2026",
+    "slug": "fusion-ignition-shortcut-pppl-heat-first-plasma",
+    "headline": "Princeton Physicists Propose a 'Heat First' Shortcut to Fusion Ignition",
+    "socialHeadline": "A new theoretical roadmap to fusion ignition: heat the plasma first, then raise its density — PPPL physicists rework the 70-year-old Lawson criterion",
+    "summary": "Physicists at the U.S. Department of Energy's Princeton Plasma Physics Laboratory have published a theoretical framework suggesting a more energy-efficient path to fusion ignition: heat the plasma first, then increase its density — reversing the conventional order.",
+    "body": [
+      "Researchers at the Princeton Plasma Physics Laboratory (PPPL) have proposed a new route toward fusion ignition in a paper published in the journal Physical Review Letters, arguing that heating plasma before raising its density could reach ignition more efficiently than the traditional density-first approach.",
+      "The team — Luis Delgado-Aparicio, Masayuki Ono and Jonathan Menard — reformulated the Lawson criterion, the benchmark for fusion ignition set in the 1950s. Their analysis identifies a 'Cordey saddle' in the parameter space: pushing through it by heating first and adding fuel second lowers the energy required. The study also found that trace tungsten impurities — just one part in 10,000 — from reactor wall materials can roughly double the pressure needed for ignition, while the same loss physics acts as a natural safeguard against thermal runaway.",
+      "## A roadmap, not a reactor",
+      "The work is explicitly theoretical, built on calculations rather than experiments; the team plans computer simulations — 'digital experiments' — as the next step. It offers a roadmap for future fusion experiments, not a demonstration of net energy gain."
+    ],
+    "category": "Science",
+    "tags": [
+      "Fusion Energy",
+      "PPPL",
+      "Physics",
+      "Clean Energy"
+    ],
+    "author": "NewsVeria Newsroom",
+    "publishedAt": "2026-10-10T19:36:22Z",
+    "image": {
+      "src": "/images/media-generation-nv-fusion-ignition-shortcut-0-8f8b5592-c65c-495b-93ed-b74cd4623897.webp",
+      "alt": "Illustration of a fusion plasma chamber cross-section showing the heat-first-then-fuel process",
+      "caption": "Illustration: a plasma chamber diagram illustrates the proposed heat-first path to fusion ignition. NewsVeria uses clearly labelled generated illustrations and never presents imagery as real event photography.",
+      "credit": "NewsVeria generated illustration"
+    },
+    "sources": [
+      {
+        "name": "PPPL/DOE press release via Newswise — a novel path to fusion ignition: heat first, then add fuel",
+        "url": "https://www.newswise.com/doescience/a-novel-path-to-fusion-ignition-heat-first-then-add-fuel",
+        "role": "primary"
+      },
+      {
+        "name": "Phys.org — path to fusion ignition: heat first, then add fuel",
+        "url": "https://phys.org/news/2026-10-path-fusion-ignition-fuel.html",
+        "role": "corroboration"
+      }
+    ],
+    "status": "PUBLISHED",
+    "verification": {
+      "eventConfirmed": true,
+      "primarySourceFound": true,
+      "independentCorroboration": true,
+      "chronologyChecked": true,
+      "detailsChecked": true,
+      "supersededChecked": true,
+      "imageChecked": true,
+      "reviewer": "NewsVeria editorial desk (AI-assisted, standards in Editorial Policy)",
+      "notes": "PPPL press release (Newswise) opened and read: Delgado-Aparicio, Ono, Menard; 'Generalized Lawson-Cordey-Mills Accessibility of Fusion Ignition', Physical Review Letters 2026; heat-first-then-density via the Cordey saddle as a more energy-efficient path; trace tungsten (1 in 10,000) roughly doubles required pressure; loss physics doubles as thermal-runaway safeguard; explicitly theoretical, digital experiments planned next. Phys.org version corroborates with paper citation (DOI 10.1103/mmc9-nzfx). Framed as a roadmap, not a breakthrough demonstration. No superseding development at check time.",
+      "checkedAt": "2026-10-10T19:36:22Z"
+    },
+    "editorPick": true,
+    "breaking": false,
+    "pinned": true,
+    "pinUrl": "https://www.pinterest.com/pin/1125618500654698371/"
+  },
+  {
+    "id": "art-0017-mit-star-brown-dwarf-2026",
+    "slug": "mit-astronomers-star-snacking-brown-dwarf-ztf-j0440",
+    "headline": "MIT Astronomers Catch a Star Slowly 'Snacking' on a Brown Dwarf 300 Light-Years Away",
+    "socialHeadline": "First of its kind: a red dwarf 300 light-years away is steadily siphoning matter from an orbiting brown dwarf — and the feast could last billions of years",
+    "summary": "MIT astronomers have observed, for the first time, a stable transfer of matter from a brown dwarf onto a small red dwarf star 300 light-years away — a slow stellar feast that could continue for hundreds of thousands to billions of years.",
+    "body": [
+      "Astronomers at the Massachusetts Institute of Technology announced on October 5 that they had caught a red dwarf star in the act of slowly accreting material from a closely orbiting brown dwarf companion — the first observed case of stable mass transfer between two low-mass objects.",
+      "The system, designated ZTF J0440+2325, lies about 300 light-years away and was spotted with the Zwicky Transient Facility at Palomar Observatory. The brown dwarf — roughly 25 times the mass of Jupiter — circles its host star, about 85 Jupiter masses, every 87 minutes, feeding it at a rate of around one hundred-thousandth of Earth's mass per year. The discovery was led by assistant professor Kevin Burdge and graduate student Aaron Householder, with collaborators from Caltech, the University of Hawaii, the Instituto de Astrofisica de Canarias, the Universidad de La Laguna and the Harvard-Smithsonian Center for Astrophysics, and published in the journal Nature Astronomy.",
+      "## Why it matters",
+      "The observation gives astronomers a new window into how the smallest stars and their companions evolve over cosmic timescales — a process in this system that could run for hundreds of thousands to billions of years."
+    ],
+    "category": "Science",
+    "tags": [
+      "Astronomy",
+      "MIT",
+      "Brown Dwarf",
+      "Space"
+    ],
+    "author": "NewsVeria Newsroom",
+    "publishedAt": "2026-10-10T19:36:22Z",
+    "image": {
+      "src": "/images/media-generation-nv-mit-star-brown-dwarf-0-af41de5d-9a4a-4a55-a0dc-a4eeb1963a6c.webp",
+      "alt": "Illustration of mass transfer in a binary system: a brown dwarf feeding a red dwarf star",
+      "caption": "Illustration: a binary-system diagram shows the brown dwarf's matter streaming onto the red dwarf. NewsVeria uses clearly labelled generated illustrations and never presents imagery as real event photography.",
+      "credit": "NewsVeria generated illustration"
+    },
+    "sources": [
+      {
+        "name": "MIT Kavli Institute press release — astronomers catch a star slowly snacking on a brown dwarf 300 light-years away",
+        "url": "https://www.space.mit.edu/news/astronomers-catch-a-star-slowly-snacking-on-a-brown-dwarf-300-light-years-away/",
+        "role": "primary"
+      },
+      {
+        "name": "Phys.org — astronomers catch a star slowly snacking on a brown dwarf",
+        "url": "https://phys.org/news/2026-10-astronomers-star-slowly-snacking-brown.html",
+        "role": "corroboration"
+      }
+    ],
+    "status": "PUBLISHED",
+    "verification": {
+      "eventConfirmed": true,
+      "primarySourceFound": true,
+      "independentCorroboration": true,
+      "chronologyChecked": true,
+      "detailsChecked": true,
+      "supersededChecked": true,
+      "imageChecked": true,
+      "reviewer": "NewsVeria editorial desk (AI-assisted, standards in Editorial Policy)",
+      "notes": "MIT Kavli Institute press release opened and read: announced October 5, 2026; led by Kevin Burdge and Aaron Householder; system ZTF J0440+2325 ~300 light-years away, found via Zwicky Transient Facility at Palomar; star ~85 Jupiter masses, brown dwarf ~25; 86.65-minute orbit; accretion ~1/100,000 Earth mass per year; could continue hundreds of thousands to billions of years; Nature Astronomy paper 'Stable mass transfer from a substellar object onto an M dwarf' (DOI 10.1038/s41550-026-02992-6). Phys.org version corroborates. No superseding development at check time.",
+      "checkedAt": "2026-10-10T19:36:22Z"
+    },
+    "editorPick": false,
+    "breaking": false,
+    "pinned": true,
+    "pinUrl": "https://www.pinterest.com/pin/1125618500654698417/"
+  },
+  {
+    "id": "art-0018-hurricane-isaias-florida-2026",
+    "slug": "hurricane-isaias-florida-landfall-2026",
+    "headline": "Hurricane Isaias Kills at Least 4 and Leaves Hundreds of Thousands Without Power After Florida Landfall",
+    "socialHeadline": "Category 2 Hurricane Isaias slammed into the Florida panhandle near Destin — at least 4 dead and 400,000+ without power as the storm moved inland",
+    "summary": "Hurricane Isaias made landfall near Destin, Florida, as a Category 2 storm on October 9, killing at least four people and knocking out power to hundreds of thousands across the Florida panhandle, Alabama and western Georgia before weakening to a post-tropical cyclone.",
+    "body": [
+      "Hurricane Isaias came ashore near Destin, Florida, on the evening of October 9 as a Category 2 hurricane with sustained winds of 105 miles per hour, tearing across the Florida panhandle and into Alabama and Georgia before the National Hurricane Center downgraded it to a post-tropical cyclone and issued its final advisory.",
+      "At least four people were killed — two in Alabama, confirmed by Governor Kay Ivey, and two in Florida, confirmed by the Escambia County sheriff. Between 400,000 and more than 560,000 homes and businesses lost power across the Florida panhandle, Alabama and western Georgia, according to utility reports cited in live storm coverage.",
+      "Florida Governor Ron DeSantis and state emergency officials coordinated the response as Florida Power & Light and other utilities began damage assessments and restoration work. The storm's heaviest impacts were felt around the landfall zone near Destin, where high winds downed trees and power lines.",
+      "## Why it matters",
+      "Isaias is the most destructive Gulf hurricane of the 2026 season so far, and recovery in the panhandle will take days as crews work through widespread outages."
+    ],
+    "category": "World",
+    "tags": [
+      "Hurricane Isaias",
+      "Florida",
+      "Weather",
+      "US"
+    ],
+    "author": "NewsVeria Newsroom",
+    "publishedAt": "2026-10-11T02:02:17.739Z",
+    "image": {
+      "src": "/images/media-generation-nv-isaias-landfall-v2-0-2bf18423-4bbc-4395-9b9d-82eccf25fe73.webp",
+      "alt": "Illustration of a hurricane symbol over a simplified Florida panhandle coastline map",
+      "caption": "Illustration: a storm-structure diagram of the hurricane over the Florida panhandle. NewsVeria uses clearly labelled generated illustrations and never presents imagery as real event photography.",
+      "credit": "NewsVeria generated illustration"
+    },
+    "sources": [
+      {
+        "name": "USA Today — Hurricane Isaias live updates (citing NHC/NWS data, Gov. Ron DeSantis, Florida Power & Light, Alabama Gov. Kay Ivey)",
+        "url": "https://www.usatoday.com/story/news/weather/2026/10/10/hurricane-isaias-live-updates-forecast--live/92172297007/",
+        "role": "primary"
+      },
+      {
+        "name": "Pensacola News Journal — Hurricane Isaias live updates (citing National Hurricane Center)",
+        "url": "https://www.pnj.com/story/weather/hurricanes/2026/10/10/updates-hurricane-isaias-florida-pensacola-damage-today--live/92188656007/",
+        "role": "corroboration"
+      }
+    ],
+    "status": "PUBLISHED",
+    "verification": {
+      "eventConfirmed": true,
+      "primarySourceFound": true,
+      "independentCorroboration": true,
+      "chronologyChecked": true,
+      "detailsChecked": true,
+      "supersededChecked": true,
+      "imageChecked": true,
+      "reviewer": "NewsVeria editorial desk (AI-assisted, standards in Editorial Policy)",
+      "notes": "USA Today live-updates page opened and read: landfall near Destin FL ~8:30pm CT Oct 9 as Cat 2 (105 mph); downgraded to post-tropical with NHC final advisory; 4 dead (2 Alabama per Gov. Kay Ivey, 2 Florida per Escambia County sheriff); 400,000-560,000+ without power across FL panhandle, Alabama, western Georgia. Pensacola News Journal corroborates landfall details and NHC data. No superseding development at check time.",
+      "checkedAt": "2026-10-11T02:02:17.739Z"
+    },
+    "editorPick": false,
+    "breaking": false,
+    "pinned": true,
+    "pinUrl": "https://www.pinterest.com/pin/1125618500654698444/"
+  },
+  {
+    "id": "art-0019-oklahoma-texas-red-river-2026",
+    "slug": "oklahoma-stuns-no1-texas-red-river-2026",
+    "headline": "Oklahoma Stuns No. 1 Texas 27-24 on Sandell's Last-Second Field Goal in Red River Rivalry",
+    "socialHeadline": "Tate Sandell's 47-yard field goal on the final play sealed Oklahoma's 27-24 upset of No. 1 Texas — the Sooners' first win over a top-ranked team since 2007",
+    "summary": "Oklahoma upset No. 1 Texas 27-24 in the Red River Rivalry at the Cotton Bowl on October 10, winning on Tate Sandell's 47-yard field goal on the final play of the game.",
+    "body": [
+      "Oklahoma stunned No. 1 Texas 27-24 in the Red River Rivalry at the Cotton Bowl in Dallas on Saturday, October 10, as kicker Tate Sandell drilled a 47-yard field goal on the final play to hand the Longhorns their first loss of the season.",
+      "Quarterback John Mateer engineered the winning drive, completing 13- and 20-yard passes to Isaiah Sategna to move the Sooners into field-goal range in the closing seconds. It was Oklahoma's first victory over a No. 1-ranked team since 2007.",
+      "Texas quarterback Arch Manning threw three touchdowns but was intercepted twice at decisive moments — Peyton Bowen returned one 42 yards for a pick-six, and Omarion Robinson intercepted Manning with 19 seconds left to set up the final drive. Texas (4-1) had entered the game unbeaten; Oklahoma improved to 3-2.",
+      "## Why it matters",
+      "The upset scrambles the College Football Playoff picture and gives Oklahoma a signature win in a rivalry that rarely disappoints."
+    ],
+    "category": "Sports",
+    "tags": [
+      "College Football",
+      "Oklahoma",
+      "Texas",
+      "Red River Rivalry"
+    ],
+    "author": "NewsVeria Newsroom",
+    "publishedAt": "2026-10-11T02:02:17.739Z",
+    "image": {
+      "src": "/images/media-generation-nv-oklahoma-texas-v2-0-27824912-f5f0-4a8b-95d3-be66c248d81f.webp",
+      "alt": "Illustration of an American football arcing toward goalposts under stadium lights",
+      "caption": "Illustration: a field goal sails toward the uprights in a stylised college football stadium. NewsVeria uses clearly labelled generated illustrations and never presents imagery as real event photography.",
+      "credit": "NewsVeria generated illustration"
+    },
+    "sources": [
+      {
+        "name": "ESPN College Football — Oklahoma stuns No. 1 Texas on last-second FG (Red River)",
+        "url": "https://www.espn.com/college-football/story/_/id/50151802/oklahoma-stuns-no-1-texas-last-second-fg-red-river",
+        "role": "primary"
+      },
+      {
+        "name": "NBC Sports — Oklahoma upsets No. 1 Texas on Tate Sandell's game-ending 47-yard field goal",
+        "url": "https://www.nbcsports.com/college-football/news/oklahoma-upsets-no-1-texas-on-tate-sandells-game-ending-47-yard-field-goal",
+        "role": "corroboration"
+      }
+    ],
+    "status": "PUBLISHED",
+    "verification": {
+      "eventConfirmed": true,
+      "primarySourceFound": true,
+      "independentCorroboration": true,
+      "chronologyChecked": true,
+      "detailsChecked": true,
+      "supersededChecked": true,
+      "imageChecked": true,
+      "reviewer": "NewsVeria editorial desk (AI-assisted, standards in Editorial Policy)",
+      "notes": "ESPN discovery feed item matched the confirmed event (story slug itself describes the outcome); ESPN pages were not directly fetchable by the verification tool (domain blocked), so all decisive facts were confirmed via the NBC Sports game report opened and read: 27-24 final, Cotton Bowl Dallas Oct 10, Sandell 47-yard FG on final play, Mateer 13- and 20-yard passes to Sategna, Manning 3 TDs/2 INTs (Bowen 42-yard pick-six, Robinson INT with 0:19 left), Oklahoma 3-2 first win over No. 1 since 2007, Texas 4-1 first loss. No superseding development at check time.",
+      "checkedAt": "2026-10-11T02:02:17.739Z"
+    },
+    "editorPick": false,
+    "breaking": false,
+    "pinned": true,
+    "pinUrl": "https://www.pinterest.com/pin/1125618500654698465/"
+  },
+  {
+    "id": "art-0020-vinicius-red-card-villarreal-2026",
+    "slug": "vinicius-red-card-hair-pull-villarreal-2026",
+    "headline": "Vinicius Apologises After Red Card for Hair Pull in Real Madrid's Win Over Villarreal",
+    "socialHeadline": "Sent off for pulling Nathan Saliba's hair, Vinicius Jr faces a ban that could rule him out of El Clasico — and he has apologised to the team and fans",
+    "summary": "Real Madrid forward Vinicius Jr was sent off for pulling Villarreal defender Nathan Saliba's hair during Madrid's 1-0 LaLiga win on October 10, and faces a suspension that could rule him out of the El Clasico against Barcelona.",
+    "body": [
+      "Real Madrid's Vinicius Jr was shown a straight red card during Saturday's 1-0 LaLiga win over Villarreal at the Santiago Bernabeu after pulling the hair of Villarreal defender Nathan Saliba. The Brazilian, who had come on as a 52nd-minute substitute, was dismissed about 20 minutes later.",
+      "The incident overshadowed the match: a Real Madrid goal that would have made it 2-0 was disallowed after a VAR review in the same passage of play. Vinicius later apologised on social media, saying sorry to the team and the fans.",
+      "Under Spanish football federation rules on violent conduct (Article 130), the forward faces a suspension of one to three matches — a ban that could rule him out of the El Clasico against Barcelona at Camp Nou on October 25. Madrid's upcoming fixtures also include Sevilla and Racing Santander.",
+      "## Why it matters",
+      "Losing Vinicius for the season's first Clasico would be a major blow to Real Madrid's title ambitions."
+    ],
+    "category": "Sports",
+    "tags": [
+      "LaLiga",
+      "Real Madrid",
+      "Vinicius Jr",
+      "Football"
+    ],
+    "author": "NewsVeria Newsroom",
+    "publishedAt": "2026-10-11T02:02:17.739Z",
+    "image": {
+      "src": "/images/media-generation-nv-vinicius-redcard-0-941f7f01-6ae4-42c3-8f69-16a44d685727.webp",
+      "alt": "Illustration of a referee's red card over abstract football pitch markings",
+      "caption": "Illustration: a red card is raised over stylised pitch markings. NewsVeria uses clearly labelled generated illustrations and never presents imagery as real event photography.",
+      "credit": "NewsVeria generated illustration"
+    },
+    "sources": [
+      {
+        "name": "CNA Sport — Real's Vinicius apologises after red card for hair pull against Villarreal",
+        "url": "https://www.channelnewsasia.com/sport/reals-vinicius-apologises-after-red-card-hair-pull-against-villarreal-6449791",
+        "role": "primary"
+      },
+      {
+        "name": "Reuters — Real's Vinicius apologises after red card for hair pull against Villarreal",
+        "url": "https://www.reuters.com/sports/soccer/reals-vinicius-apologises-after-red-card-hair-pull-against-villarreal-2026-10-10/",
+        "role": "corroboration"
+      }
+    ],
+    "status": "PUBLISHED",
+    "verification": {
+      "eventConfirmed": true,
+      "primarySourceFound": true,
+      "independentCorroboration": true,
+      "chronologyChecked": true,
+      "detailsChecked": true,
+      "supersededChecked": true,
+      "imageChecked": true,
+      "reviewer": "NewsVeria editorial desk (AI-assisted, standards in Editorial Policy)",
+      "notes": "CNA page opened and read: red card for hair pull on Nathan Saliba, came on 52nd min, sent off ~20 min later, Bernabeu 1-0 win Oct 10, apology ('sorry to the team and the fans'), possible El Clasico absence. Reuters corroborates: VAR-disallowed goal in the same passage, 1-3 match ban under RFEF Art. 130 violent conduct, El Clasico Oct 25 at Camp Nou, next fixtures Sevilla/Barca/Racing Santander. No superseding development at check time.",
+      "checkedAt": "2026-10-11T02:02:17.739Z"
+    },
+    "editorPick": false,
+    "breaking": false,
+    "pinned": true,
+    "pinUrl": "https://www.pinterest.com/pin/1125618500654698487/"
+  },
+  {
+    "id": "art-0021-gaza-ceasefire-protests-2026",
+    "slug": "global-protests-mark-gaza-ceasefire-anniversary-2026",
+    "headline": "Thousands March Worldwide Marking One Year Since Gaza Ceasefire",
+    "socialHeadline": "From London to Berlin to New York, thousands joined pro-Palestinian marches one year after the Gaza ceasefire took effect",
+    "summary": "Thousands of pro-Palestinian demonstrators marched in cities including London, Berlin, New York, Athens and Dublin on October 10, marking one year since the Gaza ceasefire took effect.",
+    "body": [
+      "Thousands of pro-Palestinian demonstrators took to the streets in cities across Europe and the United States on Saturday, October 10, to mark one year since the Gaza ceasefire took effect.",
+      "In London, thousands marched on a route near parliament in a demonstration organised by the Palestine Coalition; police said 20 people were arrested, and a small pro-Israel counter-demonstration also took place. In Berlin, police estimated around 3,500 participants in a march organised by United for Palestine. Demonstrations were also reported in New York, Athens and Dublin, where the Irish Palestine Solidarity Campaign organised a rally.",
+      "Organisers said the marches were intended to press for a lasting peace. The Gaza health ministry says around 1,450 Palestinians have been killed by Israeli strikes since the ceasefire began.",
+      "## Why it matters",
+      "The anniversary marches show the Gaza conflict remains a potent force in street politics a year after the ceasefire, with organisers vowing to keep pressure on governments."
+    ],
+    "category": "World",
+    "tags": [
+      "Gaza",
+      "Protests",
+      "Ceasefire",
+      "Middle East"
+    ],
+    "author": "NewsVeria Newsroom",
+    "publishedAt": "2026-10-11T02:02:17.739Z",
+    "image": {
+      "src": "/images/media-generation-nv-gaza-ceasefire-protests-0-a92847ff-bfd8-435a-a373-4b55c6c74222.webp",
+      "alt": "Illustration of abstract demonstrators holding blank placards beneath an olive branch",
+      "caption": "Illustration: stylised marchers with blank placards under an olive branch. NewsVeria uses clearly labelled generated illustrations and never presents imagery as real event photography.",
+      "credit": "NewsVeria generated illustration"
+    },
+    "sources": [
+      {
+        "name": "Al Jazeera — Global protests for Gaza solidarity (newsfeed)",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/10/11/11-10-sv-global-protests-for-gaza-solidarity-uk?traffic_source=rss",
+        "role": "primary"
+      },
+      {
+        "name": "AFP wire (republished) — Thousands join pro-Palestinian marches in several European cities",
+        "url": "https://www.morningchronicle.co.uk/Politics/775459-thousands-join-pro-palestinian-marches-in-several-european-cities.html",
+        "role": "corroboration"
+      }
+    ],
+    "status": "PUBLISHED",
+    "verification": {
+      "eventConfirmed": true,
+      "primarySourceFound": true,
+      "independentCorroboration": true,
+      "chronologyChecked": true,
+      "detailsChecked": true,
+      "supersededChecked": true,
+      "imageChecked": true,
+      "reviewer": "NewsVeria editorial desk (AI-assisted, standards in Editorial Policy)",
+      "notes": "Al Jazeera newsfeed page opened and read: demonstrations in NY, London, Berlin, Athens, Dublin on Oct 10 marking one year since Gaza ceasefire. AFP wire (republished, opened) corroborates with on-the-ground detail: London thousands near parliament (Palestine Coalition), ~3,500 in Berlin per police (United for Palestine), Dublin (Irish Palestine Solidarity Campaign), 20 arrests in London, small pro-Israel counter-demo, ~1,450 Palestinians killed by Israeli strikes since ceasefire per Gaza health ministry. Factual protest reporting; not an election, accusation or unverified claim. No superseding development at check time.",
+      "checkedAt": "2026-10-11T02:02:17.739Z"
+    },
+    "editorPick": false,
+    "breaking": false,
+    "pinned": true,
+    "pinUrl": "https://www.pinterest.com/pin/1125618500654698525/"
+  },
+  {
+    "id": "art-0022-yorkshire-tiger-enclosure-2026",
+    "slug": "man-dies-yorkshire-wildlife-park-tiger-enclosure-2026",
+    "headline": "Man Dies After Entering Tiger Enclosure at Yorkshire Wildlife Park in England",
+    "socialHeadline": "A man who entered a tiger enclosure at Yorkshire Wildlife Park was attacked and pronounced dead at the scene; police say there is no wider risk to the public",
+    "summary": "A man died on October 10 after entering the tiger enclosure at Yorkshire Wildlife Park near Doncaster, England, where he was attacked by a Siberian tiger, South Yorkshire Police said.",
+    "body": [
+      "A man died on Saturday, October 10, after entering the tiger enclosure at Yorkshire Wildlife Park near Doncaster, England. South Yorkshire Police said officers were called at 1:35pm local time following reports of a man inside the enclosure, where a Siberian tiger attacked him.",
+      "The man was pronounced dead at the scene despite the efforts of paramedics, police said. His family has been notified. The tiger was uninjured, and police said there was no wider risk to the public.",
+      "The park was evacuated and closed for the weekend following the incident. Witnesses reported seeing the man jump into the enclosure and hearing shots fired into the pen.",
+      "## Why it matters",
+      "The death is a rare and shocking incident at a major UK wildlife attraction; the park and police are expected to review how the man gained access to the enclosure."
+    ],
+    "category": "World",
+    "tags": [
+      "UK",
+      "Wildlife",
+      "Yorkshire"
+    ],
+    "author": "NewsVeria Newsroom",
+    "publishedAt": "2026-10-11T02:02:17.739Z",
+    "image": {
+      "src": "/images/media-generation-nv-yorkshire-tiger-enclosure-0-26986a1a-01a1-4360-8039-05c4474b988f.webp",
+      "alt": "Illustration of a tiger silhouette behind enclosure bars with a wildlife safety notice motif",
+      "caption": "Illustration: a stylised tiger behind enclosure bars with a safety-notice motif. NewsVeria uses clearly labelled generated illustrations and never presents imagery as real event photography.",
+      "credit": "NewsVeria generated illustration"
+    },
+    "sources": [
+      {
+        "name": "CNN — Serious incident at tiger enclosure, UK park (quoting South Yorkshire Police statement in full)",
+        "url": "https://www.cnn.com/2026/10/10/uk/serious-incident-tiger-enclosure-uk-park?cid=external-feeds_iluminar_meta",
+        "role": "primary"
+      },
+      {
+        "name": "People — Man mauled to death after entering tiger enclosure at Yorkshire Wildlife Park",
+        "url": "https://people.com/man-mauled-to-death-after-entering-tiger-enclosure-yorkshire-wildlife-park-zoo-england-12167813",
+        "role": "corroboration"
+      }
+    ],
+    "status": "PUBLISHED",
+    "verification": {
+      "eventConfirmed": true,
+      "primarySourceFound": true,
+      "independentCorroboration": true,
+      "chronologyChecked": true,
+      "detailsChecked": true,
+      "supersededChecked": true,
+      "imageChecked": true,
+      "reviewer": "NewsVeria editorial desk (AI-assisted, standards in Editorial Policy)",
+      "notes": "CNN page opened and read, quoting South Yorkshire Police statement in full: man entered enclosure at Yorkshire Wildlife Park near Doncaster, police called 1:35pm Oct 10, Siberian tiger attacked, man pronounced dead at scene, family notified, tiger uninjured, no wider public risk, park evacuated and closed for weekend. People corroborates with witness detail (man seen jumping in, shots heard into pen). Note: pipeline's stored sourceUrl for this candidate was mismatched (pointed to an unrelated CBS video); story located via search instead. No superseding development at check time.",
+      "checkedAt": "2026-10-11T02:02:17.739Z"
+    },
+    "editorPick": false,
+    "breaking": false,
+    "pinned": true,
+    "pinUrl": "https://www.pinterest.com/pin/1125618500654698572/"
+  },
+  {
+    "id": "art-0023-southeast-asia-haze-2026",
+    "slug": "southeast-asia-haze-johor-schools-singapore-2026",
+    "headline": "Haze Chokes Southeast Asia: Johor Schools Shut Until Oct 16, Singapore Air Stays Unhealthy",
+    "socialHeadline": "Johor extended school closures to Oct 16 and Singapore's air stayed unhealthy as smoke from Indonesian fires drifts across the region",
+    "summary": "Johor state extended school closures to October 16 and Singapore's air quality remained in the unhealthy range as smoke haze from fires in Indonesia's Sumatra and Kalimantan drifted across Southeast Asia.",
+    "body": [
+      "The Malaysian state of Johor extended the closure of all schools and educational institutions by five more days, through October 16, 2026, as haze worsened across the region. The announcement was made late Saturday, October 10, by state education and information committee chairman Muhammad Naqib Md Ghazali, by decree of the Regent of Johor, Tunku Mahkota Ismail.",
+      "The extension follows a statewide closure on October 8-9 and affects 1,198 schools and 617,258 students, according to The Star. Students will continue home-based learning and scheduled assessments have been postponed. Officials cited forecasts that winds from Indonesia's Kalimantan between October 13 and 15 could bring more transboundary pollution; 15 areas in Malaysia recorded unhealthy Air Pollutant Index readings on Sunday morning, eight of them in Johor.",
+      "In Singapore, air quality remained in the unhealthy range across all five regions on October 11. The National Environment Agency said the 24-hour PSI ranged from 115 to 152 as of 9am Sunday, after the central region hit 192 on Friday evening — a season high — and warned the index could exceed 200, the 'very unhealthy' threshold. The haze comes from smoke drifting on east-southeasterly winds from southern Sumatra and Kalimantan. A 28-agency Haze Task Force has been convened, and the Formula 1 Singapore Grand Prix weekend is proceeding with contingency measures in place.",
+      "## Why it matters",
+      "The annual transboundary haze season is again disrupting daily life across the region, with authorities in both countries warning conditions could deteriorate further in the coming days."
+    ],
+    "category": "World",
+    "tags": [
+      "Haze",
+      "Malaysia",
+      "Singapore",
+      "Air Quality"
+    ],
+    "author": "NewsVeria Newsroom",
+    "publishedAt": "2026-10-11T02:02:17.739Z",
+    "image": {
+      "src": "/images/media-generation-nv-southeast-asia-haze-v2-0-692891b7-533d-4269-84ca-e280211fdc15.webp",
+      "alt": "Illustration of a city skyline and school building under haze bands with an air-quality gauge",
+      "caption": "Illustration: a school and city skyline under layered haze with an air-quality gauge. NewsVeria uses clearly labelled generated illustrations and never presents imagery as real event photography.",
+      "credit": "NewsVeria generated illustration"
+    },
+    "sources": [
+      {
+        "name": "CNA — Johor extends school closures to Oct 16 as haze worsens",
+        "url": "https://www.channelnewsasia.com/asia/malaysia-johor-school-closure-extended-oct-16-6449831",
+        "role": "primary"
+      },
+      {
+        "name": "CNA — Air quality remains unhealthy across Singapore amid haze",
+        "url": "https://www.channelnewsasia.com/singapore/haze-persists-singapore-air-quality-6449771",
+        "role": "corroboration"
+      }
+    ],
+    "status": "PUBLISHED",
+    "verification": {
+      "eventConfirmed": true,
+      "primarySourceFound": true,
+      "independentCorroboration": true,
+      "chronologyChecked": true,
+      "detailsChecked": true,
+      "supersededChecked": true,
+      "imageChecked": true,
+      "reviewer": "NewsVeria editorial desk (AI-assisted, standards in Editorial Policy)",
+      "notes": "Combined article from two candidates covering the same transboundary haze event. CNA Johor page opened and read: closure extended Oct 12-16 announced Oct 10 by Muhammad Naqib Md Ghazali by decree of Regent Tunku Mahkota Ismail; 1,198 schools, 617,258 students (The Star via CNA); home-based learning; Kalimantan wind forecast Oct 13-15; 15 unhealthy-API areas (8 in Johor). CNA Singapore page opened and read: unhealthy across all five regions Oct 11; 24-hr PSI 115-152 (9am Sun), central region 192 Fri evening season high; NEA evening advisory Oct 10; smoke from southern Sumatra/Kalimantan; 28-agency Haze Task Force; F1 Singapore GP weekend continues with contingencies. Goody Feed corroborates Johor extension. No superseding development at check time.",
+      "checkedAt": "2026-10-11T02:02:17.739Z"
+    },
+    "editorPick": false,
+    "breaking": false,
+    "pinned": true,
+    "pinUrl": "https://www.pinterest.com/pin/1125618500654698598/"
   }
- },
- {
-  "id": "art-0003-verstappen-singapore-sprint-2026",
-  "slug": "verstappen-wins-singapore-sprint-russell-crash-mclaren-clash",
-  "headline": "Verstappen Wins Chaotic Wet Singapore Sprint After Russell Crash and Late McLaren Clash",
-  "socialHeadline": "Verstappen takes the Singapore Sprint win after Russell crashes from the lead and the McLarens collide late on",
-  "summary": "Max Verstappen won the Singapore Grand Prix Sprint after a rain-delayed start, an early crash for George Russell and a late collision between the two McLarens. Lewis Hamilton and Charles Leclerc completed the top three.",
-  "body": [
-   "Max Verstappen won the Formula 1 Singapore Grand Prix Sprint on Saturday in a race reshaped by heavy rain, an early crash for the initial leader and contact between team-mates near the finish.",
-   "After a downpour soaked parts of the Marina Bay circuit, the start was delayed by more than half an hour while standing water cleared. When the Sprint began, every driver was on intermediate tyres and George Russell moved ahead of pole-sitter Verstappen into the first corner.",
-   "## Russell leads, then crashes",
-   "Russell's advantage lasted less than a lap. He lost control at the final corner and hit the wall, which brought out the safety car and returned Verstappen to the lead. Several other drivers also retired in the opening laps after separate incidents and technical problems, contributing to a high attrition rate for a Sprint.",
-   "Verstappen controlled the restart and gradually built a gap as the track dried, though conditions remained too damp for a switch to slick tyres. Lewis Hamilton used a strong start to move into second place, with Charles Leclerc holding third despite reporting heavy tyre wear.",
-   "## McLaren contact changes fourth place",
-   "In the closing laps, Lando Norris attempted to pass Oscar Piastri and the two McLarens made contact at Turn 5. Piastri was left in the wall and out of the points, while Norris continued to finish eighth. Kimi Antonelli therefore moved up to fourth, ahead of Liam Lawson, Ollie Bearman and Nico Hulkenberg.",
-   "The official Sprint classification lists Verstappen first in 39:48.162, followed by Hamilton and Leclerc. Drivers return to the circuit later on Saturday for qualifying for Sunday's Grand Prix."
-  ],
-  "category": "Sports",
-  "tags": [
-   "Formula 1",
-   "Singapore Grand Prix",
-   "Max Verstappen",
-   "George Russell",
-   "McLaren"
-  ],
-  "author": "NewsVeria Newsroom",
-  "publishedAt": "2026-10-10T13:25:01Z",
-  "image": {
-   "src": "/images/media-generation-verstappen-singapore-sprint-il-0-4b348854-3362-47b9-9b00-ec7583935a51.webp",
-   "alt": "Flat illustration of Formula 1 cars racing on a wet street circuit in rain beneath a chequered flag",
-   "caption": "Illustration: wet-weather Sprint racing. NewsVeria uses clearly labelled generated illustrations and never presents imagery as real event photography.",
-   "credit": "NewsVeria generated illustration"
-  },
-  "sources": [
-   {
-    "name": "Formula 1 — 2026 Singapore Grand Prix Sprint report and results",
-    "url": "https://www.formula1.com/en/latest/article/verstappen-wins-dramatic-rain-hit-singapore-sprint-as-russell-crashes-and-mclarens-collide.4r90mH2skljBa5sinFAsyp",
-    "role": "primary"
-   },
-   {
-    "name": "Reuters — Verstappen wins Singapore sprint after chaotic start in wet conditions",
-    "url": "https://www.reuters.com/sports/formula1/verstappen-wins-singapore-sprint-after-chaotic-start-wet-conditions-2026-10-10/",
-    "role": "corroboration"
-   }
-  ],
-  "status": "PUBLISHED",
-  "verification": {
-   "eventConfirmed": true,
-   "primarySourceFound": true,
-   "independentCorroboration": true,
-   "chronologyChecked": true,
-   "detailsChecked": true,
-   "supersededChecked": true,
-   "imageChecked": true,
-   "reviewer": "NewsVeria editorial desk (AI-assisted, standards in Editorial Policy)",
-   "notes": "Official Formula 1 report and classification checked: Verstappen 39:48.162, Hamilton second, Leclerc third, Antonelli fourth; delay, Russell first-lap crash and late McLaren contact all recorded. Reuters wire independently confirms the same winner, podium and key incidents.",
-   "checkedAt": "2026-10-10T13:25:01Z"
-  }
- },
- {
-  "id": "art-0004-all-blacks-bledisloe-2026",
-  "slug": "all-blacks-retain-bledisloe-cup-50-19-australia-eden-park",
-  "headline": "All Blacks Retain Bledisloe Cup With 50-19 Win Over Australia at Eden Park",
-  "socialHeadline": "New Zealand score five second-half tries to beat Australia 50-19 and keep the Bledisloe Cup for a 24th straight year",
-  "summary": "New Zealand beat Australia 50-19 at Eden Park to retain the Bledisloe Cup. The Wallabies trailed by only three points at half-time, but the All Blacks scored five tries after the break to pull clear.",
-  "body": [
-   "New Zealand retained the Bledisloe Cup on Saturday with a 50-19 victory over Australia at Eden Park in Auckland, extending a long hold on the trans-Tasman trophy.",
-   "Australia started the brighter side and led after an early score from fullback Tom Wright. New Zealand responded through Peter Lakai and Tupou Vaa'i, and a Damian McKenzie penalty made it 17-7 before Australia reduced the gap just before half-time when captain Harry Wilson finished a break by Ben Donaldson. The interval score was 17-14.",
-   "## Second-half breakaway",
-   "The contest changed after the restart. Scrum-half Cam Roigard scored early in the second half, and captain Codie Taylor added another try five minutes later to stretch the lead. With Australia struggling to keep possession, wingers Leroy Carter and Josh Moorby and fullback Will Jordan added further tries in the final quarter.",
-   "Australia's only second-half score was a late consolation try from replacement hooker Josh Nasser. McKenzie finished with 15 points from kicks to complement seven New Zealand tries in total.",
-   "The result means New Zealand keeps the Cup regardless of next week's second Test in Sydney and extends its unbeaten run at Eden Park. Australia had arrived on a six-match unbeaten run and was seeking a first win at the venue since 1986."
-  ],
-  "category": "Sports",
-  "tags": [
-   "Rugby Union",
-   "All Blacks",
-   "Wallabies",
-   "Bledisloe Cup",
-   "Eden Park"
-  ],
-  "author": "NewsVeria Newsroom",
-  "publishedAt": "2026-10-10T13:25:01Z",
-  "image": {
-   "src": "/images/media-generation-all-blacks-bledisloe-illustrat-0-2265bed1-246f-452d-b9fa-150c7c1f7737.webp",
-   "alt": "Flat illustration of two rugby players lifting a gold trophy under stadium floodlights with a rugby ball in the foreground",
-   "caption": "Illustration: a trophy lift at a floodlit stadium. NewsVeria uses clearly labelled generated illustrations and never presents imagery as real event photography.",
-   "credit": "NewsVeria generated illustration"
-  },
-  "sources": [
-   {
-    "name": "Rugby Australia (rugby.com.au) — live match report and scoring summary, All Blacks v Wallabies at Eden Park",
-    "url": "https://WWW.RUGBY.COM.AU/wallabies/news/wallabies-all-blacks-bledisloe-cup-live-scores-blog-match-report-updates-auckland-how-to-watch-australia-20261010",
-    "role": "primary"
-   },
-   {
-    "name": "Reuters — All Blacks retain Bledisloe Cup with 50-19 victory over Australia",
-    "url": "https://www.reuters.com/sports/all-blacks-retain-bledisloe-cup-with-50-19-victory-over-australia-2026-10-10/",
-    "role": "corroboration"
-   }
-  ],
-  "status": "PUBLISHED",
-  "verification": {
-   "eventConfirmed": true,
-   "primarySourceFound": true,
-   "independentCorroboration": true,
-   "chronologyChecked": true,
-   "detailsChecked": true,
-   "supersededChecked": true,
-   "imageChecked": true,
-   "reviewer": "NewsVeria editorial desk (AI-assisted, standards in Editorial Policy)",
-   "notes": "Rugby Australia match centre lists final score 50-19, half-time 17-14, try scorers Lakai, Vaa'i, Roigard, Taylor, Carter, Moorby and Jordan for New Zealand and Wright, Wilson and Nasser for Australia. Reuters report independently confirms the same score, half-time position and 24th straight year of retention.",
-   "checkedAt": "2026-10-10T13:25:01Z"
-  }
- },
- {
-  "id": "art-0005-palmer-chelsea-2034",
-  "slug": "cole-palmer-chelsea-contract-extension-2034",
-  "headline": "Cole Palmer Signs Chelsea Extension Through 2034",
-  "socialHeadline": "Cole Palmer extends his Chelsea deal to 2034 as the club continues its run of long-term contracts",
-  "summary": "Chelsea forward Cole Palmer has signed a one-year extension that keeps him at Stamford Bridge until 2034. The 24-year-old has been a central figure since joining from Manchester City in 2023.",
-  "body": [
-   "Chelsea attacking midfielder Cole Palmer has agreed a contract extension that will keep him at the club until 2034, extending his previous deal by a year on improved terms.",
-   "The 24-year-old England international joined Chelsea from Manchester City in 2023 and has since become a regular starter. Club figures cited in reporting credit him with 91 goal contributions in 138 appearances across all competitions, and he was part of the squads that won the Club World Cup and the UEFA Conference League.",
-   "Palmer said talks with the owners, sporting directors and manager had given him confidence to stay, and that team-mates shared an ambition to win major trophies regularly. His comments were published alongside the club announcement on Saturday.",
-   "## Part of a wider pattern",
-   "The extension follows similar long-term agreements for other Chelsea players, including forward Joao Pedro, who is also signed through 2034, and winger Pedro Neto, who agreed a six-year deal last month. Chelsea, who sit 10th in the Premier League, were due to host Bournemouth later on Saturday at the time the new contract was announced.",
-   "Palmer has started the current season with four goals in seven appearances while the club continues to manage his workload after injury problems last season."
-  ],
-  "category": "Sports",
-  "tags": [
-   "Chelsea",
-   "Cole Palmer",
-   "Premier League",
-   "Football",
-   "Transfers"
-  ],
-  "author": "NewsVeria Newsroom",
-  "publishedAt": "2026-10-10T13:25:01Z",
-  "image": {
-   "src": "/images/media-generation-palmer-chelsea-contract-illust-0-10cfe1d5-e6a3-484b-90cc-ba4af27eac0e.webp",
-   "alt": "Flat illustration of a footballer signing a long contract scroll beside a large calendar in a stadium",
-   "caption": "Illustration: signing a long-term contract. NewsVeria uses clearly labelled generated illustrations and never presents imagery as real event photography.",
-   "credit": "NewsVeria generated illustration"
-  },
-  "sources": [
-   {
-    "name": "Reuters — Palmer signs Chelsea contract until 2034 (reporting the club announcement)",
-    "url": "https://www.reuters.com/sports/soccer/palmer-signs-chelsea-contract-until-2034-2026-10-10/",
-    "role": "primary"
-   },
-   {
-    "name": "Sky Sports — Cole Palmer contract: Chelsea forward signs extension until 2034",
-    "url": "https://www.skysports.com/football/news/13597179/cole-palmer-contract-chelsea-forward-signs-extension-at-stamford-bridge-until-2034",
-    "role": "corroboration"
-   }
-  ],
-  "status": "PUBLISHED",
-  "verification": {
-   "eventConfirmed": true,
-   "primarySourceFound": true,
-   "independentCorroboration": true,
-   "chronologyChecked": true,
-   "detailsChecked": true,
-   "supersededChecked": true,
-   "imageChecked": true,
-   "reviewer": "NewsVeria editorial desk (AI-assisted, standards in Editorial Policy)",
-   "notes": "Reuters reports the club announcement of an extension to 2034 for the 24-year-old, with 91 goal contributions in 138 appearances since 2023. Sky Sports independently reports the same one-year extension to 2034 and improved terms. No conflicting contract length found at check time.",
-   "checkedAt": "2026-10-10T13:25:01Z"
-  }
- },
- {
-  "id": "art-0006-augsburg-bayern-fastest-goal-2026",
-  "slug": "augsburg-fastest-bundesliga-goal-bayern-draw-2-2",
-  "headline": "Augsburg Score Fastest Goal in Bundesliga History Before Bayern Fight Back for 2-2 Draw",
-  "socialHeadline": "Robin Fellhauer scored inside nine seconds against Bayern Munich — Augsburg led twice before Bayern rescued a 2-2 draw",
-  "summary": "Robin Fellhauer gave Augsburg the lead inside nine seconds against Bayern Munich, the fastest goal in Bundesliga history, after an error by Manuel Neuer. Bayern twice came from behind, through Ismael Saibari and Nathaniel Brown, to draw 2-2.",
-  "body": [
-   "Augsburg produced the fastest goal in Bundesliga history on Saturday, scoring inside nine seconds against Bayern Munich before the champions twice recovered to draw 2-2 in the Bavarian derby.",
-   "Bayern began the match and worked the ball back to goalkeeper Manuel Neuer. His attempted lifted pass over the advancing Robin Fellhauer did not clear the Augsburg midfielder, who intercepted and ran the ball into an empty net. The league's official match report lists the goal in the first minute and describes it as the fastest in Bundesliga history, improving the previous nine-second mark.",
-   "## Bayern respond, Augsburg strike again",
-   "Bayern pressed for long periods after the restart of play and levelled in the 55th minute, when Harry Kane set up Ismael Saibari. Augsburg restored their lead nine minutes later: Calvin Brackelmann's low shot was parried by Neuer and Rodrigo Ribeiro followed in to score.",
-   "Nathaniel Brown equalised for Bayern in the 80th minute, again from a Kane assist, after the visitors had seen earlier efforts ruled out for offside. Kane was named man of the match for his two assists, and Bayern remained unbeaten, but they could not move top after Borussia Dortmund had also drawn 2-2 with Werder Bremen on Friday.",
-   "The result continues a difficult recent pattern in this fixture for Bayern, whose only defeat in their previous 47 league games had also come against Augsburg, in January."
-  ],
-  "category": "Sports",
-  "tags": [
-   "Bundesliga",
-   "Bayern Munich",
-   "Augsburg",
-   "Robin Fellhauer",
-   "Manuel Neuer"
-  ],
-  "author": "NewsVeria Newsroom",
-  "publishedAt": "2026-10-10T16:23:46Z",
-  "image": {
-   "src": "/images/media-generation-bundesliga-fastest-goal-0-1eb01011-2414-4a8f-92f4-2faee5955ae9.webp",
-   "alt": "Flat illustration of a goalkeeper fumbling a ball at kickoff while an opposing player taps it into an empty net, with a stopwatch motif in the background",
-   "caption": "Illustration: a record-fast opening goal at kickoff. NewsVeria uses clearly labelled generated illustrations and never presents imagery as real event photography.",
-   "credit": "NewsVeria generated illustration"
-  },
-  "sources": [
-   {
-    "name": "Bundesliga (official league site) — Augsburg 2-2 Bayern match report, 10 Oct 2026",
-    "role": "primary",
-    "url": "https://www.bundesliga.com/en/bundesliga/news/augsburg-bayern-munich-match-report-highlights-matchday-5-39487"
-   },
-   {
-    "name": "Reuters — Augsburg score after eight seconds, fastest goal in Bundesliga history",
-    "role": "corroboration",
-    "url": "https://www.reuters.com/sports/soccer/augsburg-score-after-eight-seconds-fastest-goal-bundesliga-history-2026-10-10/"
-   }
-  ],
-  "status": "PUBLISHED",
-  "verification": {
-   "eventConfirmed": true,
-   "primarySourceFound": true,
-   "independentCorroboration": true,
-   "chronologyChecked": true,
-   "detailsChecked": true,
-   "supersededChecked": true,
-   "imageChecked": true,
-   "reviewer": "NewsVeria editorial desk (AI-assisted, standards in Editorial Policy)",
-   "notes": "Official Bundesliga match report opened and checked: final score Augsburg 2-2 Bayern, goals Fellhauer 1', Saibari 55', Ribeiro 64', Brown 80', Kane two assists and man of the match. Reuters independently confirms the sub-nine-second record goal and Neuer error. No newer result supersedes at check time.",
-   "checkedAt": "2026-10-10T16:23:46Z"
-  },
-  "pinned": false
- },
- {
-  "id": "art-0007-arsenal-leeds-2026",
-  "slug": "arsenal-comeback-leeds-2-1-guimaraes-winner",
-  "headline": "Guimaraes Scores Winner as Arsenal Come Back to Beat Leeds 2-1",
-  "socialHeadline": "Leeds led at the Emirates, but Calafiori levelled and substitute Bruno Guimaraes completed Arsenal's 2-1 comeback",
-  "summary": "Arsenal came from behind to beat Leeds United 2-1 at the Emirates Stadium. James Justin put Leeds ahead after the break, Riccardo Calafiori equalised, and substitute Bruno Guimaraes scored the winner in the 70th minute.",
-  "body": [
-   "Arsenal returned to winning ways in the Premier League on Saturday, coming from a goal down to beat Leeds United 2-1 at the Emirates Stadium after a goalless first half.",
-   "Leeds, unbeaten in the league before this match, took the lead shortly after half-time when James Justin finished a low cross from Gabriel Gudmundsson. Arsenal levelled within minutes: Ben White nodded a deep delivery back across goal and Riccardo Calafiori forced the ball in.",
-   "## Substitute decides it",
-   "Manager Mikel Arteta then made a triple change, introducing Viktor Gyokeres, Jurrien Timber and Bruno Guimaraes. The move paid off in the 70th minute, when a passing sequence involving Martin Odegaard and Declan Rice ended with Guimaraes placing a low shot into the far corner from the edge of the area.",
-   "Reuters reported that the win lifted the champions to second place on 15 points, behind Manchester City on goal difference, while Leeds sit fifth on nine points. Arsenal had lost their previous league match 3-0 to Brighton before the international break, making the recovery from a goal down a timely response.",
-   "Arsenal next host Lille in the Champions League on Tuesday before travelling to Nottingham Forest in the league."
-  ],
-  "category": "Sports",
-  "tags": [
-   "Premier League",
-   "Arsenal",
-   "Leeds United",
-   "Bruno Guimaraes",
-   "Football"
-  ],
-  "author": "NewsVeria Newsroom",
-  "publishedAt": "2026-10-10T16:23:46Z",
-  "image": {
-   "src": "/images/media-generation-arsenal-comeback-0-42dc39ba-f4bc-4f4e-ad9e-f0461e22193e.webp",
-   "alt": "Flat illustration of football players in red and white celebrating a late winning goal at a stadium",
-   "caption": "Illustration: a late winning goal and celebration. NewsVeria uses clearly labelled generated illustrations and never presents imagery as real event photography.",
-   "credit": "NewsVeria generated illustration"
-  },
-  "sources": [
-   {
-    "name": "Arsenal FC (official club site) — Report: Arsenal 2-1 Leeds United",
-    "role": "primary",
-    "url": "https://www.arsenal.com/news/report-arsenal-2-1-leeds-united-aZRg37i5KpH0"
-   },
-   {
-    "name": "Reuters — Guimaraes grabs winner as Arsenal rally to beat Leeds",
-    "role": "corroboration",
-    "url": "https://www.reuters.com/sports/soccer/guimaraes-grabs-winner-arsenal-rally-beat-leeds-2026-10-10/"
-   }
-  ],
-  "status": "PUBLISHED",
-  "verification": {
-   "eventConfirmed": true,
-   "primarySourceFound": true,
-   "independentCorroboration": true,
-   "chronologyChecked": true,
-   "detailsChecked": true,
-   "supersededChecked": true,
-   "imageChecked": true,
-   "reviewer": "NewsVeria editorial desk (AI-assisted, standards in Editorial Policy)",
-   "notes": "Arsenal official match report opened and checked: Justin goal, Calafiori equaliser from White header, Guimaraes winner after Arteta triple substitution. Reuters independently confirms 2-1 score, scorer sequence and league positions (Arsenal second on 15 points, Leeds fifth on nine). Candidate headline claim about moving level at the top was not used; Reuters table position used instead.",
-   "checkedAt": "2026-10-10T16:23:46Z"
-  },
-  "pinned": false
- },
- {
-  "id": "art-0008-seixas-lombardia-2026",
-  "slug": "paul-seixas-youngest-winner-il-lombardia-first-monument",
-  "headline": "Paul Seixas, 20, Becomes Youngest-Ever Winner of Il Lombardia With Solo Victory",
-  "socialHeadline": "Paul Seixas attacked with 19km to go and rode alone into Como to win his first Monument at just 20 years old",
-  "summary": "French rider Paul Seixas won Il Lombardia on Saturday with a long solo attack, becoming the youngest winner in the race's history and claiming the first Monument victory of his career ahead of Enric Mas and Giulio Ciccone.",
-  "body": [
-   "Paul Seixas produced the biggest victory of his young career on Saturday, riding alone for the final 18 kilometres to win Il Lombardia in Como and becoming the youngest winner in the history of the Italian Monument.",
-   "The 20-year-old French rider attacked on the Civiglio climb, about 19 kilometres from the finish. Tom Pidcock and Giulio Ciccone initially followed, but Seixas pressed on and dropped both before the summit, then held his advantage over the final climb of San Fermo della Battaglia.",
-   "## A breakthrough at 20",
-   "Enric Mas finished second, 48 seconds behind, with Ciccone third. Remco Evenepoel, among the pre-race favourites in the absence of five-time defending champion Tadej Pogacar, finished fourth. Pogacar missed the race after a crash at the Vuelta a Espana.",
-   "It was Seixas's first Monument victory, in only his third appearance in one of cycling's five most prestigious one-day races. He had finished seventh in this race last year and second to Pogacar at Liege-Bastogne-Liege this spring, and placed fourth at this year's Tour de France.",
-   "Reuters noted he is the first French winner of a Monument since 2019 and the first French winner of Il Lombardia since 2018. The victory came two weeks after he finished 15th at the World Championships, where he had started among the favourites."
-  ],
-  "category": "Sports",
-  "tags": [
-   "Cycling",
-   "Il Lombardia",
-   "Paul Seixas",
-   "Monument",
-   "France"
-  ],
-  "author": "NewsVeria Newsroom",
-  "publishedAt": "2026-10-10T16:23:46Z",
-  "image": {
-   "src": "/images/media-generation-young-cyclist-solo-victory-0-0d515123-c708-415f-8ae5-759f60c81777.webp",
-   "alt": "Flat illustration of a young road cyclist riding alone up a mountain climb toward a finish line, with autumn leaves in the background",
-   "caption": "Illustration: a solo climb to a Monument victory. NewsVeria uses clearly labelled generated illustrations and never presents imagery as real event photography.",
-   "credit": "NewsVeria generated illustration"
-  },
-  "sources": [
-   {
-    "name": "Reuters — French prodigy Seixas wins Giro di Lombardia, his first Monument",
-    "role": "primary",
-    "url": "https://www.reuters.com/sports/french-prodigy-seixas-wins-giro-di-lombardia-his-first-monument-2026-10-10/"
-   },
-   {
-    "name": "Velo (Outside) — Sublime Seixas becomes youngest-ever winner of Il Lombardia",
-    "role": "corroboration",
-    "url": "https://velo.outsideonline.com/road/road-racing/sublime-seixas-youngest-winner-il-lombardia/"
-   }
-  ],
-  "status": "PUBLISHED",
-  "verification": {
-   "eventConfirmed": true,
-   "primarySourceFound": true,
-   "independentCorroboration": true,
-   "chronologyChecked": true,
-   "detailsChecked": true,
-   "supersededChecked": true,
-   "imageChecked": true,
-   "reviewer": "NewsVeria editorial desk (AI-assisted, standards in Editorial Policy)",
-   "notes": "Reuters report opened and checked: Seixas solo win, attack 19km out, Mas second and Ciccone third, youngest-ever Lombardia winner, first French Monument winner since 2019. Velo independently confirms the same podium, 48-second margin, Civiglio attack and Evenepoel fourth. No conflicting result at check time.",
-   "checkedAt": "2026-10-10T16:23:46Z"
-  },
-  "pinned": false
- },
- {
-  "id": "art-0009-renshaw-durban-2026",
-  "slug": "matt-renshaw-190-australia-south-africa-durban-test",
-  "headline": "Matt Renshaw's Career-Best 190 Rescues Australia Against South Africa in Durban",
-  "socialHeadline": "Australia were 124 for six — Matt Renshaw made 190 from 397 balls to lift them to 390 in the first Test at Kingsmead",
-  "summary": "Matt Renshaw scored a career-best 190 to rescue Australia from 124 for six and guide them to 390 all out on day two of the first Test against South Africa at Kingsmead. South Africa closed on 27 for one in reply.",
-  "body": [
-   "Matt Renshaw batted for more than seven hours to score 190 and pull Australia out of deep trouble on the second day of the first Test against South Africa at Kingsmead in Durban.",
-   "Australia had fallen to 124 for six on the opening day after choosing to bat. Renshaw, batting at number five, first added 86 for the seventh wicket with captain Pat Cummins, who made 43, and then shared a ninth-wicket stand of 134 with Nathan Lyon — a record for that wicket for Australia against South Africa and the highest ninth-wicket partnership at this ground.",
-   "## First Test hundred in nine years",
-   "Renshaw's innings lasted 397 balls and included 21 fours and a six. It was his second Test century and his first since scoring 185 against Pakistan in 2017, after a run in which he had reached double figures only twice in his previous 13 Test innings. He was eventually caught at slip off Simon Harmer shortly after tea.",
-   "Australia were bowled out for 390. Wiaan Mulder took four wickets for South Africa and Marco Jansen three. In reply, South Africa reached 27 for one before bad light ended play early, losing Ryan Rickelton to Josh Hazlewood, with Aiden Markram and David Bedingham unbeaten overnight.",
-   "Renshaw's score is the highest by a number five batter in a Test at Kingsmead. The match continues on Sunday with South Africa still trailing by 363 runs."
-  ],
-  "category": "Sports",
-  "tags": [
-   "Cricket",
-   "Australia",
-   "South Africa",
-   "Matt Renshaw",
-   "Test Cricket"
-  ],
-  "author": "NewsVeria Newsroom",
-  "publishedAt": "2026-10-10T16:23:46Z",
-  "image": {
-   "src": "/images/media-generation-flat-infographic-illustration-0-8ea17477-2d73-4e46-94c6-7afe64930ff1.webp",
-   "alt": "Flat illustration of a left-handed cricket batter at the crease at a stadium, with abstract scoreboard shapes in the background",
-   "caption": "Illustration: a long Test innings at the crease. NewsVeria uses clearly labelled generated illustrations and never presents imagery as real event photography.",
-   "credit": "NewsVeria generated illustration"
-  },
-  "sources": [
-   {
-    "name": "Wisden — Matt Renshaw's epic Durban hundred reopens Australia's batting order debate (match report and innings detail)",
-    "role": "primary",
-    "url": "https://www.wisden.com/series/south-africa-vs-australia-m-2026/cricket-news/now-where-to-bat-him---matt-renshaws-epic-durban-ton-reopens-australias-batting-order-debate"
-   },
-   {
-    "name": "Flashscore (Reuters syndication) — Record-breaking Renshaw puts Australia in strong position in first test",
-    "role": "corroboration",
-    "url": "https://www.flashscore.com/news/cricket-test-series-record-breaking-renshaw-puts-australia-in-strong-position-in-first-test/M5DgnBdd/"
-   }
-  ],
-  "status": "PUBLISHED",
-  "verification": {
-   "eventConfirmed": true,
-   "primarySourceFound": true,
-   "independentCorroboration": true,
-   "chronologyChecked": true,
-   "detailsChecked": true,
-   "supersededChecked": true,
-   "imageChecked": true,
-   "reviewer": "NewsVeria editorial desk (AI-assisted, standards in Editorial Policy)",
-   "notes": "Wisden report opened and checked: Renshaw 190, Australia recovered from 124/6, stands of 86 with Cummins and 134 with Lyon, century off 204 balls. Flashscore/Reuters independently confirms Australia 390 all out, South Africa 27/1 at close, Renshaw 190 off 397 balls and the record ninth-wicket stand. One syndicated version described 190 as unbeaten at tea; final dismissal (caught Markram off Harmer) confirmed in scorecard reporting, so the completed innings is used.",
-   "checkedAt": "2026-10-10T16:23:46Z"
-  },
-  "pinned": false
- },
- {
-  "id": "art-0010-valkyries-wnba-finals-2026",
-  "slug": "golden-state-valkyries-sweep-aces-wnba-finals-second-year",
-  "headline": "Golden State Valkyries Sweep Defending Champion Aces to Reach WNBA Finals in Second Year",
-  "socialHeadline": "The second-year Valkyries beat Las Vegas 87-77 in overtime to sweep the defending champions and reach the WNBA Finals",
-  "summary": "The Golden State Valkyries beat the Las Vegas Aces 87-77 in overtime in Game 3 to complete a sweep of the defending champions and reach the WNBA Finals in the franchise's second season. They will face the Atlanta Dream from October 17.",
-  "body": [
-   "The Golden State Valkyries completed a remarkable rise on Friday night, beating the defending champion Las Vegas Aces 87-77 in overtime to sweep their playoff semifinal series and reach the WNBA Finals in only the franchise's second season.",
-   "Las Vegas, seeded third and winners of three of the past four championships, led 45-36 at half-time and by 11 early in the third quarter. Golden State responded with a 17-0 run and held the Aces to seven points in the third period to move in front.",
-   "## Overtime decides the sweep",
-   "The Aces recovered to force overtime, tying the game late in the fourth quarter after Golden State had briefly led. The extra period was one-sided: the Valkyries outscored Las Vegas 16-6, with Gabby Williams scoring eight of her 16 points in overtime. Kayla Thornton led Golden State with 18 points, while Kiah Stokes and Tiffany Hayes each added 11.",
-   "Five-time MVP A'ja Wilson led Las Vegas with 21 points and 10 rebounds on a night when she was honoured for her latest MVP award, but shot 6-for-19. Jackie Young scored 18 and Chelsea Gray 17 for the Aces.",
-   "Golden State, the second seed, becomes the quickest expansion team to reach the Finals. It will host the fourth-seeded Atlanta Dream, who swept New York earlier on Friday, in a series beginning on October 17."
-  ],
-  "category": "Sports",
-  "tags": [
-   "WNBA",
-   "Golden State Valkyries",
-   "Las Vegas Aces",
-   "Basketball",
-   "Playoffs"
-  ],
-  "author": "NewsVeria Newsroom",
-  "publishedAt": "2026-10-10T16:23:46Z",
-  "image": {
-   "src": "/images/media-generation-flat-infographic-illustration-0-d82ed6f3-a7dc-46f3-9f5e-48f5724a233f.webp",
-   "alt": "Flat illustration of women's basketball players celebrating an overtime win in an arena, with a trophy motif in the background",
-   "caption": "Illustration: an overtime playoff celebration. NewsVeria uses clearly labelled generated illustrations and never presents imagery as real event photography.",
-   "credit": "NewsVeria generated illustration"
-  },
-  "sources": [
-   {
-    "name": "Associated Press, via NBC Sports — Valkyries secure WNBA Finals spot with OT win over the Aces",
-    "role": "primary",
-    "url": "https://www.nbcsports.com/wnba/news/valkyries-secure-wnba-finals-spot-with-ot-win-over-the-aces-face-the-dream-next"
-   },
-   {
-    "name": "USA Today — Golden State Valkyries eliminate Las Vegas Aces, reach WNBA Finals (Game 3 live coverage and result)",
-    "role": "corroboration",
-    "url": "https://www.usatoday.com/story/sports/wnba/2026/10/09/aja-wilson-las-vegas-aces-golden-state-valkyries-wnba-playoffs-time-tv-highlights-score--live/92167187007/"
-   }
-  ],
-  "status": "PUBLISHED",
-  "verification": {
-   "eventConfirmed": true,
-   "primarySourceFound": true,
-   "independentCorroboration": true,
-   "chronologyChecked": true,
-   "detailsChecked": true,
-   "supersededChecked": true,
-   "imageChecked": true,
-   "reviewer": "NewsVeria editorial desk (AI-assisted, standards in Editorial Policy)",
-   "notes": "AP report checked: Valkyries 87-77 in overtime, Game 3 sweep, Thornton 18, Williams 16 with eight in overtime, Wilson 21, Finals vs Atlanta from Oct 17. USA Today live coverage independently confirms the same final score, overtime path, 17-0 third-quarter run and Finals matchup. No later correction at check time.",
-   "checkedAt": "2026-10-10T16:23:46Z"
-  },
-  "pinned": false
- },
- {
-  "id": "art-0011-alcaraz-shanghai-2026",
-  "slug": "carlos-alcaraz-shanghai-masters-opener-cerundolo-win",
-  "headline": "Carlos Alcaraz Opens Shanghai Masters Campaign With Straight-Sets Win Over Cerundolo",
-  "socialHeadline": "Carlos Alcaraz beat Juan Manuel Cerundolo 6-3, 6-3 in 66 minutes to start his Shanghai Masters title bid",
-  "summary": "Carlos Alcaraz began his Shanghai Masters campaign with a 6-3, 6-3 second-round win over Juan Manuel Cerundolo in 66 minutes, extending his winning run to seven matches after his Tokyo title.",
-  "body": [
-   "Carlos Alcaraz made a comfortable start to his Shanghai Masters campaign on Saturday, beating Argentina's Juan Manuel Cerundolo 6-3, 6-3 in the second round.",
-   "The second-seeded Spaniard needed only 66 minutes and did not face sustained pressure on serve, breaking Cerundolo in each set to control the match. The win was his seventh in a row and followed his title at the Japan Open in Tokyo earlier in the week.",
-   "## Quick turnaround from Tokyo",
-   "Alcaraz said afterwards that he had only two days to prepare after travelling from Tokyo, where conditions were different, and that he was pleased with how he adjusted. He is playing in Shanghai for the first time since reaching the quarter-finals in 2024 and is seeking his first title at the event.",
-   "In the third round he will face the winner of the match between Ignacio Buse and Zizou Bergs. Elsewhere on Saturday, Daniil Medvedev returned after his China Open disqualification to beat Jan-Lennard Struff in three sets, and Felix Auger-Aliassime survived a three-hour match against Camilo Ugo Carabelli.",
-   "Several other matches were interrupted by rain before play resumed, with Taylor Fritz, Casper Ruud and Arthur Fils also advancing."
-  ],
-  "category": "Sports",
-  "tags": [
-   "Tennis",
-   "Carlos Alcaraz",
-   "Shanghai Masters",
-   "ATP",
-   "Juan Manuel Cerundolo"
-  ],
-  "author": "NewsVeria Newsroom",
-  "publishedAt": "2026-10-10T16:23:46Z",
-  "image": {
-   "src": "/images/media-generation-flat-infographic-illustration-0-bd6aa6a1-d503-48a5-94e3-b42df438ad53.webp",
-   "alt": "Flat illustration of a tennis player serving on a hard court at night, with an abstract city skyline in the background",
-   "caption": "Illustration: a night-session serve at a Masters event. NewsVeria uses clearly labelled generated illustrations and never presents imagery as real event photography.",
-   "credit": "NewsVeria generated illustration"
-  },
-  "sources": [
-   {
-    "name": "SuperSport (AFP reporting) — Medvedev through at Shanghai Masters; Alcaraz beats Cerundolo 6-3, 6-3 in opener",
-    "role": "primary",
-    "url": "https://supersport.com/tennis/news/4f8a8766-3910-42e1-b6ac-551fb747a4a8/medvedev-through-at-shanghai-masters-in-first-match-since-disqualification"
-   },
-   {
-    "name": "Flashscore — Alcaraz sails through Shanghai opener, Auger-Aliassime and Fritz also advance",
-    "role": "corroboration",
-    "url": "https://www.flashscore.com/news/alcaraz-breezes-through-shanghai-opener-auger-aliassime-fritz-also-advance/pA33DJKE/"
-   }
-  ],
-  "status": "PUBLISHED",
-  "verification": {
-   "eventConfirmed": true,
-   "primarySourceFound": true,
-   "independentCorroboration": true,
-   "chronologyChecked": true,
-   "detailsChecked": true,
-   "supersededChecked": true,
-   "imageChecked": true,
-   "reviewer": "NewsVeria editorial desk (AI-assisted, standards in Editorial Policy)",
-   "notes": "SuperSport/AFP report opened and checked: Alcaraz beat 55th-ranked Cerundolo 6-3, 6-3 in 66 minutes, second round, seven-match winning run after Tokyo, next opponent Buse or Bergs. Flashscore independently reports the identical score, duration, seeding and next-round pairing. No conflicting score at check time.",
-   "checkedAt": "2026-10-10T16:23:46Z"
-  },
-  "pinned": false
- },
- {
-  "id": "art-0012-chelsea-bournemouth-2026",
-  "slug": "chelsea-thrash-bournemouth-5-1-henderson-brace",
-  "headline": "Jordan Henderson Scores Twice as Chelsea Thrash Bournemouth 5-1 for First League Win Since August",
-  "socialHeadline": "Chelsea 5-1 Bournemouth: Henderson's first two goals for the club inspire a five-star rout at Stamford Bridge — their first league win since August",
-  "summary": "Chelsea ended their wait for a Premier League win in style on Saturday, sweeping Bournemouth aside 5-1 at Stamford Bridge. Jordan Henderson scored twice — his first goals for the club — while Morgan Rogers and Joao Pedro also found the net.",
-  "body": [
-   "Chelsea produced their best performance of the season on Saturday, thrashing Bournemouth 5-1 at Stamford Bridge for a first Premier League victory since August, with veteran midfielder Jordan Henderson scoring his first two goals for the club.",
-   "Henderson opened the scoring in the second minute and curled in a free kick in the 70th to complete his brace. Morgan Rogers made it 2-0 in the third minute, meaning Chelsea's two opening goals arrived inside two minutes and 29 seconds — the earliest two-goal lead in the club's Premier League history. Joao Pedro struck twice after the break, in the 46th and 67th minutes, while Evanilson pulled one back for Bournemouth in the 51st.",
-   "## Alonso hails 'complete performance'",
-   "Manager Xabi Alonso praised Henderson's \"two beauties\" and described the display as a \"complete performance\", according to Reuters. The result lifts the pressure on the Blues after a winless league run stretching back to August, and was celebrated as a statement win in front of their own supporters.",
-   "## What it means",
-   "The five-goal haul was Chelsea's most emphatic league win of the campaign and moves them up the table, while Bournemouth were left to regroup after a chastening afternoon in west London."
-  ],
-  "category": "Sports",
-  "tags": [
-   "Chelsea",
-   "Bournemouth",
-   "Premier League",
-   "Jordan Henderson",
-   "Football"
-  ],
-  "author": "NewsVeria Newsroom",
-  "publishedAt": "2026-10-10T19:36:22Z",
-  "image": {
-   "src": "/images/media-generation-nv-chelsea-5-1-bournemouth-v2-0-3adee264-c39f-4485-ae08-b19ba6251fa4.webp",
-   "alt": "Illustration of a Chelsea 5-1 Bournemouth soccer scoreboard with a two-goal brace motif",
-   "caption": "Illustration: a stylised scoreboard marks Chelsea's 5-1 rout of Bournemouth. NewsVeria uses clearly labelled generated illustrations and never presents imagery as real event photography.",
-   "credit": "NewsVeria generated illustration"
-  },
-  "sources": [
-   {
-    "name": "Chelsea FC — official match report: Chelsea 5-1 Bournemouth",
-    "url": "https://www.chelseafc.com/en/news/article/match-report-chelsea-5-1-bournemouth-oct-26",
-    "role": "primary"
-   },
-   {
-    "name": "Reuters — Alonso hails impact as Chelsea crush Bournemouth",
-    "url": "https://www.reuters.com/sports/soccer/alonso-hails-caicedos-impact-chelsea-crush-bournemouth-2026-10-10/",
-    "role": "corroboration"
-   }
-  ],
-  "status": "PUBLISHED",
-  "verification": {
-   "eventConfirmed": true,
-   "primarySourceFound": true,
-   "independentCorroboration": true,
-   "chronologyChecked": true,
-   "detailsChecked": true,
-   "supersededChecked": true,
-   "imageChecked": true,
-   "reviewer": "NewsVeria editorial desk (AI-assisted, standards in Editorial Policy)",
-   "notes": "Chelsea FC official match report opened and checked: 5-1 FT at Stamford Bridge, 2026-10-10; scorers Henderson 2'/70' (first two Chelsea goals), Rogers 3', Joao Pedro 46'/67', Evanilson 51'; 2-0 inside 2:29, earliest two-goal PL lead in club history; first league win since August. Reuters independently corroborates scoreline, Henderson brace and Alonso quotes. No newer result supersedes at check time.",
-   "checkedAt": "2026-10-10T19:36:22Z"
-  },
-  "editorPick": true,
-  "breaking": false,
-  "pinned": false
- },
- {
-  "id": "art-0013-barcelona-getafe-2026",
-  "slug": "barcelona-beat-getafe-3-0-perfect-laliga-start",
-  "headline": "Barcelona Cruise Past Getafe 3-0 to Make It Eight Wins From Eight in LaLiga",
-  "socialHeadline": "Barcelona 3-0 Getafe: Gordon, Jesus and Kounde keep the perfect start alive — eight wins from eight at the top of LaLiga",
-  "summary": "Barcelona maintained their perfect LaLiga start on Saturday with a comfortable 3-0 win over Getafe at the Spotify Camp Nou, making it eight victories from eight matches to stay top of the table.",
-  "body": [
-   "Barcelona extended their flawless start to the LaLiga season on Saturday, beating Getafe 3-0 at the Spotify Camp Nou for an eighth consecutive league victory.",
-   "Anthony Gordon opened the scoring in the second minute, Gabriel Jesus doubled the lead on the half-hour mark, and Jules Kounde — teed up by Lamine Yamal — added the third in the 73rd minute to seal a routine afternoon for the champions.",
-   "## Eight from eight",
-   "The win keeps Barcelona on 24 points from eight matches, preserving their 100 per cent record at the summit. Getafe, who rarely threatened, remain in the bottom half after a disciplined but ultimately outclassed display in Catalonia."
-  ],
-  "category": "Sports",
-  "tags": [
-   "Barcelona",
-   "Getafe",
-   "LaLiga",
-   "Football"
-  ],
-  "author": "NewsVeria Newsroom",
-  "publishedAt": "2026-10-10T19:36:22Z",
-  "image": {
-   "src": "/images/media-generation-nv-barcelona-3-0-getafe-v2-0-d594bd47-3c0e-43e2-bc16-fa5317480973.webp",
-   "alt": "Illustration of a Barcelona 3-0 Getafe soccer scoreboard with a clean-sheet motif",
-   "caption": "Illustration: a stylised scoreboard marks Barcelona's 3-0 win over Getafe. NewsVeria uses clearly labelled generated illustrations and never presents imagery as real event photography.",
-   "credit": "NewsVeria generated illustration"
-  },
-  "sources": [
-   {
-    "name": "LaLiga — official match page: FC Barcelona vs Getafe CF, matchday 8",
-    "url": "https://www.laliga.com/en-US/match/temporada-2026-2027-laliga-ea-sports-fc-barcelona-getafe-cf-8",
-    "role": "primary"
-   },
-   {
-    "name": "Reuters — Barcelona cruise past Getafe to maintain perfect start",
-    "url": "https://www.reuters.com/sports/soccer/barcelona-cruise-past-getafe-maintain-perfect-start-2026-10-10/",
-    "role": "corroboration"
-   }
-  ],
-  "status": "PUBLISHED",
-  "verification": {
-   "eventConfirmed": true,
-   "primarySourceFound": true,
-   "independentCorroboration": true,
-   "chronologyChecked": true,
-   "detailsChecked": true,
-   "supersededChecked": true,
-   "imageChecked": true,
-   "reviewer": "NewsVeria editorial desk (AI-assisted, standards in Editorial Policy)",
-   "notes": "LaLiga official match page opened: FT Barcelona 3-0 Getafe, 2026-10-10, Spotify Camp Nou, matchday 8. Reuters corroborates scorers Gordon 2', Jesus 30', Kounde 73' (Yamal assist) and the eight-wins-from-eight record (24 points, top of table). No newer result supersedes at check time.",
-   "checkedAt": "2026-10-10T19:36:22Z"
-  },
-  "editorPick": true,
-  "breaking": false,
-  "pinned": false
- },
- {
-  "id": "art-0014-manutd-spurs-2026",
-  "slug": "man-utd-held-by-spurs-1-1-solanke-late-equaliser",
-  "headline": "Manchester United Held 1-1 by Tottenham After Solanke's Stoppage-Time Equaliser",
-  "socialHeadline": "Man Utd 1-1 Spurs: Mbeumo's strike looked enough until Solanke's 90+2' header — and Bentancur saw red for the visitors",
-  "summary": "Manchester United were denied victory at Old Trafford on Saturday as Dominic Solanke's stoppage-time header earned Tottenham a 1-1 Premier League draw, after Bryan Mbeumo had put the hosts ahead.",
-  "body": [
-   "Tottenham snatched a point at Old Trafford on Saturday, with Dominic Solanke's header in the second minute of stoppage time cancelling out Bryan Mbeumo's 73rd-minute opener in a 1-1 Premier League draw.",
-   "Mbeumo finished from Matheus Cunha's assist to give United the lead, but Solanke nodded in Sandro Tonali's cross at 90+2' to rescue the visitors. Spurs finished with ten men after Rodrigo Bentancur was shown a straight red card in the 78th minute for a headbutt motion towards Luke Shaw.",
-   "## Frustration for United",
-   "United had looked set for an important home win after Mbeumo's strike, but Solanke's late intervention — against ten-man opposition — left the hosts to rue two dropped points on matchday six."
-  ],
-  "category": "Sports",
-  "tags": [
-   "Manchester United",
-   "Tottenham Hotspur",
-   "Premier League",
-   "Football"
-  ],
-  "author": "NewsVeria Newsroom",
-  "publishedAt": "2026-10-10T19:36:22Z",
-  "image": {
-   "src": "/images/media-generation-nv-manutd-1-1-spurs-0-196dd636-e330-4b1c-968a-bcc03923fb74.webp",
-   "alt": "Illustration of a Manchester United 1-1 Tottenham scoreboard with a balanced-scales draw motif",
-   "caption": "Illustration: a stylised scoreboard marks the 1-1 draw between Manchester United and Tottenham. NewsVeria uses clearly labelled generated illustrations and never presents imagery as real event photography.",
-   "credit": "NewsVeria generated illustration"
-  },
-  "sources": [
-   {
-    "name": "Sky Sports — match report: Manchester United vs Tottenham Hotspur",
-    "url": "https://www.skysports.com/football/manchester-united-vs-tottenham-hotspur/7654262564534979232",
-    "role": "primary"
-   },
-   {
-    "name": "football.london — Tottenham player ratings vs Manchester United",
-    "url": "https://www.football.london/tottenham-hotspur-fc/fixtures-results/tottenham-player-ratings-vs-man-34746683",
-    "role": "corroboration"
-   }
-  ],
-  "status": "PUBLISHED",
-  "verification": {
-   "eventConfirmed": true,
-   "primarySourceFound": true,
-   "independentCorroboration": true,
-   "chronologyChecked": true,
-   "detailsChecked": true,
-   "supersededChecked": true,
-   "imageChecked": true,
-   "reviewer": "NewsVeria editorial desk (AI-assisted, standards in Editorial Policy)",
-   "notes": "Sky Sports match page opened: FT Manchester United 1-1 Tottenham Hotspur, 2026-10-10, Old Trafford; scorers Mbeumo 73' (Cunha assist), Solanke 90+2' header (Tonali assist); Bentancur straight red 78'. football.london ratings piece corroborates the result and the dismissal framing. No newer result supersedes at check time.",
-   "checkedAt": "2026-10-10T19:36:22Z"
-  },
-  "editorPick": false,
-  "breaking": false,
-  "pinned": false
- },
- {
-  "id": "art-0015-shesterkin-out-season-2026",
-  "slug": "rangers-igor-shesterkin-out-for-season-knee-injury",
-  "headline": "Rangers' Igor Shesterkin Out for Season After Knee Injury Against Capitals",
-  "socialHeadline": "Rangers lose Igor Shesterkin for the season — the star goalie hurt his right knee Friday in Washington and goes on season-ending LTIR",
-  "summary": "New York Rangers goaltender Igor Shesterkin will miss the rest of the 2026-27 season after injuring his right knee in Friday's 3-1 loss at Washington, the team announced Saturday. He will be placed on season-ending long-term injured reserve.",
-  "body": [
-   "The New York Rangers announced Saturday that star goaltender Igor Shesterkin will miss the remainder of the 2026-27 season with a right-knee injury sustained in Friday's 3-1 defeat at Washington. He will be placed on season-ending long-term injured reserve.",
-   "The injury occurred at 8:20 of the second period, when Shesterkin's right skate jammed into the goalpost as he scrambled back into his crease. He could not put weight on his right leg and was helped off the ice by teammates Sean Durzi and Marcus Pettersson. The team's official announcement describes a lower-body injury, with the right knee identified in reporting on the incident; coach Mike Sullivan declined to confirm whether the injury involves a torn ACL.",
-   "## Crease crisis on Broadway",
-   "The blow is compounded by the loss of backup Joonas Korpisalo, sidelined four weeks with a lower-body injury, leaving Dylan Garand as the Rangers' No. 1 goaltender. Shesterkin ends his season with a 3-1-0 record, a 1.79 goals-against average and a .927 save percentage in five starts — a campaign that had included his first career NHL goal on October 1 against Tampa Bay."
-  ],
-  "category": "Sports",
-  "tags": [
-   "NHL",
-   "New York Rangers",
-   "Igor Shesterkin",
-   "Ice Hockey"
-  ],
-  "author": "NewsVeria Newsroom",
-  "publishedAt": "2026-10-10T19:36:22Z",
-  "image": {
-   "src": "/images/media-generation-nv-shesterkin-injury-v2-0-6a5ab92c-b0bf-4b90-960e-e12d13b6f7bb.webp",
-   "alt": "Illustration of a hockey goalie mask beside a medical cross, marking a season-ending injury",
-   "caption": "Illustration: goalie gear and a medical cross mark Shesterkin's season-ending injury. NewsVeria uses clearly labelled generated illustrations and never presents imagery as real event photography.",
-   "credit": "NewsVeria generated illustration"
-  },
-  "sources": [
-   {
-    "name": "NHL.com — Rangers goalie Igor Shesterkin out for season (team announcement)",
-    "url": "https://www.nhl.com/news/new-york-rangers-goalie-igor-shesterkin-out-for-season",
-    "role": "primary"
-   },
-   {
-    "name": "Reuters — Rangers G Igor Shesterkin out for season",
-    "url": "https://www.reuters.com/sports/rangers-g-igor-shesterkin-out-season-with-lower-body-injury--flm-2026-10-10/",
-    "role": "corroboration"
-   }
-  ],
-  "status": "PUBLISHED",
-  "verification": {
-   "eventConfirmed": true,
-   "primarySourceFound": true,
-   "independentCorroboration": true,
-   "chronologyChecked": true,
-   "detailsChecked": true,
-   "supersededChecked": true,
-   "imageChecked": true,
-   "reviewer": "NewsVeria editorial desk (AI-assisted, standards in Editorial Policy)",
-   "notes": "NHL.com report on the Rangers announcement opened and checked: season-ending LTIR announced 2026-10-10; injury 2026-10-09 at Washington, 8:20 of 2nd period, right skate jammed into goalpost, could not bear weight, helped off by Durzi and Pettersson; official wording 'lower-body injury', right knee per on-ice reporting; Sullivan declined to confirm ACL tear. Reuters corroborates. Backup Korpisalo out four weeks (lower-body), Garand becomes No. 1; Shesterkin 3-1-0, 1.79 GAA, .927 SV% in five starts; first NHL goal Oct 1 vs Tampa Bay. No newer development supersedes at check time.",
-   "checkedAt": "2026-10-10T19:36:22Z"
-  },
-  "editorPick": false,
-  "breaking": false,
-  "pinned": false
- },
- {
-  "id": "art-0016-fusion-ignition-pppl-2026",
-  "slug": "fusion-ignition-shortcut-pppl-heat-first-plasma",
-  "headline": "Princeton Physicists Propose a 'Heat First' Shortcut to Fusion Ignition",
-  "socialHeadline": "A new theoretical roadmap to fusion ignition: heat the plasma first, then raise its density — PPPL physicists rework the 70-year-old Lawson criterion",
-  "summary": "Physicists at the U.S. Department of Energy's Princeton Plasma Physics Laboratory have published a theoretical framework suggesting a more energy-efficient path to fusion ignition: heat the plasma first, then increase its density — reversing the conventional order.",
-  "body": [
-   "Researchers at the Princeton Plasma Physics Laboratory (PPPL) have proposed a new route toward fusion ignition in a paper published in the journal Physical Review Letters, arguing that heating plasma before raising its density could reach ignition more efficiently than the traditional density-first approach.",
-   "The team — Luis Delgado-Aparicio, Masayuki Ono and Jonathan Menard — reformulated the Lawson criterion, the benchmark for fusion ignition set in the 1950s. Their analysis identifies a 'Cordey saddle' in the parameter space: pushing through it by heating first and adding fuel second lowers the energy required. The study also found that trace tungsten impurities — just one part in 10,000 — from reactor wall materials can roughly double the pressure needed for ignition, while the same loss physics acts as a natural safeguard against thermal runaway.",
-   "## A roadmap, not a reactor",
-   "The work is explicitly theoretical, built on calculations rather than experiments; the team plans computer simulations — 'digital experiments' — as the next step. It offers a roadmap for future fusion experiments, not a demonstration of net energy gain."
-  ],
-  "category": "Science",
-  "tags": [
-   "Fusion Energy",
-   "PPPL",
-   "Physics",
-   "Clean Energy"
-  ],
-  "author": "NewsVeria Newsroom",
-  "publishedAt": "2026-10-10T19:36:22Z",
-  "image": {
-   "src": "/images/media-generation-nv-fusion-ignition-shortcut-0-8f8b5592-c65c-495b-93ed-b74cd4623897.webp",
-   "alt": "Illustration of a fusion plasma chamber cross-section showing the heat-first-then-fuel process",
-   "caption": "Illustration: a plasma chamber diagram illustrates the proposed heat-first path to fusion ignition. NewsVeria uses clearly labelled generated illustrations and never presents imagery as real event photography.",
-   "credit": "NewsVeria generated illustration"
-  },
-  "sources": [
-   {
-    "name": "PPPL/DOE press release via Newswise — a novel path to fusion ignition: heat first, then add fuel",
-    "url": "https://www.newswise.com/doescience/a-novel-path-to-fusion-ignition-heat-first-then-add-fuel",
-    "role": "primary"
-   },
-   {
-    "name": "Phys.org — path to fusion ignition: heat first, then add fuel",
-    "url": "https://phys.org/news/2026-10-path-fusion-ignition-fuel.html",
-    "role": "corroboration"
-   }
-  ],
-  "status": "PUBLISHED",
-  "verification": {
-   "eventConfirmed": true,
-   "primarySourceFound": true,
-   "independentCorroboration": true,
-   "chronologyChecked": true,
-   "detailsChecked": true,
-   "supersededChecked": true,
-   "imageChecked": true,
-   "reviewer": "NewsVeria editorial desk (AI-assisted, standards in Editorial Policy)",
-   "notes": "PPPL press release (Newswise) opened and read: Delgado-Aparicio, Ono, Menard; 'Generalized Lawson-Cordey-Mills Accessibility of Fusion Ignition', Physical Review Letters 2026; heat-first-then-density via the Cordey saddle as a more energy-efficient path; trace tungsten (1 in 10,000) roughly doubles required pressure; loss physics doubles as thermal-runaway safeguard; explicitly theoretical, digital experiments planned next. Phys.org version corroborates with paper citation (DOI 10.1103/mmc9-nzfx). Framed as a roadmap, not a breakthrough demonstration. No superseding development at check time.",
-   "checkedAt": "2026-10-10T19:36:22Z"
-  },
-  "editorPick": true,
-  "breaking": false,
-  "pinned": false
- },
- {
-  "id": "art-0017-mit-star-brown-dwarf-2026",
-  "slug": "mit-astronomers-star-snacking-brown-dwarf-ztf-j0440",
-  "headline": "MIT Astronomers Catch a Star Slowly 'Snacking' on a Brown Dwarf 300 Light-Years Away",
-  "socialHeadline": "First of its kind: a red dwarf 300 light-years away is steadily siphoning matter from an orbiting brown dwarf — and the feast could last billions of years",
-  "summary": "MIT astronomers have observed, for the first time, a stable transfer of matter from a brown dwarf onto a small red dwarf star 300 light-years away — a slow stellar feast that could continue for hundreds of thousands to billions of years.",
-  "body": [
-   "Astronomers at the Massachusetts Institute of Technology announced on October 5 that they had caught a red dwarf star in the act of slowly accreting material from a closely orbiting brown dwarf companion — the first observed case of stable mass transfer between two low-mass objects.",
-   "The system, designated ZTF J0440+2325, lies about 300 light-years away and was spotted with the Zwicky Transient Facility at Palomar Observatory. The brown dwarf — roughly 25 times the mass of Jupiter — circles its host star, about 85 Jupiter masses, every 87 minutes, feeding it at a rate of around one hundred-thousandth of Earth's mass per year. The discovery was led by assistant professor Kevin Burdge and graduate student Aaron Householder, with collaborators from Caltech, the University of Hawaii, the Instituto de Astrofisica de Canarias, the Universidad de La Laguna and the Harvard-Smithsonian Center for Astrophysics, and published in the journal Nature Astronomy.",
-   "## Why it matters",
-   "The observation gives astronomers a new window into how the smallest stars and their companions evolve over cosmic timescales — a process in this system that could run for hundreds of thousands to billions of years."
-  ],
-  "category": "Science",
-  "tags": [
-   "Astronomy",
-   "MIT",
-   "Brown Dwarf",
-   "Space"
-  ],
-  "author": "NewsVeria Newsroom",
-  "publishedAt": "2026-10-10T19:36:22Z",
-  "image": {
-   "src": "/images/media-generation-nv-mit-star-brown-dwarf-0-af41de5d-9a4a-4a55-a0dc-a4eeb1963a6c.webp",
-   "alt": "Illustration of mass transfer in a binary system: a brown dwarf feeding a red dwarf star",
-   "caption": "Illustration: a binary-system diagram shows the brown dwarf's matter streaming onto the red dwarf. NewsVeria uses clearly labelled generated illustrations and never presents imagery as real event photography.",
-   "credit": "NewsVeria generated illustration"
-  },
-  "sources": [
-   {
-    "name": "MIT Kavli Institute press release — astronomers catch a star slowly snacking on a brown dwarf 300 light-years away",
-    "url": "https://www.space.mit.edu/news/astronomers-catch-a-star-slowly-snacking-on-a-brown-dwarf-300-light-years-away/",
-    "role": "primary"
-   },
-   {
-    "name": "Phys.org — astronomers catch a star slowly snacking on a brown dwarf",
-    "url": "https://phys.org/news/2026-10-astronomers-star-slowly-snacking-brown.html",
-    "role": "corroboration"
-   }
-  ],
-  "status": "PUBLISHED",
-  "verification": {
-   "eventConfirmed": true,
-   "primarySourceFound": true,
-   "independentCorroboration": true,
-   "chronologyChecked": true,
-   "detailsChecked": true,
-   "supersededChecked": true,
-   "imageChecked": true,
-   "reviewer": "NewsVeria editorial desk (AI-assisted, standards in Editorial Policy)",
-   "notes": "MIT Kavli Institute press release opened and read: announced October 5, 2026; led by Kevin Burdge and Aaron Householder; system ZTF J0440+2325 ~300 light-years away, found via Zwicky Transient Facility at Palomar; star ~85 Jupiter masses, brown dwarf ~25; 86.65-minute orbit; accretion ~1/100,000 Earth mass per year; could continue hundreds of thousands to billions of years; Nature Astronomy paper 'Stable mass transfer from a substellar object onto an M dwarf' (DOI 10.1038/s41550-026-02992-6). Phys.org version corroborates. No superseding development at check time.",
-   "checkedAt": "2026-10-10T19:36:22Z"
-  },
-  "editorPick": false,
-  "breaking": false,
-  "pinned": false
- },
- {
-  "id": "art-0018-hurricane-isaias-florida-2026",
-  "slug": "hurricane-isaias-florida-landfall-2026",
-  "headline": "Hurricane Isaias Kills at Least 4 and Leaves Hundreds of Thousands Without Power After Florida Landfall",
-  "socialHeadline": "Category 2 Hurricane Isaias slammed into the Florida panhandle near Destin — at least 4 dead and 400,000+ without power as the storm moved inland",
-  "summary": "Hurricane Isaias made landfall near Destin, Florida, as a Category 2 storm on October 9, killing at least four people and knocking out power to hundreds of thousands across the Florida panhandle, Alabama and western Georgia before weakening to a post-tropical cyclone.",
-  "body": [
-   "Hurricane Isaias came ashore near Destin, Florida, on the evening of October 9 as a Category 2 hurricane with sustained winds of 105 miles per hour, tearing across the Florida panhandle and into Alabama and Georgia before the National Hurricane Center downgraded it to a post-tropical cyclone and issued its final advisory.",
-   "At least four people were killed — two in Alabama, confirmed by Governor Kay Ivey, and two in Florida, confirmed by the Escambia County sheriff. Between 400,000 and more than 560,000 homes and businesses lost power across the Florida panhandle, Alabama and western Georgia, according to utility reports cited in live storm coverage.",
-   "Florida Governor Ron DeSantis and state emergency officials coordinated the response as Florida Power & Light and other utilities began damage assessments and restoration work. The storm's heaviest impacts were felt around the landfall zone near Destin, where high winds downed trees and power lines.",
-   "## Why it matters",
-   "Isaias is the most destructive Gulf hurricane of the 2026 season so far, and recovery in the panhandle will take days as crews work through widespread outages."
-  ],
-  "category": "World",
-  "tags": [
-   "Hurricane Isaias",
-   "Florida",
-   "Weather",
-   "US"
-  ],
-  "author": "NewsVeria Newsroom",
-  "publishedAt": "2026-10-11T02:02:17.739Z",
-  "image": {
-   "src": "/images/media-generation-nv-isaias-landfall-v2-0-2bf18423-4bbc-4395-9b9d-82eccf25fe73.webp",
-   "alt": "Illustration of a hurricane symbol over a simplified Florida panhandle coastline map",
-   "caption": "Illustration: a storm-structure diagram of the hurricane over the Florida panhandle. NewsVeria uses clearly labelled generated illustrations and never presents imagery as real event photography.",
-   "credit": "NewsVeria generated illustration"
-  },
-  "sources": [
-   {
-    "name": "USA Today — Hurricane Isaias live updates (citing NHC/NWS data, Gov. Ron DeSantis, Florida Power & Light, Alabama Gov. Kay Ivey)",
-    "url": "https://www.usatoday.com/story/news/weather/2026/10/10/hurricane-isaias-live-updates-forecast--live/92172297007/",
-    "role": "primary"
-   },
-   {
-    "name": "Pensacola News Journal — Hurricane Isaias live updates (citing National Hurricane Center)",
-    "url": "https://www.pnj.com/story/weather/hurricanes/2026/10/10/updates-hurricane-isaias-florida-pensacola-damage-today--live/92188656007/",
-    "role": "corroboration"
-   }
-  ],
-  "status": "PUBLISHED",
-  "verification": {
-   "eventConfirmed": true,
-   "primarySourceFound": true,
-   "independentCorroboration": true,
-   "chronologyChecked": true,
-   "detailsChecked": true,
-   "supersededChecked": true,
-   "imageChecked": true,
-   "reviewer": "NewsVeria editorial desk (AI-assisted, standards in Editorial Policy)",
-   "notes": "USA Today live-updates page opened and read: landfall near Destin FL ~8:30pm CT Oct 9 as Cat 2 (105 mph); downgraded to post-tropical with NHC final advisory; 4 dead (2 Alabama per Gov. Kay Ivey, 2 Florida per Escambia County sheriff); 400,000-560,000+ without power across FL panhandle, Alabama, western Georgia. Pensacola News Journal corroborates landfall details and NHC data. No superseding development at check time.",
-   "checkedAt": "2026-10-11T02:02:17.739Z"
-  },
-  "editorPick": false,
-  "breaking": false,
-  "pinned": false
- },
- {
-  "id": "art-0019-oklahoma-texas-red-river-2026",
-  "slug": "oklahoma-stuns-no1-texas-red-river-2026",
-  "headline": "Oklahoma Stuns No. 1 Texas 27-24 on Sandell's Last-Second Field Goal in Red River Rivalry",
-  "socialHeadline": "Tate Sandell's 47-yard field goal on the final play sealed Oklahoma's 27-24 upset of No. 1 Texas — the Sooners' first win over a top-ranked team since 2007",
-  "summary": "Oklahoma upset No. 1 Texas 27-24 in the Red River Rivalry at the Cotton Bowl on October 10, winning on Tate Sandell's 47-yard field goal on the final play of the game.",
-  "body": [
-   "Oklahoma stunned No. 1 Texas 27-24 in the Red River Rivalry at the Cotton Bowl in Dallas on Saturday, October 10, as kicker Tate Sandell drilled a 47-yard field goal on the final play to hand the Longhorns their first loss of the season.",
-   "Quarterback John Mateer engineered the winning drive, completing 13- and 20-yard passes to Isaiah Sategna to move the Sooners into field-goal range in the closing seconds. It was Oklahoma's first victory over a No. 1-ranked team since 2007.",
-   "Texas quarterback Arch Manning threw three touchdowns but was intercepted twice at decisive moments — Peyton Bowen returned one 42 yards for a pick-six, and Omarion Robinson intercepted Manning with 19 seconds left to set up the final drive. Texas (4-1) had entered the game unbeaten; Oklahoma improved to 3-2.",
-   "## Why it matters",
-   "The upset scrambles the College Football Playoff picture and gives Oklahoma a signature win in a rivalry that rarely disappoints."
-  ],
-  "category": "Sports",
-  "tags": [
-   "College Football",
-   "Oklahoma",
-   "Texas",
-   "Red River Rivalry"
-  ],
-  "author": "NewsVeria Newsroom",
-  "publishedAt": "2026-10-11T02:02:17.739Z",
-  "image": {
-   "src": "/images/media-generation-nv-oklahoma-texas-v2-0-27824912-f5f0-4a8b-95d3-be66c248d81f.webp",
-   "alt": "Illustration of an American football arcing toward goalposts under stadium lights",
-   "caption": "Illustration: a field goal sails toward the uprights in a stylised college football stadium. NewsVeria uses clearly labelled generated illustrations and never presents imagery as real event photography.",
-   "credit": "NewsVeria generated illustration"
-  },
-  "sources": [
-   {
-    "name": "ESPN College Football — Oklahoma stuns No. 1 Texas on last-second FG (Red River)",
-    "url": "https://www.espn.com/college-football/story/_/id/50151802/oklahoma-stuns-no-1-texas-last-second-fg-red-river",
-    "role": "primary"
-   },
-   {
-    "name": "NBC Sports — Oklahoma upsets No. 1 Texas on Tate Sandell's game-ending 47-yard field goal",
-    "url": "https://www.nbcsports.com/college-football/news/oklahoma-upsets-no-1-texas-on-tate-sandells-game-ending-47-yard-field-goal",
-    "role": "corroboration"
-   }
-  ],
-  "status": "PUBLISHED",
-  "verification": {
-   "eventConfirmed": true,
-   "primarySourceFound": true,
-   "independentCorroboration": true,
-   "chronologyChecked": true,
-   "detailsChecked": true,
-   "supersededChecked": true,
-   "imageChecked": true,
-   "reviewer": "NewsVeria editorial desk (AI-assisted, standards in Editorial Policy)",
-   "notes": "ESPN discovery feed item matched the confirmed event (story slug itself describes the outcome); ESPN pages were not directly fetchable by the verification tool (domain blocked), so all decisive facts were confirmed via the NBC Sports game report opened and read: 27-24 final, Cotton Bowl Dallas Oct 10, Sandell 47-yard FG on final play, Mateer 13- and 20-yard passes to Sategna, Manning 3 TDs/2 INTs (Bowen 42-yard pick-six, Robinson INT with 0:19 left), Oklahoma 3-2 first win over No. 1 since 2007, Texas 4-1 first loss. No superseding development at check time.",
-   "checkedAt": "2026-10-11T02:02:17.739Z"
-  },
-  "editorPick": false,
-  "breaking": false,
-  "pinned": false
- },
- {
-  "id": "art-0020-vinicius-red-card-villarreal-2026",
-  "slug": "vinicius-red-card-hair-pull-villarreal-2026",
-  "headline": "Vinicius Apologises After Red Card for Hair Pull in Real Madrid's Win Over Villarreal",
-  "socialHeadline": "Sent off for pulling Nathan Saliba's hair, Vinicius Jr faces a ban that could rule him out of El Clasico — and he has apologised to the team and fans",
-  "summary": "Real Madrid forward Vinicius Jr was sent off for pulling Villarreal defender Nathan Saliba's hair during Madrid's 1-0 LaLiga win on October 10, and faces a suspension that could rule him out of the El Clasico against Barcelona.",
-  "body": [
-   "Real Madrid's Vinicius Jr was shown a straight red card during Saturday's 1-0 LaLiga win over Villarreal at the Santiago Bernabeu after pulling the hair of Villarreal defender Nathan Saliba. The Brazilian, who had come on as a 52nd-minute substitute, was dismissed about 20 minutes later.",
-   "The incident overshadowed the match: a Real Madrid goal that would have made it 2-0 was disallowed after a VAR review in the same passage of play. Vinicius later apologised on social media, saying sorry to the team and the fans.",
-   "Under Spanish football federation rules on violent conduct (Article 130), the forward faces a suspension of one to three matches — a ban that could rule him out of the El Clasico against Barcelona at Camp Nou on October 25. Madrid's upcoming fixtures also include Sevilla and Racing Santander.",
-   "## Why it matters",
-   "Losing Vinicius for the season's first Clasico would be a major blow to Real Madrid's title ambitions."
-  ],
-  "category": "Sports",
-  "tags": [
-   "LaLiga",
-   "Real Madrid",
-   "Vinicius Jr",
-   "Football"
-  ],
-  "author": "NewsVeria Newsroom",
-  "publishedAt": "2026-10-11T02:02:17.739Z",
-  "image": {
-   "src": "/images/media-generation-nv-vinicius-redcard-0-941f7f01-6ae4-42c3-8f69-16a44d685727.webp",
-   "alt": "Illustration of a referee's red card over abstract football pitch markings",
-   "caption": "Illustration: a red card is raised over stylised pitch markings. NewsVeria uses clearly labelled generated illustrations and never presents imagery as real event photography.",
-   "credit": "NewsVeria generated illustration"
-  },
-  "sources": [
-   {
-    "name": "CNA Sport — Real's Vinicius apologises after red card for hair pull against Villarreal",
-    "url": "https://www.channelnewsasia.com/sport/reals-vinicius-apologises-after-red-card-hair-pull-against-villarreal-6449791",
-    "role": "primary"
-   },
-   {
-    "name": "Reuters — Real's Vinicius apologises after red card for hair pull against Villarreal",
-    "url": "https://www.reuters.com/sports/soccer/reals-vinicius-apologises-after-red-card-hair-pull-against-villarreal-2026-10-10/",
-    "role": "corroboration"
-   }
-  ],
-  "status": "PUBLISHED",
-  "verification": {
-   "eventConfirmed": true,
-   "primarySourceFound": true,
-   "independentCorroboration": true,
-   "chronologyChecked": true,
-   "detailsChecked": true,
-   "supersededChecked": true,
-   "imageChecked": true,
-   "reviewer": "NewsVeria editorial desk (AI-assisted, standards in Editorial Policy)",
-   "notes": "CNA page opened and read: red card for hair pull on Nathan Saliba, came on 52nd min, sent off ~20 min later, Bernabeu 1-0 win Oct 10, apology ('sorry to the team and the fans'), possible El Clasico absence. Reuters corroborates: VAR-disallowed goal in the same passage, 1-3 match ban under RFEF Art. 130 violent conduct, El Clasico Oct 25 at Camp Nou, next fixtures Sevilla/Barca/Racing Santander. No superseding development at check time.",
-   "checkedAt": "2026-10-11T02:02:17.739Z"
-  },
-  "editorPick": false,
-  "breaking": false,
-  "pinned": false
- },
- {
-  "id": "art-0021-gaza-ceasefire-protests-2026",
-  "slug": "global-protests-mark-gaza-ceasefire-anniversary-2026",
-  "headline": "Thousands March Worldwide Marking One Year Since Gaza Ceasefire",
-  "socialHeadline": "From London to Berlin to New York, thousands joined pro-Palestinian marches one year after the Gaza ceasefire took effect",
-  "summary": "Thousands of pro-Palestinian demonstrators marched in cities including London, Berlin, New York, Athens and Dublin on October 10, marking one year since the Gaza ceasefire took effect.",
-  "body": [
-   "Thousands of pro-Palestinian demonstrators took to the streets in cities across Europe and the United States on Saturday, October 10, to mark one year since the Gaza ceasefire took effect.",
-   "In London, thousands marched on a route near parliament in a demonstration organised by the Palestine Coalition; police said 20 people were arrested, and a small pro-Israel counter-demonstration also took place. In Berlin, police estimated around 3,500 participants in a march organised by United for Palestine. Demonstrations were also reported in New York, Athens and Dublin, where the Irish Palestine Solidarity Campaign organised a rally.",
-   "Organisers said the marches were intended to press for a lasting peace. The Gaza health ministry says around 1,450 Palestinians have been killed by Israeli strikes since the ceasefire began.",
-   "## Why it matters",
-   "The anniversary marches show the Gaza conflict remains a potent force in street politics a year after the ceasefire, with organisers vowing to keep pressure on governments."
-  ],
-  "category": "World",
-  "tags": [
-   "Gaza",
-   "Protests",
-   "Ceasefire",
-   "Middle East"
-  ],
-  "author": "NewsVeria Newsroom",
-  "publishedAt": "2026-10-11T02:02:17.739Z",
-  "image": {
-   "src": "/images/media-generation-nv-gaza-ceasefire-protests-0-a92847ff-bfd8-435a-a373-4b55c6c74222.webp",
-   "alt": "Illustration of abstract demonstrators holding blank placards beneath an olive branch",
-   "caption": "Illustration: stylised marchers with blank placards under an olive branch. NewsVeria uses clearly labelled generated illustrations and never presents imagery as real event photography.",
-   "credit": "NewsVeria generated illustration"
-  },
-  "sources": [
-   {
-    "name": "Al Jazeera — Global protests for Gaza solidarity (newsfeed)",
-    "url": "https://www.aljazeera.com/video/newsfeed/2026/10/11/11-10-sv-global-protests-for-gaza-solidarity-uk?traffic_source=rss",
-    "role": "primary"
-   },
-   {
-    "name": "AFP wire (republished) — Thousands join pro-Palestinian marches in several European cities",
-    "url": "https://www.morningchronicle.co.uk/Politics/775459-thousands-join-pro-palestinian-marches-in-several-european-cities.html",
-    "role": "corroboration"
-   }
-  ],
-  "status": "PUBLISHED",
-  "verification": {
-   "eventConfirmed": true,
-   "primarySourceFound": true,
-   "independentCorroboration": true,
-   "chronologyChecked": true,
-   "detailsChecked": true,
-   "supersededChecked": true,
-   "imageChecked": true,
-   "reviewer": "NewsVeria editorial desk (AI-assisted, standards in Editorial Policy)",
-   "notes": "Al Jazeera newsfeed page opened and read: demonstrations in NY, London, Berlin, Athens, Dublin on Oct 10 marking one year since Gaza ceasefire. AFP wire (republished, opened) corroborates with on-the-ground detail: London thousands near parliament (Palestine Coalition), ~3,500 in Berlin per police (United for Palestine), Dublin (Irish Palestine Solidarity Campaign), 20 arrests in London, small pro-Israel counter-demo, ~1,450 Palestinians killed by Israeli strikes since ceasefire per Gaza health ministry. Factual protest reporting; not an election, accusation or unverified claim. No superseding development at check time.",
-   "checkedAt": "2026-10-11T02:02:17.739Z"
-  },
-  "editorPick": false,
-  "breaking": false,
-  "pinned": false
- },
- {
-  "id": "art-0022-yorkshire-tiger-enclosure-2026",
-  "slug": "man-dies-yorkshire-wildlife-park-tiger-enclosure-2026",
-  "headline": "Man Dies After Entering Tiger Enclosure at Yorkshire Wildlife Park in England",
-  "socialHeadline": "A man who entered a tiger enclosure at Yorkshire Wildlife Park was attacked and pronounced dead at the scene; police say there is no wider risk to the public",
-  "summary": "A man died on October 10 after entering the tiger enclosure at Yorkshire Wildlife Park near Doncaster, England, where he was attacked by a Siberian tiger, South Yorkshire Police said.",
-  "body": [
-   "A man died on Saturday, October 10, after entering the tiger enclosure at Yorkshire Wildlife Park near Doncaster, England. South Yorkshire Police said officers were called at 1:35pm local time following reports of a man inside the enclosure, where a Siberian tiger attacked him.",
-   "The man was pronounced dead at the scene despite the efforts of paramedics, police said. His family has been notified. The tiger was uninjured, and police said there was no wider risk to the public.",
-   "The park was evacuated and closed for the weekend following the incident. Witnesses reported seeing the man jump into the enclosure and hearing shots fired into the pen.",
-   "## Why it matters",
-   "The death is a rare and shocking incident at a major UK wildlife attraction; the park and police are expected to review how the man gained access to the enclosure."
-  ],
-  "category": "World",
-  "tags": [
-   "UK",
-   "Wildlife",
-   "Yorkshire"
-  ],
-  "author": "NewsVeria Newsroom",
-  "publishedAt": "2026-10-11T02:02:17.739Z",
-  "image": {
-   "src": "/images/media-generation-nv-yorkshire-tiger-enclosure-0-26986a1a-01a1-4360-8039-05c4474b988f.webp",
-   "alt": "Illustration of a tiger silhouette behind enclosure bars with a wildlife safety notice motif",
-   "caption": "Illustration: a stylised tiger behind enclosure bars with a safety-notice motif. NewsVeria uses clearly labelled generated illustrations and never presents imagery as real event photography.",
-   "credit": "NewsVeria generated illustration"
-  },
-  "sources": [
-   {
-    "name": "CNN — Serious incident at tiger enclosure, UK park (quoting South Yorkshire Police statement in full)",
-    "url": "https://www.cnn.com/2026/10/10/uk/serious-incident-tiger-enclosure-uk-park?cid=external-feeds_iluminar_meta",
-    "role": "primary"
-   },
-   {
-    "name": "People — Man mauled to death after entering tiger enclosure at Yorkshire Wildlife Park",
-    "url": "https://people.com/man-mauled-to-death-after-entering-tiger-enclosure-yorkshire-wildlife-park-zoo-england-12167813",
-    "role": "corroboration"
-   }
-  ],
-  "status": "PUBLISHED",
-  "verification": {
-   "eventConfirmed": true,
-   "primarySourceFound": true,
-   "independentCorroboration": true,
-   "chronologyChecked": true,
-   "detailsChecked": true,
-   "supersededChecked": true,
-   "imageChecked": true,
-   "reviewer": "NewsVeria editorial desk (AI-assisted, standards in Editorial Policy)",
-   "notes": "CNN page opened and read, quoting South Yorkshire Police statement in full: man entered enclosure at Yorkshire Wildlife Park near Doncaster, police called 1:35pm Oct 10, Siberian tiger attacked, man pronounced dead at scene, family notified, tiger uninjured, no wider public risk, park evacuated and closed for weekend. People corroborates with witness detail (man seen jumping in, shots heard into pen). Note: pipeline's stored sourceUrl for this candidate was mismatched (pointed to an unrelated CBS video); story located via search instead. No superseding development at check time.",
-   "checkedAt": "2026-10-11T02:02:17.739Z"
-  },
-  "editorPick": false,
-  "breaking": false,
-  "pinned": false
- },
- {
-  "id": "art-0023-southeast-asia-haze-2026",
-  "slug": "southeast-asia-haze-johor-schools-singapore-2026",
-  "headline": "Haze Chokes Southeast Asia: Johor Schools Shut Until Oct 16, Singapore Air Stays Unhealthy",
-  "socialHeadline": "Johor extended school closures to Oct 16 and Singapore's air stayed unhealthy as smoke from Indonesian fires drifts across the region",
-  "summary": "Johor state extended school closures to October 16 and Singapore's air quality remained in the unhealthy range as smoke haze from fires in Indonesia's Sumatra and Kalimantan drifted across Southeast Asia.",
-  "body": [
-   "The Malaysian state of Johor extended the closure of all schools and educational institutions by five more days, through October 16, 2026, as haze worsened across the region. The announcement was made late Saturday, October 10, by state education and information committee chairman Muhammad Naqib Md Ghazali, by decree of the Regent of Johor, Tunku Mahkota Ismail.",
-   "The extension follows a statewide closure on October 8-9 and affects 1,198 schools and 617,258 students, according to The Star. Students will continue home-based learning and scheduled assessments have been postponed. Officials cited forecasts that winds from Indonesia's Kalimantan between October 13 and 15 could bring more transboundary pollution; 15 areas in Malaysia recorded unhealthy Air Pollutant Index readings on Sunday morning, eight of them in Johor.",
-   "In Singapore, air quality remained in the unhealthy range across all five regions on October 11. The National Environment Agency said the 24-hour PSI ranged from 115 to 152 as of 9am Sunday, after the central region hit 192 on Friday evening — a season high — and warned the index could exceed 200, the 'very unhealthy' threshold. The haze comes from smoke drifting on east-southeasterly winds from southern Sumatra and Kalimantan. A 28-agency Haze Task Force has been convened, and the Formula 1 Singapore Grand Prix weekend is proceeding with contingency measures in place.",
-   "## Why it matters",
-   "The annual transboundary haze season is again disrupting daily life across the region, with authorities in both countries warning conditions could deteriorate further in the coming days."
-  ],
-  "category": "World",
-  "tags": [
-   "Haze",
-   "Malaysia",
-   "Singapore",
-   "Air Quality"
-  ],
-  "author": "NewsVeria Newsroom",
-  "publishedAt": "2026-10-11T02:02:17.739Z",
-  "image": {
-   "src": "/images/media-generation-nv-southeast-asia-haze-v2-0-692891b7-533d-4269-84ca-e280211fdc15.webp",
-   "alt": "Illustration of a city skyline and school building under haze bands with an air-quality gauge",
-   "caption": "Illustration: a school and city skyline under layered haze with an air-quality gauge. NewsVeria uses clearly labelled generated illustrations and never presents imagery as real event photography.",
-   "credit": "NewsVeria generated illustration"
-  },
-  "sources": [
-   {
-    "name": "CNA — Johor extends school closures to Oct 16 as haze worsens",
-    "url": "https://www.channelnewsasia.com/asia/malaysia-johor-school-closure-extended-oct-16-6449831",
-    "role": "primary"
-   },
-   {
-    "name": "CNA — Air quality remains unhealthy across Singapore amid haze",
-    "url": "https://www.channelnewsasia.com/singapore/haze-persists-singapore-air-quality-6449771",
-    "role": "corroboration"
-   }
-  ],
-  "status": "PUBLISHED",
-  "verification": {
-   "eventConfirmed": true,
-   "primarySourceFound": true,
-   "independentCorroboration": true,
-   "chronologyChecked": true,
-   "detailsChecked": true,
-   "supersededChecked": true,
-   "imageChecked": true,
-   "reviewer": "NewsVeria editorial desk (AI-assisted, standards in Editorial Policy)",
-   "notes": "Combined article from two candidates covering the same transboundary haze event. CNA Johor page opened and read: closure extended Oct 12-16 announced Oct 10 by Muhammad Naqib Md Ghazali by decree of Regent Tunku Mahkota Ismail; 1,198 schools, 617,258 students (The Star via CNA); home-based learning; Kalimantan wind forecast Oct 13-15; 15 unhealthy-API areas (8 in Johor). CNA Singapore page opened and read: unhealthy across all five regions Oct 11; 24-hr PSI 115-152 (9am Sun), central region 192 Fri evening season high; NEA evening advisory Oct 10; smoke from southern Sumatra/Kalimantan; 28-agency Haze Task Force; F1 Singapore GP weekend continues with contingencies. Goody Feed corroborates Johor extension. No superseding development at check time.",
-   "checkedAt": "2026-10-11T02:02:17.739Z"
-  },
-  "editorPick": false,
-  "breaking": false,
-  "pinned": false
- }
 ]
