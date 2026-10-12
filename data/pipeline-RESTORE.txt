@@ -1,4 +1,1 @@
-data/pipeline.json is backed up here as two halves because a single
-push_files call cannot transport more than ~128KB per argument.
-Restore: cat data/pipeline.json.part-01 data/pipeline.json.part-02 > data/pipeline.json
-The result is minified JSON with keys: candidates, meta
+cat data/pipeline.json.part-0* > data/pipeline.json restores it
