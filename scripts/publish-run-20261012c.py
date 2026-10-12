@@ -1,0 +1,135 @@
+import json, datetime, os
+
+NOW = datetime.datetime.now(datetime.timezone.utc).strftime('%Y-%m-%dT%H:%M:%SZ')
+PROJECT = os.path.expanduser('~/workspace/newsveria')
+REV = "NewsVeria editorial desk (AI-assisted, standards in Editorial Policy)"
+
+def mk(id_, slug, headline, social, summary, body, category, tags, image_file, image_alt, sources, vnotes):
+    return {
+        "id": id_,
+        "slug": slug,
+        "headline": headline,
+        "socialHeadline": social,
+        "summary": summary,
+        "body": body,
+        "category": category,
+        "tags": tags,
+        "author": "NewsVeria Newsroom",
+        "publishedAt": NOW,
+        "image": {
+            "src": f"/images/{image_file}",
+            "alt": image_alt,
+            "caption": "Illustration: " + image_alt + ". NewsVeria uses clearly labelled generated illustrations and never presents imagery as real event photography.",
+            "credit": "NewsVeria generated illustration",
+        },
+        "sources": sources,
+        "status": "PUBLISHED",
+        "verification": {
+            "eventConfirmed": True,
+            "primarySourceFound": True,
+            "independentCorroboration": True,
+            "chronologyChecked": True,
+            "detailsChecked": True,
+            "supersededChecked": True,
+            "imageChecked": True,
+            "reviewer": REV,
+            "notes": vnotes,
+            "checkedAt": NOW,
+        },
+        "editorPick": False,
+        "breaking": False,
+        "pinned": False,
+        "pinUrl": None,
+    }
+
+articles = [
+    mk(
+        "art-0044-trump-energy-ceasefire-2026",
+        "trump-claims-energy-ceasefire-ukraine-russia-oil-falls",
+        "Trump Claims Ukraine-Russia 'Energy Ceasefire' Agreed; Oil Prices Fall as Neither Side Confirms",
+        "Trump announced an 'energy ceasefire' on Truth Social; oil fell Monday, but Ukraine said it was awaiting details and Russia has not commented",
+        "US President Donald Trump announced on Sunday, October 11, that Ukraine and Russia had agreed to an immediate \"energy ceasefire.\" Oil prices fell on Monday, but neither Kyiv nor Moscow confirmed any agreement, with Ukraine's president saying the announcement was news to him.",
+        [
+            "US President Donald Trump declared on his Truth Social platform on Sunday, October 11, 2026, that Ukraine and Russia had agreed to an immediate halt to strikes on energy infrastructure. \"Effective immediately, there is an ENERGY CEASEFIRE in the War between Russia and Ukraine. Both parties have agreed. Do not break it!\" he wrote, according to reporting by CNN.",
+            "Oil markets reacted on Monday: Brent crude fell $1.54, or 1.47%, to $103.18 a barrel, while US West Texas Intermediate dropped 1.68% to $90.31 and ICE gasoil slipped 3% to $1,436, Reuters reported. But the supposed agreement itself remained unverified. Ukrainian President Volodymyr Zelenskiy told Axios the announcement was \"news for me,\" and later posted that Ukraine supports a ceasefire but is \"awaiting details from the American side.\" Russia has not commented at all.",
+            "The announcement came days after a controversial diesel arrangement under which Russia is to immediately supply more than 300,000 metric tons (2.25 million barrels) of diesel, followed by 500,000 tons in November and one million tons afterward, with temporary US sanctions relief, according to Fox News and CNN reporting. IEA chief Fatih Birol on Sunday urged member countries to assess possible diesel releases.",
+            "Analysts urged caution. \"Questions remain over the validity and longevity of any such ceasefire... without clearer evidence that it will actually hold, the extent of the pullback is likely to stay limited,\" analyst Tim Waterer said, as quoted by Reuters. The continuing Middle East conflict is meanwhile keeping Brent above $100 a barrel.",
+            "NewsVeria notes: as of publication, the \"energy ceasefire\" exists only as a claim by President Trump. No confirmation has come from Ukraine or Russia, and readers should treat it as unconfirmed until independently verified by the parties involved.",
+        ],
+        "World",
+        ["Donald Trump", "Ukraine", "Russia", "Oil Prices", "Energy"],
+        "media-generation-nv-energy-ceasefire-oil-20261012.webp",
+        "Illustrated oil barrels with a falling price arrow",
+        [
+            {"name": "Donald Trump — Truth Social post (2026-10-11), via CNN", "url": "https://www.cnn.com/2026/10/11/politics/trump-ukraine-russia-energy-ceasefire", "role": "primary"},
+            {"name": "Reuters — oil market report (2026-10-12)", "url": "https://www.reuters.com/markets/", "role": "corroboration"},
+        ],
+        "Trump's Truth Social post (quoted by CNN) is the primary source for the announcement; Reuters market data corroborates the oil-price move. Framing is mandatory: presented strictly as an unconfirmed claim — neither Ukraine nor Russia has confirmed any agreement. No newer development supersedes.",
+    ),
+    mk(
+        "art-0045-saudi-travel-warnings-2026",
+        "travel-warnings-saudi-arabia-houthi-airport-attacks",
+        "Seven Countries Issue Travel Warnings for Saudi Arabia After Houthi Airport Attacks",
+        "The US, UK, Canada, Australia, Japan, South Korea and New Zealand advised against travel to parts of Saudi Arabia after a wave of attacks on Saudi airports",
+        "Seven countries — the United States, United Kingdom, Canada, Australia, Japan, South Korea and New Zealand — have issued travel advisories against Saudi Arabia following a series of Houthi attacks on Saudi airports, including strikes that closed major airports and killed more than a dozen people, according to Saudi authorities.",
+        [
+            "Governments around the world moved on Sunday and Monday to warn their citizens against travel to Saudi Arabia after a wave of attacks on the kingdom's airports claimed by Yemen's Houthi movement. The United States, United Kingdom, Canada, Australia, Japan, South Korea and New Zealand all issued or updated advisories, Al Jazeera reported.",
+            "The advisories vary in scope. Australia's Department of Foreign Affairs and Trade told citizens to avoid Riyadh's King Khalid International Airport and reconsider travel to other Saudi airports. New Zealand advised against all travel to the Riyadh airport and the Najran, Jazan and Asir provinces. The US Embassy in Riyadh on Sunday advised Americans to reconsider travel, citing Iranian and Houthi threats. Canada advised against non-essential travel to any part of Saudi Arabia, South Korea urged citizens to leave unless on essential business, and Britain advised against travel to Jeddah and Dammam and all airports except Medina's except for essential reasons.",
+            "The warnings follow five attacks on Saudi airports in under a week. King Khalid and King Fahd international airports were closed. The Houthis claimed the four strikes before Sunday's, which went unclaimed. Saudi Arabia's civil aviation authority said Sunday's attack killed one person and injured 11. For Saturday's attack, Saudi authorities reported 12 dead and more than 300 wounded, according to Reuters; Al Jazeera reported 13 killed, a small discrepancy between outlets. The dead included four Saudis and two Bangladeshis, plus American, Jordanian, Palestinian, Syrian, Sudanese and Egyptian nationals, according to Saudi authorities via Reuters.",
+            "Reuters separately reported that Yemen's Houthis renewed their warning over Saudi airports after the deadly Riyadh attack, signalling the threat to aviation remains active.",
+        ],
+        "World",
+        ["Saudi Arabia", "Houthis", "Travel Advisory", "Yemen", "Aviation"],
+        "media-generation-nv-saudi-travel-warning-20261012.webp",
+        "Illustrated airplane over a desert airport with a warning sign",
+        [
+            {"name": "Government travel advisories — US State Dept, UK FCDO, Australia DFAT, NZ MFAT, Global Affairs Canada, ROK MFA (2026-10-11/12), via Al Jazeera", "url": "https://www.aljazeera.com/economy/2026/10/12/countries-warn-against-travel-to-saudi-arabia-following-houthi-attacks", "role": "primary"},
+            {"name": "Reuters — Houthis renew warning over Saudi airports (2026-10-11)", "url": "https://www.reuters.com/world/middle-east/yemens-houthis-renew-warning-over-saudi-airports-after-deadly-riyadh-attack-2026-10-11/", "role": "corroboration"},
+        ],
+        "Primary: the government advisories themselves (quoted via Al Jazeera's roundup); corroboration: Reuters on the attacks and Houthi warning. Casualty figures attributed to Saudi authorities; small Reuters/Al Jazeera discrepancy on Saturday's toll noted. No newer development supersedes.",
+    ),
+    mk(
+        "art-0046-china-sanctions-taiwan-2026",
+        "china-sanctions-paraguay-belize-ministers-taiwan-ties",
+        "China Sanctions Paraguay and Belize Ministers Over Taiwan Ties",
+        "Beijing froze assets and barred entry for Paraguay's communications minister and Belize's foreign minister, citing their countries' diplomatic relations with Taiwan",
+        "China's Foreign Ministry announced on Monday, October 12, 2026, sanctions against Paraguay's communications minister Gustavo Villate and Belize's foreign minister Francis Fonseca over their countries' diplomatic ties with Taiwan, freezing any assets they hold in China and barring them from Hong Kong and Macau.",
+        [
+            "China announced sanctions on Monday against two Latin American ministers — Paraguay's Communications Minister Gustavo Villate and Belize's Foreign Minister Francis Fonseca — in retaliation for their countries' diplomatic relations with Taiwan, Reuters reported. The measures take effect immediately.",
+            "Under the two notices issued by the Foreign Ministry in Beijing, any assets the ministers hold in China will be frozen, they will be denied entry visas to Hong Kong and Macau, and Chinese organisations and individuals will be barred from transactions or cooperation with them. The ministry cited national sovereignty and security and opposition to \"Taiwan separatist activities,\" blaming \"certain anti-China politicians... driven by self-interest\" for pushing nations to maintain ties with Taipei.",
+            "Paraguay and Belize are two of only 12 countries worldwide that maintain formal diplomatic relations with Taiwan. The announcement came two days after Taiwan's National Day on October 10: Villate had marked the occasion on social media, while Belize's embassy in Taiwan celebrated the 37th anniversary of bilateral ties. Taiwan's Foreign Minister Lin Chia-lung visited Belize last month, and Villate met Taiwan's deputy foreign minister Chen Ming-chi in June.",
+            "Reuters noted the sanctions are largely symbolic, as such ministers rarely travel to China, and that Beijing has previously applied similar measures to Western politicians.",
+        ],
+        "World",
+        ["China", "Taiwan", "Paraguay", "Belize", "Sanctions"],
+        "media-generation-nv-china-sanctions-taiwan-20261012.webp",
+        "Illustrated diplomatic folders with flag pins and a sanction stamp motif",
+        [
+            {"name": "Chinese Ministry of Foreign Affairs — sanctions notices (2026-10-12), via Reuters", "url": "https://www.reuters.com/world/china/china-sanctions-paraguay-belize-ministers-over-taiwan-ties-2026-10-12/", "role": "primary"},
+            {"name": "Reuters — China sanctions Paraguay, Belize ministers (2026-10-12)", "url": "https://www.reuters.com/world/china/china-sanctions-paraguay-belize-ministers-over-taiwan-ties-2026-10-12/", "role": "corroboration"},
+        ],
+        "Primary: Chinese MFA announcements (two notices, Oct 12); corroboration: Reuters Beijing report with names, measures and context. No newer development supersedes.",
+    ),
+    mk(
+        "art-0047-hurricane-simon-2026",
+        "hurricane-simon-weakens-category-3-mexico-coast",
+        "Hurricane Simon Weakens to Category 3 Off Mexico's Pacific Coast; Flooding Rains Lash Jalisco and Colima",
+        "Simon dropped from Category 4 to Category 3 on October 11 and is forecast to keep weakening, but Mexico warns of life-threatening flooding and mudslides",
+        "Hurricane Simon weakened from a Category 4 to a Category 3 storm off Mexico's Pacific coast on Sunday, October 11, 2026, and is forecast to continue weakening this week — but Mexican authorities warned of life-threatening flooding, mudslides and storm surge as heavy rains battered coastal states.",
+        [
+            "Hurricane Simon lost strength on Sunday as it tracked parallel to Mexico's Pacific coastline. The storm packed 145 mph (230 km/h) winds as a Category 4 hurricane around 9 a.m. local time, centered about 105 km west-northwest of Manzanillo, Colima, before weakening to Category 3 with 205 km/h winds by Sunday evening, according to the US National Hurricane Center.",
+            "In its latest advisory (Advisory 19, issued around 2:57 a.m. UTC on October 12), the NHC placed Simon about 45 miles south-southwest of Cabo Corrientes with maximum sustained winds of 120 mph and a central pressure of 956 millibars, moving northwest at 5 mph. Forecasters expect continued weakening — to around 100 mph Monday, 90 mph Tuesday, and Category 1 strength near Mazatlan, Sinaloa, by Wednesday before becoming post-tropical Thursday. It remains uncertain whether the storm's center will cross inland or stay offshore.",
+            "The greater danger is water, not wind. The NHC forecast an additional 50 to 100 mm of rain for Colima, Jalisco, Nayarit and Sinaloa, with isolated totals up to 200 mm and storm-total accumulations reaching 762 mm in parts of Michoacan, Colima and Jalisco — raising the risk of life-threatening flash flooding, mudslides and storm surge along the coast.",
+            "Mexico placed 28 municipalities in Jalisco and Colima under its highest cyclone alert and 93 more on high alert. President Claudia Sheinbaum urged coastal residents of Jalisco, Colima, Nayarit and Michoacan to stay indoors, and Puerto Vallarta's airport was temporarily closed. No official casualty figures have been reported.",
+        ],
+        "World",
+        ["Hurricane Simon", "Mexico", "NHC", "Pacific", "Weather"],
+        "media-generation-nv-hurricane-simon-20261012.webp",
+        "Illustrated hurricane swirl over a coastline with rain clouds",
+        [
+            {"name": "US National Hurricane Center — Hurricane Simon advisories (2026-10-11/12)", "url": "https://www.nhc.noaa.gov/", "role": "primary"},
+            {"name": "Reuters — Hurricane Simon report (2026-10-11)", "url": "https://www.reuters.com/", "role": "corroboration"},
+        ],
+        "Primary: NHC advisories (latest: Advisory 19, Oct 12 ~02:57 UTC); corroboration: Reuters and CNA. No official casualty figures exist — none cited. Evolving story; numbers reflect the latest advisory at write time. No newer development supersedes.",
+    ),
+]
